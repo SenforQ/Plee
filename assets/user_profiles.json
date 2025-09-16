@@ -1,0 +1,111 @@
+[
+  {
+    "plessId": "luna_star_001",
+    "plessNickName": "Luna_Star",
+    "plessUserIcon": "assets/female/1/female_1_figure_1.webp",
+    "plessShowPhotoArray": [
+      "assets/female/1/female_1_figure_1.webp",
+      "assets/female/1/female_1_figure_2.webp",
+      "assets/female/1/female_1_figure_3.webp"
+    ],
+    "plessShowMotto": "Every star has its own light, and so do you.",
+    "plessShowFollowNum": 7,
+    "plessGender": "female",
+    "plessSayHi": "Hey there! I'm Luna, an INFP who loves deep conversations and helping others discover their inner light. What's on your mind today?",
+    "plessShareText": "As an INFP, I'm passionate about understanding people's emotions and helping them navigate through life's challenges. I believe everyone has a unique story worth sharing.",
+    "plessPlayMusic": "assets/female/1/female_1_music.mp3",
+    "playMuiscTime": 15,
+    "figure_express": "assets/img_edit_mysterious_20250910.webp"
+  },
+  {
+    "plessId": "alex_dreamer_002",
+    "plessNickName": "Alex_Dreamer",
+    "plessUserIcon": "assets/female/2/female_2_figure_1.webp",
+    "plessShowPhotoArray": [
+      "assets/female/2/female_2_figure_1.webp",
+      "assets/female/2/female_2_figure_2.webp",
+      "assets/female/2/female_2_figure_3.webp"
+    ],
+    "plessShowMotto": "Dreams are the seeds of reality.",
+    "plessShowFollowNum": 5,
+    "plessGender": "female",
+    "plessSayHi": "Hello! I'm Alex, an ENFP who thrives on inspiring others and exploring new possibilities. Ready to share some dreams together?",
+    "plessShareText": "Being an ENFP means I'm naturally drawn to helping people explore their potential and find creative solutions to life's puzzles. Let's dream big together!",
+    "plessPlayMusic": "assets/female/2/female_2_music.mp3.mp3",
+    "playMuiscTime": 18,
+    "figure_express": "assets/img_edit_happy_20250910.webp"
+  },
+  {
+    "plessId": "maya_healer_003",
+    "plessNickName": "Maya_Healer",
+    "plessUserIcon": "assets/female/3/female_3_figure_1.webp",
+    "plessShowPhotoArray": [
+      "assets/female/3/female_3_figure_1.webp",
+      "assets/female/3/female_3_figure_2.webp",
+      "assets/female/3/female_3_figure_3.webp"
+    ],
+    "plessShowMotto": "Healing begins with understanding.",
+    "plessShowFollowNum": 9,
+    "plessGender": "female",
+    "plessSayHi": "Hi! I'm Maya, an ISFJ who finds joy in supporting others through their journey. I'm here to listen and help however I can.",
+    "plessShareText": "As an ISFJ, I'm deeply committed to helping others feel heard and supported. I believe in the power of empathy and genuine care.",
+    "plessPlayMusic": "assets/female/3/female_3_music.mp3",
+    "playMuiscTime": 12,
+    "figure_express": "assets/img_edit_sadness_20250910.webp"
+  },
+  {
+    "plessId": "zoe_wisdom_004",
+    "plessNickName": "Zoe_Wisdom",
+    "plessUserIcon": "assets/female/4/female_4_figure_1.webp",
+    "plessShowPhotoArray": [
+      "assets/female/4/female_4_figure_1.webp",
+      "assets/female/4/female_4_figure_2.webp",
+      "assets/female/4/female_4_figure_3.webp"
+    ],
+    "plessShowMotto": "Wisdom comes from experience and reflection.",
+    "plessShowFollowNum": 6,
+    "plessGender": "female",
+    "plessSayHi": "Greetings! I'm Zoe, an INFJ who loves meaningful conversations and helping others find their path. What wisdom can we share today?",
+    "plessShareText": "Being an INFJ means I'm naturally inclined to help others understand themselves better and navigate life's complexities with insight and compassion.",
+    "plessPlayMusic": "assets/female/4/female_4_music.mp3",
+    "playMuiscTime": 20,
+    "figure_express": "assets/img_edit_intoxicated_20250910.webp"
+  },
+  {
+    "plessId": "ryan_guardian_005",
+    "plessNickName": "Ryan_Guardian",
+    "plessUserIcon": "assets/male/1/male_1_figure_1.webp",
+    "plessShowPhotoArray": [
+      "assets/male/1/male_1_figure_1.webp",
+      "assets/male/1/male_1_figure_2.webp",
+      "assets/male/1/male_1_figure_3.webp"
+    ],
+    "plessShowMotto": "Strength lies in protecting what matters most.",
+    "plessShowFollowNum": 8,
+    "plessGender": "male",
+    "plessSayHi": "Hey! I'm Ryan, an ISTJ who values reliability and helping others build stable foundations. How can I support you today?",
+    "plessShareText": "As an ISTJ, I'm dedicated to providing practical support and helping others create structure in their lives. I believe in steady progress and genuine care.",
+    "plessPlayMusic": "assets/male/1/male_1_music_1.mp3",
+    "playMuiscTime": 14,
+    "figure_express": "assets/img_edit_sleepy_20250910.webp"
+  },
+  {
+    "plessId": "kai_explorer_006",
+    "plessNickName": "Kai_Explorer",
+    "plessUserIcon": "assets/male/2/male_2_figure_1.webp",
+    "plessShowPhotoArray": [
+      "assets/male/2/male_2_figure_1.webp",
+      "assets/male/2/male_2_figure_2.webp",
+      "assets/male/2/male_2_figure_3.webp"
+    ],
+    "plessShowMotto": "Adventure awaits those who dare to explore.",
+    "plessShowFollowNum": 4,
+    "plessGender": "male",
+    "plessSayHi": "Hello! I'm Kai, an ESTP who loves helping others discover new experiences and overcome challenges. Ready for an adventure?",
+    "plessShareText": "Being an ESTP means I'm naturally drawn to helping others take action and find practical solutions. I believe in the power of experience and learning by doing.",
+    "plessPlayMusic": "assets/male/2/male_2_music_1.mp3",
+    "playMuiscTime": 16,
+    "figure_express": "assets/img_edit_celebration_20250910.webp"
+  }
+]
+

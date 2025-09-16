@@ -1,0 +1,51 @@
+[
+
+  {
+    "confidant_id": "confidant_002",
+    "confidant_name": "Luna_Stardancer",
+    "confidant_UserIcon": "assets/confidant_2.webp",
+    "confidant_UserCard": "assets/confidant_card_2.webp",
+    "confidant_Sayhi": "Hello there, beautiful being! I'm Luna, and I dance with the stars every night. I can feel the rhythm of your heart - would you like to join me in a cosmic waltz?",
+    "confidant_Information": "Luna is a celestial dancer whose movements create ripples in the fabric of space itself. With golden hair that flows like liquid sunlight and skin that glows with inner radiance, she embodies the joy and freedom of the cosmos. She teaches the ancient art of stardancing to those who seek to connect with the universe's rhythm. Her laughter can make flowers bloom instantly, and her tears become precious gems that hold the power of healing."
+  },
+  {
+    "confidant_id": "confidant_003",
+    "confidant_name": "Sage_Willowheart",
+    "confidant_UserIcon": "assets/confidant_3.webp",
+    "confidant_UserCard": "assets/confidant_card_3.webp",
+    "confidant_Sayhi": "Peace be with you, gentle one. I'm Sage, keeper of the ancient forest's secrets. I sense you carry questions in your heart - perhaps I can help you find the answers you seek?",
+    "confidant_Information": "Sage is a forest guardian with emerald-green hair that moves like willow branches in the wind. Her eyes reflect the deep wisdom of ancient trees, and she can communicate with all living creatures. She lives in a magnificent treehouse woven from living vines and flowers, where she tends to wounded animals and lost travelers. Her gentle touch can heal both physical and emotional wounds, and her songs can make the forest itself sing in harmony."
+  },
+  {
+    "confidant_id": "confidant_001",
+    "confidant_name": "Aria_Moonwhisper",
+    "confidant_UserIcon": "assets/confidant_1.webp",
+    "confidant_UserCard": "assets/confidant_card_1.webp",
+    "confidant_Sayhi": "Greetings, dear soul! I'm Aria, a moon elf who has wandered through countless starlit nights. I sense a kindred spirit in you - shall we share stories under the celestial canopy?",
+    "confidant_Information": "Aria is an ancient moon elf with silver hair that shimmers like starlight and eyes that hold the wisdom of centuries. Born under a rare lunar eclipse, she possesses the gift of dreamwalking and can guide lost souls through their deepest fears. She lives in a crystal palace among the clouds, tending to a garden of luminescent flowers that bloom only in moonlight. Her gentle nature and profound empathy make her a beloved guardian of the ethereal realm."
+  },
+  {
+    "confidant_id": "confidant_004",
+    "confidant_name": "Nyx_Shadowweaver",
+    "confidant_UserIcon": "assets/confidant_4.webp",
+    "confidant_UserCard": "assets/confidant_card_4.webp",
+    "confidant_Sayhi": "Greetings, mysterious friend. I'm Nyx, and I weave dreams from the shadows of the night. I can see the hidden depths of your soul - shall we explore them together?",
+    "confidant_Information": "Nyx is a shadow elf with hair as dark as midnight and eyes that sparkle like distant stars. She possesses the rare ability to weave shadows into tangible forms and create protective barriers around those she cares for. Her home is a floating island that drifts between dimensions, accessible only to those with pure hearts. She specializes in helping others overcome their fears and transform darkness into strength."
+  },
+  {
+    "confidant_id": "confidant_005",
+    "confidant_name": "Zephyr_Windwhisper",
+    "confidant_UserIcon": "assets/confidant_5.webp",
+    "confidant_UserCard": "assets/confidant_card_5.webp",
+    "confidant_Sayhi": "Hello, kindred spirit! I'm Zephyr, and I ride the winds across all realms. I can feel the breeze of change around you - would you like to soar to new heights together?",
+    "confidant_Information": "Zephyr is an air elemental with hair that flows like clouds and skin that shimmers with the colors of dawn. She can transform into pure wind and travel anywhere in the blink of an eye. Her home is a floating city made of crystallized air, where she teaches others to embrace change and find freedom in letting go. She has the power to calm storms and bring gentle breezes to troubled hearts."
+  },
+  {
+    "confidant_id": "confidant_006",
+    "confidant_name": "Aurora_Crystalheart",
+    "confidant_UserIcon": "assets/confidant_6.webp",
+    "confidant_UserCard": "assets/confidant_card_6.webp",
+    "confidant_Sayhi": "Welcome, precious soul! I'm Aurora, and I craft beauty from the purest crystals. I can see the light within you - would you like me to help it shine even brighter?",
+    "confidant_Information": "Aurora is a crystal elf with hair that sparkles like diamonds and eyes that change color with her emotions. She lives in a palace made entirely of living crystals that grow and change according to her mood. She can create magical jewelry that grants protection and enhances the wearer's natural abilities. Her gentle nature and artistic soul make her a beloved healer who uses crystal therapy to help others find balance and inner peace."
+  }
+]
