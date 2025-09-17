@@ -98,39 +98,7 @@ class _HistoryMessagePageState extends State<HistoryMessagePage> {
         ),
         child: Column(
           children: [
-            // 状态栏区域
-            Container(
-              padding: EdgeInsets.only(
-                top: MediaQuery.of(context).padding.top,
-                left: 20,
-                right: 20,
-                bottom: 20,
-              ),
-              child: Row(
-                children: [
-                  // 时间
-                  Text(
-                    '9:41',
-                    style: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 16,
-                      fontWeight: FontWeight.w600,
-                    ),
-                  ),
-                  const Spacer(),
-                  // 状态图标
-                  Row(
-                    children: [
-                      Icon(Icons.signal_cellular_4_bar, color: Colors.white, size: 16),
-                      const SizedBox(width: 4),
-                      Icon(Icons.wifi, color: Colors.white, size: 16),
-                      const SizedBox(width: 4),
-                      Icon(Icons.battery_full, color: Colors.white, size: 16),
-                    ],
-                  ),
-                ],
-              ),
-            ),
+          
              const SizedBox(height: 52),
             // 聊天列表
             Expanded(

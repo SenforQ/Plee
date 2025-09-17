@@ -194,27 +194,6 @@ class _WelcomePageState extends State<WelcomePage> {
       if (mounted) {
         Navigator.of(context).pop();
       }
-
-      // 根据权限结果显示相应信息
-      if (mounted) {
-        if (isAuthorized) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-              content: Text('Thank you for allowing tracking. We will provide you with a more personalized experience.'),
-              backgroundColor: Color(0xFFFE4C89),
-              duration: Duration(seconds: 2),
-            ),
-          );
-        } else {
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-              content: Text('You have denied tracking permission. Some features may be limited.'),
-              backgroundColor: Colors.orange,
-              duration: Duration(seconds: 2),
-            ),
-          );
-        }
-      }
     } catch (e) {
       // 关闭加载指示器
       if (mounted) {
