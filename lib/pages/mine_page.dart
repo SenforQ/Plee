@@ -3,6 +3,8 @@ import 'dart:io';
 import 'web_page.dart';
 import 'about_page.dart';
 import 'editor_info_page.dart';
+import 'wallet_page.dart';
+import 'Subscribe_VIP_page.dart';
 import '../models/user_info.dart';
 import '../services/user_info_service.dart';
 
@@ -82,6 +84,42 @@ class _MinePageState extends State<MinePage> {
               ),
             ),
           ),
+          // 右上角钱包按钮 - 暂时隐藏
+          // Positioned(
+          //   top: 84,
+          //   right: 12,
+          //   child: GestureDetector(
+          //     onTap: () {
+          //       Navigator.of(context).push(
+          //         MaterialPageRoute(
+          //           builder: (context) => const WalletPage(),
+          //         ),
+          //       );
+          //     },
+          //     child: Image.asset(
+          //       'assets/icon_me_wallet.webp',
+          //       width: 84,
+          //       height: 105,
+          //       fit: BoxFit.contain,
+          //       errorBuilder: (context, error, stackTrace) {
+          //         // 如果图片加载失败，显示默认图标
+          //         return Container(
+          //           width: 84,
+          //           height: 105,
+          //           decoration: BoxDecoration(
+          //             color: const Color(0xFFF5F5F5),
+          //             borderRadius: BorderRadius.circular(8),
+          //           ),
+          //           child: const Icon(
+          //             Icons.account_balance_wallet,
+          //             size: 40,
+          //             color: Color(0xFFCCCCCC),
+          //           ),
+          //         );
+          //       },
+          //     ),
+          //   ),
+          // ),
           // 内容区域 - 使用SafeArea确保内容不被状态栏遮挡
           SafeArea(
             child: Column(
@@ -340,6 +378,19 @@ class _MinePageState extends State<MinePage> {
       padding: const EdgeInsets.only(bottom: 50),
       child: Column(
         children: [
+          // VIP订阅入口 - 暂时隐藏
+          // _buildSettingItem(
+          //   iconPath: 'assets/icon_me_vip.webp',
+          //   title: 'Subscribe Vip',
+          //   onTap: () {
+          //     Navigator.of(context).push(
+          //       MaterialPageRoute(
+          //         builder: (context) => const SubscribeVIPPage(),
+          //       ),
+          //     );
+          //   },
+          // ),
+          // const Divider(height: 1, color: Color(0xFFF0F0F0)),
           _buildSettingItem(
             iconPath: 'assets/icon_me_setting.webp',
             title: 'Edit personal information',

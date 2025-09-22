@@ -315,48 +315,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
                     ),
                   ),
                 ),
-                // 右上角点赞数
-                Positioned(
-                  top: 16,
-                  right: -11,
-                  child: Stack(
-                    children: [
-                      Image.asset(
-                        'assets/discover_like_hot.webp',
-                        width: 75,
-                        height: 54,
-                        errorBuilder: (context, error, stackTrace) {
-                          return Container(
-                            width: 75,
-                            height: 54,
-                            decoration: BoxDecoration(
-                              color: const Color(0xFFFF69B4),
-                              borderRadius: BorderRadius.circular(20),
-                            ),
-                          );
-                        },
-                      ),
-                      Positioned.fill(
-                        child: Center(
-                          child: Row(
-                            mainAxisSize: MainAxisSize.min,
-                            children: [
-                              const SizedBox(width: 8),
-                              Text(
-                                '${profile.plessShowFollowNum * 30 + 50}',
-                                style: const TextStyle(
-                                  color: Colors.white,
-                                  fontSize: 12,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                      ),
-                    ],
-                  ),
-                ),
+                // 右上角点赞数 - 已移除
                 // 左下角标签
                 Positioned(
                   bottom: 16,
