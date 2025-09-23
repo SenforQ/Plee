@@ -48,8 +48,8 @@ class VipProduct {
 
 // 初始VIP产品列表（使用默认价格，后续会被苹果商店实际价格覆盖）
 List<VipProduct> kVipProducts = [
-  VipProduct(productId: 'Subsweete3_29', period: 'Per week', price: 6.99, priceText: '\$6.99'),
-  VipProduct(productId: 'Subsweete3_29', period: 'Per month', price: 12.99, priceText: '\$12.99'),
+  VipProduct(productId: 'PleeWeekVIP', period: 'Per week', price: 12.99, priceText: '\$12.99'),
+  VipProduct(productId: 'PleeMonthVIP', period: 'Per month', price: 49.99, priceText: '\$49.99'),
 ];
 
 class SubscribeVIPPage extends StatefulWidget {
@@ -67,7 +67,7 @@ class _SubscribeVIPPageState extends State<SubscribeVIPPage> {
   int _retryCount = 0;
   static const int maxRetries = 3;
   static const int timeoutDuration = 30; // 30秒超时
-  bool _isPriceLoading = true; // 价格加载状态
+  bool _isPriceLoading = false; // 价格加载状态
   
   // 滚动控制器
   late ScrollController _scrollController;
@@ -215,9 +215,9 @@ class _SubscribeVIPPageState extends State<SubscribeVIPPage> {
   /// 更新产品价格（从苹果商店获取实际价格）
   void _updateProductPrices() {
     if (_products.isEmpty) {
-      // 如果没有产品详情，保持原价格但标记为未加载
+      // 如果没有产品详情，保持原价格但标记为已加载（不显示loading）
       setState(() {
-        _vipProducts = kVipProducts.map((product) => product.copyWith(isPriceLoaded: false)).toList();
+        _vipProducts = kVipProducts.map((product) => product.copyWith(isPriceLoaded: true)).toList();
       });
       return;
     }
@@ -240,8 +240,8 @@ class _SubscribeVIPPageState extends State<SubscribeVIPPage> {
         updatedProducts.add(updatedProduct);
         hasAnyLoadedPrice = true;
       } else {
-        // 如果找不到产品详情，保持原价格但标记为未加载
-        updatedProducts.add(vipProduct.copyWith(isPriceLoaded: false));
+        // 如果找不到产品详情，保持原价格但标记为已加载（不显示loading）
+        updatedProducts.add(vipProduct.copyWith(isPriceLoaded: true));
       }
     }
     
