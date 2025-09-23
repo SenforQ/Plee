@@ -20,16 +20,28 @@ class CoinProduct {
 }
 
 final List<CoinProduct> kCoinProducts = [
-  CoinProduct(productId: 'Fenu', coins: 32, price: 0.99, priceText: '\$0.99'),
-  CoinProduct(productId: 'Fenu2', coins: 96, price: 2.99, priceText: '\$2.99'),
-  CoinProduct(productId: 'Fenu4', coins: 155, price: 4.99, priceText: '\$4.99'),
-  CoinProduct(productId: 'Fenu5', coins: 189, price: 5.99, priceText: '\$5.99'),
-  CoinProduct(productId: 'Fenu9', coins: 359, price: 9.99, priceText: '\$9.99'),
-  CoinProduct(productId: 'Fenu19', coins: 729, price: 19.99, priceText: '\$19.99'),
-  CoinProduct(productId: 'Fenu49', coins: 1869, price: 49.99, priceText: '\$49.99'),
-  CoinProduct(productId: 'Fenu99', coins: 3799, price: 99.99, priceText: '\$99.99'),
-  CoinProduct(productId: 'Fenu159', coins: 8666, price: 159.99, priceText: '\$159.99'),
-  CoinProduct(productId: 'Fenu239', coins: 18666, price: 239.99, priceText: '\$239.99'), 
+//   CoinProduct(productId: 'Plee', coins: 32, price: 0.99, priceText: '\$0.99'),
+//   CoinProduct(productId: 'Plee1', coins: 60, price: 1.99, priceText: '\$1.99'),
+//   CoinProduct(productId: 'Plee2', coins: 96, price: 2.99, priceText: '\$2.99'),
+//   CoinProduct(productId: 'Plee4', coins: 155, price: 4.99, priceText: '\$4.99'),
+//   CoinProduct(productId: 'Plee5', coins: 189, price: 5.99, priceText: '\$5.99'),
+//   CoinProduct(productId: 'Plee9', coins: 359, price: 9.99, priceText: '\$9.99'),
+//   CoinProduct(productId: 'Plee19', coins: 729, price: 19.99, priceText: '\$19.99'),
+//   CoinProduct(productId: 'Plee49', coins: 1869, price: 49.99, priceText: '\$49.99'),
+//   CoinProduct(productId: 'Plee99', coins: 3799, price: 99.99, priceText: '\$99.99'),
+//   CoinProduct(productId: 'Plee159', coins: 8666, price: 159.99, priceText: '\$159.99'),
+//   CoinProduct(productId: 'Plee239', coins: 18666, price: 239.99, priceText: '\$239.99'), 
+  CoinProduct(productId: 'Plee', coins: 32, price: 0.99, priceText: '\$0.99'),
+  CoinProduct(productId: 'Plee1', coins: 60, price: 1.99, priceText: '\$1.99'),
+  CoinProduct(productId: 'Plee2', coins: 96, price: 2.99, priceText: '\$2.99'),
+  CoinProduct(productId: 'Plee4', coins: 155, price: 4.99, priceText: '\$4.99'),
+  CoinProduct(productId: 'Plee5', coins: 189, price: 5.99, priceText: '\$5.99'),
+  CoinProduct(productId: 'Plee9', coins: 359, price: 9.99, priceText: '\$9.99'),
+  CoinProduct(productId: 'Plee19', coins: 729, price: 19.99, priceText: '\$19.99'),
+  CoinProduct(productId: 'Plee49', coins: 1869, price: 49.99, priceText: '\$49.99'),
+  CoinProduct(productId: 'Plee99', coins: 3799, price: 99.99, priceText: '\$99.99'),
+  CoinProduct(productId: 'Plee159', coins: 5999, price: 159.99, priceText: '\$159.99'),
+  CoinProduct(productId: 'Plee239', coins: 9059, price: 239.99, priceText: '\$239.99'), 
 ];
 
 class WalletPage extends StatefulWidget {
@@ -434,7 +446,7 @@ class _WalletPageState extends State<WalletPage> {
                   height: 4,
                   margin: const EdgeInsets.only(top: 12, bottom: 8),
                   decoration: BoxDecoration(
-                    color: Colors.grey[300],
+                    color: const Color(0xFFD20073),
                     borderRadius: BorderRadius.circular(2),
                   ),
                 ),
@@ -447,7 +459,7 @@ class _WalletPageState extends State<WalletPage> {
                     style: const TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.w600,
-                      color: Colors.black,
+                      color: Color(0xFFD20073),
                     ),
                   ),
                 ),
@@ -459,16 +471,11 @@ class _WalletPageState extends State<WalletPage> {
                     children: [
                       _buildRuleItem(
                         '1',
-                        'New users receive 100 coins as a welcome bonus upon first app launch',
+                        'Each chat with Elf consumes 60 Coins',
                       ),
                       const SizedBox(height: 16),
                       _buildRuleItem(
                         '2',
-                        'Each chat message sent consumes 20 coins as service fee',
-                      ),
-                      const SizedBox(height: 16),
-                      _buildRuleItem(
-                        '3',
                         'Additional coins may be awarded through promotional campaigns and platform partnerships',
                       ),
                     ],
@@ -486,7 +493,7 @@ class _WalletPageState extends State<WalletPage> {
                       Navigator.of(context).pop();
                     },
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color(0xFF4CAF50),
+                      backgroundColor: const Color(0xFFD20073),
                       foregroundColor: Colors.white,
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(12),
@@ -518,7 +525,7 @@ class _WalletPageState extends State<WalletPage> {
           width: 24,
           height: 24,
           decoration: BoxDecoration(
-            color: const Color(0xFF4CAF50),
+            color: const Color(0xFFD20073),
             shape: BoxShape.circle,
           ),
           child: Center(
@@ -611,9 +618,36 @@ class _WalletPageState extends State<WalletPage> {
               },
             ),
           ),
-          // 白色矩形区域 - 调整位置让背景图片显示
+          // 账户余额显示 - 在顶部背景图片上
           Positioned(
-            top: imageHeight - 50,
+            top: 120,
+            left: 20,
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text(
+                  'Account balance',
+                  style: TextStyle(
+                    fontSize: 16,
+                    color: Color(0xFF092F38),
+                    fontWeight: FontWeight.w500,
+                  ),
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  '$_currentCoins',
+                  style: const TextStyle(
+                    fontSize: 40,
+                    fontWeight: FontWeight.bold,
+                    color: Color(0xFF000000),
+                  ),
+                ),
+              ],
+            ),
+          ),
+          // 白色矩形区域 - 只包含遮罩和列表
+          Positioned(
+            top: imageHeight - 120,
             left: 0,
             right: 0,
             bottom: 0,
@@ -636,105 +670,62 @@ class _WalletPageState extends State<WalletPage> {
                       return const SizedBox.shrink();
                     },
                   ),
-                  // 内容区域
+                  // 金币购买选项列表
                   Expanded(
-                    child: Container(
-                      color: const Color(0xFFFFFFFF),
-                      child: Column(
-                        children: [
-                          const SizedBox(height: 20),
-                          // 账户余额显示
-                          Padding(
-                            padding: const EdgeInsets.symmetric(horizontal: 20),
-                            child: Row(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                // 右侧余额信息
-                                Expanded(
-                                  child: Column(
-                                    crossAxisAlignment: CrossAxisAlignment.start,
-                                    children: [
-                                      const Text(
-                                        'Account balance',
-                                        style: TextStyle(
-                                          fontSize: 16,
-                                          color: Color(0xFF2E7D32),
-                                          fontWeight: FontWeight.w500,
-                                        ),
-                                      ),
-                                      const SizedBox(height: 8),
-                                      Text(
-                                        '$_currentCoins',
-                                        style: const TextStyle(
-                                          fontSize: 36,
-                                          fontWeight: FontWeight.bold,
-                                          color: Colors.black,
-                                        ),
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                              ],
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 20),
+                      child: ListView.builder(
+                        padding: EdgeInsets.zero,
+                        itemCount: kCoinProducts.length,
+                        itemBuilder: (context, index) {
+                          final product = kCoinProducts[index];
+                          return Padding(
+                            padding: EdgeInsets.only(
+                              top: index == 0 ? 0 : 12,
+                              bottom: 12,
                             ),
-                          ),
-                          
-                          const SizedBox(height: 30),
-                          
-                          // 金币购买选项列表 - 一行一个布局
-                          Expanded(
-                            child: Padding(
-                              padding: const EdgeInsets.symmetric(horizontal: 20),
-                              child: ListView.builder(
-                                itemCount: kCoinProducts.length,
-                                itemBuilder: (context, index) {
-                                  final product = kCoinProducts[index];
-                                  return Padding(
-                                    padding: const EdgeInsets.only(bottom: 12),
-                                    child: _buildCoinCard(product, index),
-                                  );
-                                },
-                              ),
-                            ),
-                          ),
-                          
-                          // 底部购买按钮
-                          Container(
-                            color: Colors.white,
-                            padding: const EdgeInsets.all(20),
-                            child: Container(
-                              width: double.infinity,
-                              height: 50,
-                              child: ElevatedButton(
-                                onPressed: _isPurchasing ? null : () {
-                                  if (_selectedIndex < kCoinProducts.length) {
-                                    _onProductSelected(kCoinProducts[_selectedIndex]);
-                                  }
-                                },
-                                style: ElevatedButton.styleFrom(
-                                  backgroundColor: const Color(0xFFBCFF39),
-                                  foregroundColor: Colors.black,
-                                  shape: RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(25),
-                                  ),
-                                ),
-                                child: Text(
-                                  _isPurchasing ? 'Processing...' : 'Purchase',
-                                  style: const TextStyle(
-                                    fontSize: 18,
-                                    fontWeight: FontWeight.bold,
-                                  ),
-                                ),
-                              ),
-                            ),
-                          ),
-                          
-                          // 底部安全区域
-                          const SizedBox(height: 20),
-                        ],
+                            child: _buildCoinCard(product, index),
+                          );
+                        },
                       ),
                     ),
                   ),
+                  // 为悬浮按钮留出空间
+                  const SizedBox(height: 100),
                 ],
+              ),
+            ),
+          ),
+          // 悬浮购买按钮
+          Positioned(
+            bottom: 30,
+            left: 20,
+            right: 20,
+            child: Container(
+              width: double.infinity,
+              height: 50,
+              child: ElevatedButton(
+                onPressed: _isPurchasing ? null : () {
+                  if (_selectedIndex < kCoinProducts.length) {
+                    _onProductSelected(kCoinProducts[_selectedIndex]);
+                  }
+                },
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: const Color(0xFFD20073),
+                  foregroundColor: Colors.white,
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(25),
+                  ),
+                  elevation: 8,
+                  shadowColor: Colors.black.withOpacity(0.3),
+                ),
+                child: Text(
+                  _isPurchasing ? 'Processing...' : 'Purchase',
+                  style: const TextStyle(
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
               ),
             ),
           ),
@@ -755,10 +746,10 @@ class _WalletPageState extends State<WalletPage> {
       child: Container(
         height: 80,
         decoration: BoxDecoration(
-          color: isSelected ? const Color(0xFFE8F5E8) : Colors.white,
+          color: isSelected ? const Color(0xFFFFD9E6) : Colors.white,
           borderRadius: BorderRadius.circular(12),
           border: Border.all(
-            color: isSelected ? const Color(0xFF4CAF50) : const Color(0xFFE0E0E0),
+            color: isSelected ? const Color(0xFFFF0D66) : const Color(0xFFE0E0E0),
             width: isSelected ? 2 : 1,
           ),
           boxShadow: [
@@ -774,7 +765,7 @@ class _WalletPageState extends State<WalletPage> {
           padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
           child: Row(
             children: [
-              // 金币图标
+              // 钻石图标
               Container(
                 width: 56,
                 height: 56,
@@ -783,10 +774,18 @@ class _WalletPageState extends State<WalletPage> {
                   borderRadius: BorderRadius.circular(28),
                 ),
                 child: Center(
-                  child: const Icon(
-                    Icons.monetization_on,
-                    color: Color(0xFF87A156),
-                    size: 32,
+                  child: Image.asset(
+                    'assets/wallet_diamond_icon.webp',
+                    width: 32,
+                    height: 32,
+                    fit: BoxFit.contain,
+                    errorBuilder: (context, error, stackTrace) {
+                      return const Icon(
+                        Icons.diamond,
+                        color: Color(0xFF87A156),
+                        size: 32,
+                      );
+                    },
                   ),
                 ),
               ),
@@ -835,7 +834,7 @@ class _WalletPageState extends State<WalletPage> {
                     style: const TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.bold,
-                      color: Color(0xFF2E7D32),
+                      color: Color(0xFF000000),
                     ),
                   ),
                   const SizedBox(height: 2),
@@ -843,7 +842,7 @@ class _WalletPageState extends State<WalletPage> {
                     Container(
                       padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 1),
                       decoration: BoxDecoration(
-                        color: const Color(0xFF2E7D32),
+                        color: const Color(0xFFD20073),
                         borderRadius: BorderRadius.circular(8),
                       ),
                       child: const Text(
@@ -875,10 +874,18 @@ class _WalletPageState extends State<WalletPage> {
           ),
           title: Row(
             children: [
-              const Icon(
-                Icons.monetization_on,
-                color: Color(0xFFFFD700),
-                size: 24,
+              Image.asset(
+                'assets/wallet_diamond_icon.webp',
+                width: 24,
+                height: 24,
+                fit: BoxFit.contain,
+                errorBuilder: (context, error, stackTrace) {
+                  return const Icon(
+                    Icons.diamond,
+                    color: Color(0xFFFFD700),
+                    size: 24,
+                  );
+                },
               ),
               const SizedBox(width: 8),
               const Text(
@@ -913,7 +920,7 @@ class _WalletPageState extends State<WalletPage> {
                 _handleConfirmPurchase();
               },
               style: ElevatedButton.styleFrom(
-                backgroundColor: const Color(0xFFBCFF39),
+                backgroundColor: const Color(0xFFD20073),
                 foregroundColor: Colors.white,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(20),

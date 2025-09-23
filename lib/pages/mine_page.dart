@@ -7,6 +7,7 @@ import 'wallet_page.dart';
 import 'Subscribe_VIP_page.dart';
 import '../models/user_info.dart';
 import '../services/user_info_service.dart';
+import '../services/vip_service.dart';
 
 class MinePage extends StatefulWidget {
   const MinePage({super.key});
@@ -17,11 +18,13 @@ class MinePage extends StatefulWidget {
 
 class _MinePageState extends State<MinePage> {
   UserInfo _userInfo = UserInfo.defaultUser();
+  bool _isVipActive = false;
 
   @override
   void initState() {
     super.initState();
     _loadUserInfo();
+    _loadVipStatus();
   }
 
   Future<void> _loadUserInfo() async {
@@ -32,6 +35,27 @@ class _MinePageState extends State<MinePage> {
       });
     } catch (e) {
       print('Error loading user info: $e');
+    }
+  }
+
+  Future<void> _loadVipStatus() async {
+    try {
+      final isActive = await VipService.isVipActive();
+      final isExpired = await VipService.isVipExpired();
+      
+      setState(() {
+        _isVipActive = isActive && !isExpired;
+      });
+      
+      // 如果VIP已过期，自动停用
+      if (isActive && isExpired) {
+        await VipService.deactivateVip();
+        setState(() {
+          _isVipActive = false;
+        });
+      }
+    } catch (e) {
+      print('MinePage - Error loading VIP status: $e');
     }
   }
 
@@ -84,42 +108,42 @@ class _MinePageState extends State<MinePage> {
               ),
             ),
           ),
-          // 右上角钱包按钮 - 暂时隐藏
-          // Positioned(
-          //   top: 84,
-          //   right: 12,
-          //   child: GestureDetector(
-          //     onTap: () {
-          //       Navigator.of(context).push(
-          //         MaterialPageRoute(
-          //           builder: (context) => const WalletPage(),
-          //         ),
-          //       );
-          //     },
-          //     child: Image.asset(
-          //       'assets/icon_me_wallet.webp',
-          //       width: 84,
-          //       height: 105,
-          //       fit: BoxFit.contain,
-          //       errorBuilder: (context, error, stackTrace) {
-          //         // 如果图片加载失败，显示默认图标
-          //         return Container(
-          //           width: 84,
-          //           height: 105,
-          //           decoration: BoxDecoration(
-          //             color: const Color(0xFFF5F5F5),
-          //             borderRadius: BorderRadius.circular(8),
-          //           ),
-          //           child: const Icon(
-          //             Icons.account_balance_wallet,
-          //             size: 40,
-          //             color: Color(0xFFCCCCCC),
-          //           ),
-          //         );
-          //       },
-          //     ),
-          //   ),
-          // ),
+          // 右上角钱包按钮
+          Positioned(
+            top: 84,
+            right: 12,
+            child: GestureDetector(
+              onTap: () {
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const WalletPage(),
+                  ),
+                );
+              },
+              child: Image.asset(
+                'assets/icon_me_wallet.webp',
+                width: 84,
+                height: 105,
+                fit: BoxFit.contain,
+                errorBuilder: (context, error, stackTrace) {
+                  // 如果图片加载失败，显示默认图标
+                  return Container(
+                    width: 84,
+                    height: 105,
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFF5F5F5),
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: const Icon(
+                      Icons.account_balance_wallet,
+                      size: 40,
+                      color: Color(0xFFCCCCCC),
+                    ),
+                  );
+                },
+              ),
+            ),
+          ),
           // 内容区域 - 使用SafeArea确保内容不被状态栏遮挡
           SafeArea(
             child: Column(
@@ -171,7 +195,7 @@ class _MinePageState extends State<MinePage> {
             right: 0,
             child: Column(
               children: [
-                // 用户名和性别
+                // 用户名、性别和VIP标识
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
@@ -187,6 +211,8 @@ class _MinePageState extends State<MinePage> {
                       const SizedBox(width: 8),
                       _buildGenderIcon(),
                     ],
+                    const SizedBox(width: 8),
+                    _buildVipBadge(),
                   ],
                 ),
                 const SizedBox(height: 8),
@@ -346,6 +372,46 @@ class _MinePageState extends State<MinePage> {
     );
   }
 
+  /// 构建VIP标识
+  Widget _buildVipBadge() {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+      decoration: BoxDecoration(
+        gradient: _isVipActive 
+            ? const LinearGradient(
+                colors: [Color(0xFFD20073), Color(0xFF9A0B5C)],
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+              )
+            : null,
+        color: _isVipActive ? null : const Color(0xFFCCCCCC),
+        borderRadius: BorderRadius.circular(12),
+        border: _isVipActive 
+            ? null 
+            : Border.all(color: const Color(0xFFE0E0E0), width: 1),
+      ),
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Icon(
+            Icons.star,
+            size: 12,
+            color: _isVipActive ? Colors.white : const Color(0xFF999999),
+          ),
+          const SizedBox(width: 4),
+          Text(
+            _isVipActive ? 'VIP' : 'FREE',
+            style: TextStyle(
+              fontSize: 10,
+              fontWeight: FontWeight.bold,
+              color: _isVipActive ? Colors.white : const Color(0xFF999999),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
   Widget _buildContentSection() {
     return Expanded(
       child: Container(
@@ -378,19 +444,22 @@ class _MinePageState extends State<MinePage> {
       padding: const EdgeInsets.only(bottom: 50),
       child: Column(
         children: [
-          // VIP订阅入口 - 暂时隐藏
-          // _buildSettingItem(
-          //   iconPath: 'assets/icon_me_vip.webp',
-          //   title: 'Subscribe Vip',
-          //   onTap: () {
-          //     Navigator.of(context).push(
-          //       MaterialPageRoute(
-          //         builder: (context) => const SubscribeVIPPage(),
-          //       ),
-          //     );
-          //   },
-          // ),
-          // const Divider(height: 1, color: Color(0xFFF0F0F0)),
+          _buildSettingItem(
+            iconPath: 'assets/icon_me_vip.webp',
+            title: 'Subscribe Vip',
+            onTap: () async {
+              final result = await Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (context) => const SubscribeVIPPage(),
+                ),
+              );
+              // 如果VIP状态发生变化，重新加载VIP状态
+              if (result != null && result['vip_activated'] == true) {
+                _loadVipStatus();
+              }
+            },
+          ),
+          const Divider(height: 1, color: Color(0xFFF0F0F0)),
           _buildSettingItem(
             iconPath: 'assets/icon_me_setting.webp',
             title: 'Edit personal information',

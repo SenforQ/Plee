@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'dart:io';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'cofidant_chat_page.dart';
+import 'wallet_page.dart';
+import '../services/coin_service.dart';
+import '../services/vip_service.dart';
 
 class AllCoFidantPage extends StatefulWidget {
   const AllCoFidantPage({super.key});
@@ -15,12 +19,17 @@ class _AllCoFidantPageState extends State<AllCoFidantPage> {
   bool isLoading = true;
   int selectedConfidantIndex = 2; // 默认选择第3个角色 (索引2)
   late ScrollController _scrollController;
+  Map<int, bool> _unlockedConfidants = {}; // 存储每个精灵的解锁状态
+  int _currentCoins = 0;
+  bool _isVipActive = false;
 
   @override
   void initState() {
     super.initState();
     _scrollController = ScrollController();
     _loadConfidantProfiles();
+    _loadUnlockStatus();
+    _loadCoinsAndVipStatus();
   }
 
   @override
@@ -52,6 +61,45 @@ class _AllCoFidantPageState extends State<AllCoFidantPage> {
     }
   }
 
+  Future<void> _loadUnlockStatus() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final Map<int, bool> unlockedConfidants = {};
+      
+      // 第三个精灵（索引2）默认解锁
+      unlockedConfidants[2] = true;
+      
+      // 加载其他精灵的解锁状态
+      for (int i = 0; i < confidantProfiles.length; i++) {
+        if (i != 2) { // 除了第三个精灵
+          final isUnlocked = prefs.getBool('confidant_unlocked_$i') ?? false;
+          unlockedConfidants[i] = isUnlocked;
+        }
+      }
+      
+      setState(() {
+        _unlockedConfidants = unlockedConfidants;
+      });
+    } catch (e) {
+      print('Error loading unlock status: $e');
+    }
+  }
+
+  Future<void> _loadCoinsAndVipStatus() async {
+    try {
+      final coins = await CoinService.getCurrentCoins();
+      final isVipActive = await VipService.isVipActive();
+      final isVipExpired = await VipService.isVipExpired();
+      
+      setState(() {
+        _currentCoins = coins;
+        _isVipActive = isVipActive && !isVipExpired;
+      });
+    } catch (e) {
+      print('Error loading coins and VIP status: $e');
+    }
+  }
+
   void _scrollToSelectedItem() {
     if (_scrollController.hasClients && confidantProfiles.isNotEmpty) {
       final double itemWidth = MediaQuery.of(context).size.height / 812 * 150 + 15; // 宽度 + 右边距
@@ -64,6 +112,138 @@ class _AllCoFidantPageState extends State<AllCoFidantPage> {
         curve: Curves.easeInOut,
       );
     }
+  }
+
+  Future<void> _unlockConfidant(int index) async {
+    if (_unlockedConfidants[index] == true) return; // 已经解锁
+    
+    const int unlockCost = 1000;
+    
+    // 检查金币是否足够
+    if (_currentCoins < unlockCost) {
+      _showInsufficientCoinsDialog();
+      return;
+    }
+    
+    // 显示确认对话框
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Row(
+            children: [
+              Image.asset(
+                'assets/wallet_diamond_icon.webp',
+                width: 24,
+                height: 24,
+                fit: BoxFit.contain,
+                errorBuilder: (context, error, stackTrace) {
+                  return const Icon(
+                    Icons.diamond,
+                    color: Color(0xFFFFD700),
+                    size: 24,
+                  );
+                },
+              ),
+              const SizedBox(width: 8),
+              const Text(
+                'Unlock Confidant',
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
+          content: Text(
+            'Unlock ${confidantProfiles[index]['confidant_name']} for $unlockCost Coins?',
+            style: const TextStyle(fontSize: 16),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Color(0xFF999999),
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFD20073),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'Unlock',
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+
+    if (confirmed == true) {
+      // 扣除金币
+      final success = await CoinService.spendCoins(unlockCost);
+      if (success) {
+        // 保存解锁状态
+        final prefs = await SharedPreferences.getInstance();
+        await prefs.setBool('confidant_unlocked_$index', true);
+        
+        // 更新状态
+        setState(() {
+          _unlockedConfidants[index] = true;
+          _currentCoins -= unlockCost;
+        });
+        
+        // 显示成功提示
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('${confidantProfiles[index]['confidant_name']} unlocked successfully!'),
+            backgroundColor: const Color(0xFFD20073),
+            duration: const Duration(seconds: 2),
+          ),
+        );
+      } else {
+        _showInsufficientCoinsDialog();
+      }
+    }
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text('Insufficient Coins'),
+          content: const Text('You need at least 1000 Coins to unlock this confidant. Please purchase more coins.'),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                // 跳转到钱包页面
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const WalletPage(),
+                  ),
+                );
+              },
+              child: const Text('OK'),
+            ),
+          ],
+        );
+      },
+    );
   }
 
   @override
@@ -162,14 +342,19 @@ class _AllCoFidantPageState extends State<AllCoFidantPage> {
                                   left: (MediaQuery.of(context).size.height / 812 * 362 - 220) / 2,
                                   child: GestureDetector(
                                     onTap: () {
-                                      Navigator.push(
-                                        context,
-                                        MaterialPageRoute(
-                                          builder: (context) => CoFidantChatPage(
-                                            confidantProfile: confidantProfiles[selectedConfidantIndex],
+                                      final isUnlocked = _unlockedConfidants[selectedConfidantIndex] ?? false;
+                                      if (isUnlocked) {
+                                        Navigator.push(
+                                          context,
+                                          MaterialPageRoute(
+                                            builder: (context) => CoFidantChatPage(
+                                              confidantProfile: confidantProfiles[selectedConfidantIndex],
+                                            ),
                                           ),
-                                        ),
-                                      );
+                                        );
+                                      } else {
+                                        _unlockConfidant(selectedConfidantIndex);
+                                      }
                                     },
                                     child: Image.asset(
                                       'assets/star_chat.webp',
@@ -214,13 +399,18 @@ class _AllCoFidantPageState extends State<AllCoFidantPage> {
                                 itemBuilder: (context, index) {
                                   final confidant = confidantProfiles[index];
                                   final isSelected = index == selectedConfidantIndex;
+                                  final isUnlocked = _unlockedConfidants[index] ?? false;
                                   
                                   return GestureDetector(
                                     onTap: () {
-                                      setState(() {
-                                        selectedConfidantIndex = index;
-                                      });
-                                      _scrollToSelectedItem();
+                                      if (isUnlocked) {
+                                        setState(() {
+                                          selectedConfidantIndex = index;
+                                        });
+                                        _scrollToSelectedItem();
+                                      } else {
+                                        _unlockConfidant(index);
+                                      }
                                     },
                                     child: Container(
                                       width: MediaQuery.of(context).size.height / 812 * 150,
@@ -240,26 +430,93 @@ class _AllCoFidantPageState extends State<AllCoFidantPage> {
                                           ),
                                         ] : null,
                                       ),
-                                      child: ClipRRect(
-                                        borderRadius: BorderRadius.circular(12),
-                                        child: Image.asset(
-                                          confidant['confidant_UserIcon'],
-                                          fit: BoxFit.cover,
-                                          errorBuilder: (context, error, stackTrace) {
-                                            return Container(
-                                              color: Colors.grey[300],
-                                              child: const Center(
-                                                child: Text(
-                                                  'Image not found',
-                                                  style: TextStyle(
-                                                    color: Colors.grey,
-                                                    fontSize: 12,
-                                                  ),
-                                                ),
+                                      child: Stack(
+                                        children: [
+                                          ClipRRect(
+                                            borderRadius: BorderRadius.circular(12),
+                                            child: SizedBox(
+                                              width: MediaQuery.of(context).size.height / 812 * 150,
+                                              height: MediaQuery.of(context).size.height / 812 * 200,
+                                              child: Image.asset(
+                                                confidant['confidant_UserIcon'],
+                                                fit: BoxFit.cover,
+                                                width: MediaQuery.of(context).size.height / 812 * 150,
+                                                height: MediaQuery.of(context).size.height / 812 * 200,
+                                                errorBuilder: (context, error, stackTrace) {
+                                                  return Container(
+                                                    width: MediaQuery.of(context).size.height / 812 * 150,
+                                                    height: MediaQuery.of(context).size.height / 812 * 200,
+                                                    color: Colors.grey[300],
+                                                    child: const Center(
+                                                      child: Text(
+                                                        'Image not found',
+                                                        style: TextStyle(
+                                                          color: Colors.grey,
+                                                          fontSize: 12,
+                                                        ),
+                                                      ),
+                                                    ),
+                                                  );
+                                                },
                                               ),
-                                            );
-                                          },
-                                        ),
+                                            ),
+                                          ),
+                                          // 锁定状态覆盖层
+                                          if (!isUnlocked)
+                                            Container(
+                                              decoration: BoxDecoration(
+                                                color: Colors.black.withOpacity(0.6),
+                                                borderRadius: BorderRadius.circular(12),
+                                              ),
+                                              child: Column(
+                                                mainAxisAlignment: MainAxisAlignment.center,
+                                                children: [
+                                                  const Icon(
+                                                    Icons.lock,
+                                                    color: Colors.white,
+                                                    size: 30,
+                                                  ),
+                                                  const SizedBox(height: 8),
+                                                  const Text(
+                                                    'Locked',
+                                                    style: TextStyle(
+                                                      color: Colors.white,
+                                                      fontSize: 12,
+                                                      fontWeight: FontWeight.bold,
+                                                    ),
+                                                  ),
+                                                  const SizedBox(height: 4),
+                                                  Row(
+                                                    mainAxisAlignment: MainAxisAlignment.center,
+                                                    children: [
+                                                      Image.asset(
+                                                        'assets/wallet_diamond_icon.webp',
+                                                        width: 16,
+                                                        height: 16,
+                                                        fit: BoxFit.contain,
+                                                        errorBuilder: (context, error, stackTrace) {
+                                                          return const Icon(
+                                                            Icons.diamond,
+                                                            color: Color(0xFFFFD700),
+                                                            size: 16,
+                                                          );
+                                                        },
+                                                      ),
+                                                      const SizedBox(width: 4),
+                                                      const Text(
+                                                        '1000',
+                                                        style: TextStyle(
+                                                          color: Colors.white,
+                                                          fontSize: 12,
+                                                          fontWeight: FontWeight.bold,
+                                                        ),
+                                                      ),
+                                                    ],
+                                                  ),
+                                                ],
+                                              ),
+                                            ),
+                                        ],
                                       ),
                                     ),
                                   );

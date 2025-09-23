@@ -3,7 +3,9 @@ import 'package:image_picker/image_picker.dart';
 import 'dart:io';
 import '../models/user_info.dart';
 import '../services/user_info_service.dart';
+import '../services/vip_service.dart';
 import '../widgets/ios_alert.dart';
+import 'Subscribe_VIP_page.dart';
 
 class EditorInfoPage extends StatefulWidget {
   final VoidCallback? onUserInfoUpdated;
@@ -21,11 +23,13 @@ class _EditorInfoPageState extends State<EditorInfoPage> {
   String _avatarPath = 'assets/user_default_icon_20250911.webp';
   String _backgroundPath = 'assets/mine_defalut_bg_20250911.webp';
   final ImagePicker _picker = ImagePicker();
+  bool _isVipActive = false;
 
   @override
   void initState() {
     super.initState();
     _loadUserInfo();
+    _loadVipStatus();
   }
 
   Future<void> _loadUserInfo() async {
@@ -40,6 +44,27 @@ class _EditorInfoPageState extends State<EditorInfoPage> {
       });
     } catch (e) {
       print('Error loading user info: $e');
+    }
+  }
+
+  Future<void> _loadVipStatus() async {
+    try {
+      final isActive = await VipService.isVipActive();
+      final isExpired = await VipService.isVipExpired();
+      
+      setState(() {
+        _isVipActive = isActive && !isExpired;
+      });
+      
+      // 如果VIP已过期，自动停用
+      if (isActive && isExpired) {
+        await VipService.deactivateVip();
+        setState(() {
+          _isVipActive = false;
+        });
+      }
+    } catch (e) {
+      print('EditorInfoPage - Error loading VIP status: $e');
     }
   }
 
@@ -445,6 +470,12 @@ class _EditorInfoPageState extends State<EditorInfoPage> {
   }
 
   Future<void> _saveChanges() async {
+    // 检查VIP状态
+    if (!_isVipActive) {
+      _showVipRequiredDialog();
+      return;
+    }
+
     try {
       final userInfo = UserInfo(
         name: _nameController.text,
@@ -470,5 +501,92 @@ class _EditorInfoPageState extends State<EditorInfoPage> {
       print('Error saving user info: $e');
       IOSAlert.showError(context, 'Error saving information: $e');
     }
+  }
+
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: Row(
+            children: [
+              Container(
+                padding: const EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  gradient: const LinearGradient(
+                    colors: [Color(0xFFD20073), Color(0xFF9A0B5C)],
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                  ),
+                  shape: BoxShape.circle,
+                ),
+                child: const Icon(
+                  Icons.star,
+                  color: Colors.white,
+                  size: 20,
+                ),
+              ),
+              const SizedBox(width: 12),
+              const Text(
+                'VIP Required',
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                  color: Color(0xFF333333),
+                ),
+              ),
+            ],
+          ),
+          content: const Text(
+            'Editing personal information is a VIP feature. Please subscribe to VIP to unlock this feature.',
+            style: TextStyle(
+              fontSize: 16,
+              color: Color(0xFF666666),
+              height: 1.4,
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Color(0xFF999999),
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                // 导航到VIP订阅页面
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const SubscribeVIPPage(),
+                  ),
+                );
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFD20073),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'Subscribe VIP',
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
   }
 }

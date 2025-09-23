@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../services/glm4_service.dart';
 import '../services/chat_storage_service.dart';
 import '../services/user_info_service.dart';
+import '../services/coin_service.dart';
 import '../models/user_info.dart';
 import '../widgets/ios_alert.dart';
 import 'cofidant_voice_call_page.dart';
@@ -155,6 +156,80 @@ class _CoFidantChatPageState extends State<CoFidantChatPage> {
     });
   }
 
+  Future<void> _restartConversation() async {
+    // 检查金币余额
+    final currentCoins = await CoinService.getCurrentCoins();
+    if (currentCoins < 60) {
+      _showInsufficientCoinsDialog();
+      return;
+    }
+
+    // 显示确认对话框
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text('Restart Conversation'),
+          content: const Text('Starting a new conversation will cost 60 Coins. Continue?'),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFD20073),
+                foregroundColor: Colors.white,
+              ),
+              child: const Text('Confirm'),
+            ),
+          ],
+        );
+      },
+    );
+
+    if (confirmed == true) {
+      // 扣除金币
+      final success = await CoinService.spendCoins(60);
+      if (success) {
+        // 清空聊天记录
+        await ChatStorageService.clearChatMessages(widget.confidantProfile['confidant_id']);
+        
+        // 重新加载聊天历史（会显示欢迎消息）
+        _loadChatHistory();
+        
+        // 显示成功提示
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Conversation restarted! 60 Coins deducted.'),
+            backgroundColor: Color(0xFFD20073),
+          ),
+        );
+      } else {
+        _showInsufficientCoinsDialog();
+      }
+    }
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text('Insufficient Coins'),
+          content: const Text('You need at least 60 Coins to restart a conversation. Please purchase more coins.'),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text('OK'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -218,6 +293,15 @@ class _CoFidantChatPageState extends State<CoFidantChatPage> {
                         ),
                       ],
                     ),
+                  ),
+                  // 重新发起对话按钮
+                  IconButton(
+                    icon: const Icon(
+                      Icons.refresh,
+                      color: Color(0xFFD20073),
+                    ),
+                    onPressed: _restartConversation,
+                    tooltip: 'Restart Conversation (60 Coins)',
                   ),
                 ],
               ),
