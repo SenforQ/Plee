@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAnchorBorder</key>
+	<string>newestRepositoryHue</string>
+	<key>baselineExceptCommand</key>
+	<string>coordinatorNearStructure</string>
+	<key>commandFormScale</key>
+	<string>tweenFromComposite</string>
+	<key>radioPrototypeTint</key>
+	<string>adaptiveIntensityResponse</string>
+	<key>requiredSpotScale</key>
+	<string>logContextAlignment</string>
+	<key>tickerTierForce</key>
+	<string>progressbarByAction</string>
+</dict>
+</plist>

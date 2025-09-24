@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBesideScope</key>
+	<string>cursorAgainstCycle</string>
+	<key>effectExceptWork</key>
+	<string>typicalUnaryLeft</string>
+	<key>functionalBaselineSaturation</key>
+	<string>smallProviderBrightness</string>
+	<key>navigatorFlyweightVisible</key>
+	<string>easyModulusMargin</string>
+	<key>navigatorPerParam</key>
+	<string>nextGetxStatus</string>
+	<key>storeLayerMargin</key>
+	<string>variantBridgeFlags</string>
+	<key>textActionResponse</key>
+	<string>iterativeSignLocation</string>
+	<key>threadOperationMargin</key>
+	<string>labelPrototypeBound</string>
+</dict>
+</plist>

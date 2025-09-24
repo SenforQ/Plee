@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsAwayCommand</key>
+	<string>overlayAgainstComposite</string>
+	<key>fusedViewFormat</key>
+	<string>difficultBlocDepth</string>
+	<key>positionUntilVariable</key>
+	<string>factoryFromSystem</string>
+	<key>priorHeroBound</key>
+	<string>missionShapeContrast</string>
+	<key>reducerNearMediator</key>
+	<string>requestPlatformFrequency</string>
+	<key>storeFunctionInterval</key>
+	<string>lostReducerTheme</string>
+</dict>
+</plist>

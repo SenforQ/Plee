@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSliderSkewy</key>
+	<string>positionedInActivity</string>
+	<key>columnShapeCount</key>
+	<string>concurrentProgressbarVelocity</string>
+	<key>gradientAsSingleton</key>
+	<string>statelessTabbarTheme</string>
+	<key>notificationWithoutLayer</key>
+	<string>cupertinoLayerInterval</string>
+	<key>semanticChannelOffset</key>
+	<string>gramLevelDistance</string>
+	<key>sinkCommandCoord</key>
+	<string>enabledRowFeedback</string>
+	<key>viewStyleSaturation</key>
+	<string>crucialMusicForce</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAtEnvironment</key>
+	<string>normAndActivity</string>
+	<key>arithmeticShaderDepth</key>
+	<string>zoneCycleDensity</string>
+	<key>chapterStageDensity</key>
+	<string>previewForFacade</string>
+	<key>dropdownbuttonValueFeedback</key>
+	<string>taskAdapterInterval</string>
+	<key>fixedFeatureMomentum</key>
+	<string>permissiveLayoutType</string>
+	<key>layoutInsideKind</key>
+	<string>uniqueNavigatorDensity</string>
+	<key>permanentHashShape</key>
+	<string>gesturedetectorCompositeEdge</string>
+	<key>significantDecorationOrigin</key>
+	<string>tabviewCycleOrientation</string>
+	<key>utilScopeDelay</key>
+	<string>specifierUntilScope</string>
+</dict>
+</plist>

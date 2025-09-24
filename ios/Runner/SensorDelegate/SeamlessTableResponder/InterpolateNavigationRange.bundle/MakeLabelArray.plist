@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeRowInteraction</key>
+	<string>draggableGraphDuration</string>
+	<key>mobileInjectionOpacity</key>
+	<string>backwardSizeHue</string>
+	<key>resilientSegueTop</key>
+	<string>inheritedStoreTransparency</string>
+	<key>routerContainShape</key>
+	<string>accordionFragmentDirection</string>
+	<key>symmetricButtonMargin</key>
+	<string>routeStructureRight</string>
+	<key>tangentStageMargin</key>
+	<string>appbarScopeBrightness</string>
+	<key>uniqueIconIndex</key>
+	<string>seamlessDropdownbuttonTail</string>
+	<key>vectorIncludeFlyweight</key>
+	<string>textfieldContainShape</string>
+	<key>visibleEntitySpacing</key>
+	<string>missionPrototypeSaturation</string>
+</dict>
+</plist>

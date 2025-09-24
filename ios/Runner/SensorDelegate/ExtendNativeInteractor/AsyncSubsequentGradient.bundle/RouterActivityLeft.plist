@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStrategyTail</key>
+	<string>painterFormTag</string>
+	<key>captionPerCycle</key>
+	<string>robustScrollRotation</string>
+	<key>desktopMissionType</key>
+	<string>singletonMediatorSkewy</string>
+	<key>managerAgainstActivity</key>
+	<string>cupertinoViewContrast</string>
+	<key>semanticsAroundBuffer</key>
+	<string>similarFutureAlignment</string>
+	<key>statefulCharacterType</key>
+	<string>uniformObserverCenter</string>
+</dict>
+</plist>

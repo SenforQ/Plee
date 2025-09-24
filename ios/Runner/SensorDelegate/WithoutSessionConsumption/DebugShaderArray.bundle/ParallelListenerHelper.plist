@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectForLevel</key>
+	<string>commonDocumentScale</string>
+	<key>featureFunctionAcceleration</key>
+	<string>mediaBesideInterpreter</string>
+	<key>layerSincePattern</key>
+	<string>adaptiveReferenceBrightness</string>
+	<key>modelCommandDuration</key>
+	<string>tangentObserverCount</string>
+	<key>navigationSystemPosition</key>
+	<string>utilDuringAction</string>
+	<key>symbolPlatformSkewy</key>
+	<string>gridOperationMargin</string>
+</dict>
+</plist>

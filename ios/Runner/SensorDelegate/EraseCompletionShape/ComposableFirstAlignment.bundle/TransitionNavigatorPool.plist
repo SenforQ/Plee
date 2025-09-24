@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableFuturePressure</key>
+	<string>staticViewTag</string>
+	<key>draggableMobileContrast</key>
+	<string>sequentialGridviewTop</string>
+	<key>notifierExceptSingleton</key>
+	<string>gradientAgainstWork</string>
+	<key>relationalCapsuleVelocity</key>
+	<string>transitionBeyondSingleton</string>
+	<key>singletonPhaseDepth</key>
+	<string>spineSingletonLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWorkVelocity</key>
+	<string>largeNavigatorHue</string>
+	<key>appbarFlyweightOffset</key>
+	<string>storageProcessAlignment</string>
+	<key>callbackLevelSkewx</key>
+	<string>declarativeOptimizerFeedback</string>
+	<key>largeLabelOrientation</key>
+	<string>cubitStructureLeft</string>
+</dict>
+</plist>

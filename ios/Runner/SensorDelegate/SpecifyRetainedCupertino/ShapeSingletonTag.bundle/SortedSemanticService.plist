@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardTransitionLeft</key>
+	<string>commandSinceNumber</string>
+	<key>intermediateApertureVisible</key>
+	<string>positionDuringMode</string>
+	<key>nodeTempleMode</key>
+	<string>mainPromiseVisibility</string>
+	<key>pinchableSegmentDistance</key>
+	<string>pinchableBoxshadowCount</string>
+</dict>
+</plist>

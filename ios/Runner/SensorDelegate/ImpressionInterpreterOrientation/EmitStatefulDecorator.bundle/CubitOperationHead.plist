@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTaskTransparency</key>
+	<string>previewPrototypeValidation</string>
+	<key>delegateStateBottom</key>
+	<string>synchronousSpotScale</string>
+	<key>elasticActivityTail</key>
+	<string>themeStagePosition</string>
+	<key>giftWorkShape</key>
+	<string>usecaseOfPlatform</string>
+	<key>histogramPlatformOrientation</key>
+	<string>cupertinoPointMode</string>
+	<key>tweenOutsideProcess</key>
+	<string>uniformGraphHue</string>
+	<key>vectorByChain</key>
+	<string>workflowOrPrototype</string>
+</dict>
+</plist>

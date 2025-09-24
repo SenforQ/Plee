@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationProxyOrigin</key>
+	<string>radiusWithKind</string>
+	<key>cubitParameterSaturation</key>
+	<string>animatedMarginValidation</string>
+	<key>cupertinoAroundEnvironment</key>
+	<string>modalAsSingleton</string>
+	<key>cupertinoIncludeFacade</key>
+	<string>singletonStrategyTint</string>
+	<key>largeSliderFlags</key>
+	<string>positionIncludeChain</string>
+	<key>profileStrategyAppearance</key>
+	<string>curveProxySpacing</string>
+	<key>routerAgainstDecorator</key>
+	<string>buttonVarBehavior</string>
+	<key>secondErrorBound</key>
+	<string>mobxTypeKind</string>
+	<key>widgetActivityInterval</key>
+	<string>remainderNumberFeedback</string>
+</dict>
+</plist>

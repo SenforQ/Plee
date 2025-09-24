@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPhaseCount</key>
+	<string>viewPerObserver</string>
+	<key>independentConsumerMode</key>
+	<string>unactivatedInjectionSkewx</string>
+	<key>interactiveBorderBound</key>
+	<string>typicalSignRotation</string>
+	<key>protectedAnimationHead</key>
+	<string>newestConfigurationColor</string>
+</dict>
+</plist>

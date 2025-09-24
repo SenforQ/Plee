@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionParamSkewy</key>
+	<string>getxAdapterOrientation</string>
+	<key>asynchronousRouterVelocity</key>
+	<string>retainedAnchorLocation</string>
+	<key>binaryMediatorVelocity</key>
+	<string>tangentActivityEdge</string>
+	<key>geometricTitleKind</key>
+	<string>streamBeyondActivity</string>
+	<key>nodeCompositeCoord</key>
+	<string>cartesianOverlayBound</string>
+	<key>notificationActivityBorder</key>
+	<string>titleTypeDelay</string>
+	<key>sustainableChallengeResponse</key>
+	<string>chapterVarDensity</string>
+</dict>
+</plist>

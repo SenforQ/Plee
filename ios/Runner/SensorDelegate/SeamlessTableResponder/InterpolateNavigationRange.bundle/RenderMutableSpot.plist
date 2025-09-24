@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorCommandTop</key>
+	<string>synchronousEquipmentSkewx</string>
+	<key>gridSinceType</key>
+	<string>sampleViaWork</string>
+	<key>interactorStyleAlignment</key>
+	<string>entityOutsideActivity</string>
+	<key>mobileDialogsSaturation</key>
+	<string>modulusAdapterFormat</string>
+	<key>popupAsPhase</key>
+	<string>scaffoldContainMethod</string>
+	<key>stackAlongPrototype</key>
+	<string>dropdownbuttonBeyondContext</string>
+</dict>
+</plist>

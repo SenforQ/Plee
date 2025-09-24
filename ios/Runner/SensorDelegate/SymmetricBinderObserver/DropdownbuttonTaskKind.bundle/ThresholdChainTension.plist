@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsStrategyInset</key>
+	<string>crudeControllerOpacity</string>
+	<key>commonProviderTag</key>
+	<string>usecaseWithFramework</string>
+	<key>navigatorAgainstScope</key>
+	<string>errorValueDuration</string>
+	<key>resourceAtAction</key>
+	<string>tabbarBeyondType</string>
+</dict>
+</plist>

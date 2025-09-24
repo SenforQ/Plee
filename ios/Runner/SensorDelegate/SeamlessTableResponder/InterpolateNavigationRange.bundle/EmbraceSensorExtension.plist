@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferIncludeKind</key>
+	<string>fixedQueryInterval</string>
+	<key>frameVersusType</key>
+	<string>interactorIncludeForm</string>
+	<key>hyperbolicFragmentValidation</key>
+	<string>subtleStreamAppearance</string>
+	<key>referenceNearFunction</key>
+	<string>projectionTypeStyle</string>
+	<key>repositoryAtAdapter</key>
+	<string>stepWithoutPlatform</string>
+	<key>statelessSingletonSpeed</key>
+	<string>blocCompositeDepth</string>
+</dict>
+</plist>

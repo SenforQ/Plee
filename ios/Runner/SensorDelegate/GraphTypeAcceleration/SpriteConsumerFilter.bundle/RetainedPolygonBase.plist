@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertSinceComposite</key>
+	<string>directEffectInteraction</string>
+	<key>autoRouteDistance</key>
+	<string>radioOutsideSingleton</string>
+	<key>blocTaskForce</key>
+	<string>awaitSystemRotation</string>
+	<key>delicateNavigatorEdge</key>
+	<string>mediaqueryAsFlyweight</string>
+	<key>navigationFormAppearance</key>
+	<string>coordinatorBridgeInterval</string>
+	<key>notificationStateStyle</key>
+	<string>smartUtilPressure</string>
+	<key>oldButtonName</key>
+	<string>delicateReducerTag</string>
+	<key>resourceUntilForm</key>
+	<string>fixedReferenceAlignment</string>
+	<key>subtleContainerOrigin</key>
+	<string>profileThroughProcess</string>
+	<key>usecaseNearFunction</key>
+	<string>entityStyleHead</string>
+</dict>
+</plist>

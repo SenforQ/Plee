@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBeyondFlyweight</key>
+	<string>modelProxyMode</string>
+	<key>discardedFragmentBorder</key>
+	<string>adaptiveCustompaintDelay</string>
+	<key>elasticPainterCenter</key>
+	<string>boxshadowScopeTransparency</string>
+	<key>immediateObserverInteraction</key>
+	<string>descriptorStructureOffset</string>
+	<key>indicatorExceptActivity</key>
+	<string>entityTaskTint</string>
+	<key>layerNearBuffer</key>
+	<string>queueAgainstPrototype</string>
+	<key>nativeSegueCount</key>
+	<string>optimizerOrPrototype</string>
+	<key>secondArithmeticHue</key>
+	<string>localTextureVisible</string>
+	<key>sizeOperationMode</key>
+	<string>configurationWithoutValue</string>
+	<key>tensorDropdownbuttonCount</key>
+	<string>iterativeTernaryTension</string>
+</dict>
+</plist>

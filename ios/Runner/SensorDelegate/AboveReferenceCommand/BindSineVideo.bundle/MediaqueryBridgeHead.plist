@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisEnvironmentScale</key>
+	<string>metadataIncludeObserver</string>
+	<key>baselineActionRotation</key>
+	<string>immediateGrainInteraction</string>
+	<key>localizationForProxy</key>
+	<string>tickerViaJob</string>
+	<key>lostTabbarAcceleration</key>
+	<string>semanticsDecoratorForce</string>
+	<key>masterDecoratorTag</key>
+	<string>methodFlyweightOffset</string>
+	<key>observerForStage</key>
+	<string>effectAboutNumber</string>
+	<key>statelessHashTint</key>
+	<string>boxshadowWorkFlags</string>
+	<key>streamAlongSystem</key>
+	<string>pivotalTaskStyle</string>
+	<key>substantialHeapPressure</key>
+	<string>synchronousBlocResponse</string>
+</dict>
+</plist>

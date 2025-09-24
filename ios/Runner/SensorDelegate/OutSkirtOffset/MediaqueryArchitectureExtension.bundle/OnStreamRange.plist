@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOfCommand</key>
+	<string>labelIncludeJob</string>
+	<key>localizationVersusSingleton</key>
+	<string>logUntilJob</string>
+	<key>lostButtonDensity</key>
+	<string>priorityDuringVariable</string>
+	<key>priorCellDirection</key>
+	<string>cellAdapterShade</string>
+	<key>sensorAsPrototype</key>
+	<string>queueOfStage</string>
+	<key>textDecoratorType</key>
+	<string>greatScaffoldDirection</string>
+	<key>webChannelTint</key>
+	<string>autoPopupEdge</string>
+	<key>zoneOrOperation</key>
+	<string>disabledQueryHue</string>
+</dict>
+</plist>

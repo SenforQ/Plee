@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionThanWork</key>
+	<string>bitrateAgainstComposite</string>
+	<key>adaptiveLoopHue</key>
+	<string>pinchableSizeAcceleration</string>
+	<key>exceptionMethodRotation</key>
+	<string>cubitShapeDensity</string>
+	<key>kernelBufferSpeed</key>
+	<string>mutableInterfaceMode</string>
+	<key>mediaqueryScopeLeft</key>
+	<string>textPlatformDuration</string>
+	<key>sharedMatrixRight</key>
+	<string>localizationFormShade</string>
+	<key>singleSceneName</key>
+	<string>keyZoneTail</string>
+	<key>standaloneFactoryDepth</key>
+	<string>mobileMediaqueryTint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorViaPlatform</key>
+	<string>mobileFromAdapter</string>
+	<key>associatedDecorationFrequency</key>
+	<string>overlayStyleInset</string>
+	<key>diversifiedBufferCenter</key>
+	<string>projectOrStructure</string>
+	<key>grainBufferSize</key>
+	<string>similarResponseAppearance</string>
+	<key>heapFromParam</key>
+	<string>cacheSinceVariable</string>
+	<key>imperativeGroupFeedback</key>
+	<string>unactivatedLayoutAppearance</string>
+	<key>menuViaAction</key>
+	<string>decorationPlatformRight</string>
+	<key>providerEnvironmentRight</key>
+	<string>hardCompletionMode</string>
+	<key>resilientCurveFeedback</key>
+	<string>bufferAtKind</string>
+</dict>
+</plist>

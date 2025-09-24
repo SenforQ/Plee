@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncListenerVelocity</key>
+	<string>newestChallengeLeft</string>
+	<key>brushAgainstCycle</key>
+	<string>permanentTaskSpacing</string>
+	<key>commandOrComposite</key>
+	<string>batchLevelOrigin</string>
+	<key>concreteSizeValidation</key>
+	<string>originalStackTheme</string>
+	<key>cupertinoSkinLocation</key>
+	<string>sortedBlocLocation</string>
+	<key>rowAlongChain</key>
+	<string>gramSinceBuffer</string>
+	<key>textfieldAboutPrototype</key>
+	<string>injectionBeyondKind</string>
+	<key>tickerMediatorPadding</key>
+	<string>positionThroughParam</string>
+</dict>
+</plist>

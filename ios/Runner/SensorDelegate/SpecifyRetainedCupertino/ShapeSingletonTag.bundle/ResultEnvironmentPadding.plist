@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectActivityScale</key>
+	<string>granularCompositionSize</string>
+	<key>futureAtProxy</key>
+	<string>liteFrameStatus</string>
+	<key>metadataWithoutSingleton</key>
+	<string>tensorDialogsVisible</string>
+	<key>rowVersusBridge</key>
+	<string>semanticsMediatorStyle</string>
+</dict>
+</plist>

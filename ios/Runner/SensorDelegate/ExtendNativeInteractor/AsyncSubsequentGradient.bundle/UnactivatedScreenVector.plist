@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerLevelAlignment</key>
+	<string>euclideanFrameSaturation</string>
+	<key>mobileAwayMode</key>
+	<string>expandedSinceMediator</string>
+	<key>prevTangentDistance</key>
+	<string>interactiveEffectAlignment</string>
+	<key>sortedSemanticsFormat</key>
+	<string>stateModeMode</string>
+	<key>specifierAgainstParameter</key>
+	<string>cubitAwayBridge</string>
+	<key>storeLikeMethod</key>
+	<string>listenerChainDelay</string>
+	<key>viewContainLayer</key>
+	<string>layoutVisitorTop</string>
+</dict>
+</plist>

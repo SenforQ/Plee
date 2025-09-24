@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThanParam</key>
+	<string>indicatorAgainstSystem</string>
+	<key>cubitVarName</key>
+	<string>alphaValueTransparency</string>
+	<key>lostStatefulBound</key>
+	<string>nextHeroState</string>
+	<key>staticSineInset</key>
+	<string>adaptiveBoxDuration</string>
+	<key>titlePerWork</key>
+	<string>rowAmongJob</string>
+</dict>
+</plist>

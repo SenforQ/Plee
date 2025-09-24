@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBeyondFacade</key>
+	<string>advancedHashDensity</string>
+	<key>challengeDespiteProxy</key>
+	<string>mediaqueryFrameworkAppearance</string>
+	<key>controllerBufferAcceleration</key>
+	<string>delegateOfBuffer</string>
+	<key>cubitThroughActivity</key>
+	<string>dedicatedDurationForce</string>
+	<key>observerBesideFramework</key>
+	<string>cubitNumberFlags</string>
+	<key>prevCompleterSize</key>
+	<string>multiProviderOrigin</string>
+	<key>webCosineTension</key>
+	<string>transformerExceptActivity</string>
+</dict>
+</plist>

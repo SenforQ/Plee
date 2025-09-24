@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFromFramework</key>
+	<string>sizeViaShape</string>
+	<key>asyncScopeTheme</key>
+	<string>fusedGroupEdge</string>
+	<key>errorJobBottom</key>
+	<string>indicatorShapeTint</string>
+	<key>listenerStrategyTag</key>
+	<string>statelessConsumerDepth</string>
+	<key>loopStateTop</key>
+	<string>appbarParamFeedback</string>
+	<key>scrollableCurveMode</key>
+	<string>entropyAgainstFunction</string>
+	<key>sortedScaffoldCount</key>
+	<string>enabledAnchorDirection</string>
+	<key>subtleIconSkewx</key>
+	<string>singletonLayerShape</string>
+	<key>timerProcessRate</key>
+	<string>controllerBufferPosition</string>
+</dict>
+</plist>

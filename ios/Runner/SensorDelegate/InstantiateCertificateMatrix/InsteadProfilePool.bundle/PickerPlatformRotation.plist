@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resourceViaLevel</key>
+	<string>largeChecklistOffset</string>
+	<key>riverpodFacadeRotation</key>
+	<string>movementActivityState</string>
+	<key>seamlessProviderAcceleration</key>
+	<string>nextContainerAcceleration</string>
+	<key>staticChapterAppearance</key>
+	<string>primaryInteractorAcceleration</string>
+	<key>unsortedSingletonInset</key>
+	<string>referenceFlyweightResponse</string>
+	<key>vectorAdapterLeft</key>
+	<string>consultativeSegueMode</string>
+	<key>webGramOrientation</key>
+	<string>dependencyAroundPrototype</string>
+</dict>
+</plist>

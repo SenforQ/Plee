@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelBeyondStyle</key>
+	<string>disabledVectorFlags</string>
+	<key>constraintWithoutObserver</key>
+	<string>resourceBridgeStyle</string>
+	<key>cubeActivityOrientation</key>
+	<string>responsiveStorageName</string>
+	<key>explicitAwaitIndex</key>
+	<string>euclideanAspectMargin</string>
+	<key>gemAdapterOpacity</key>
+	<string>exponentTypeName</string>
+	<key>originalDependencyRate</key>
+	<string>cubeIncludeSystem</string>
+	<key>semanticInterfaceAppearance</key>
+	<string>displayableResultTheme</string>
+	<key>similarTabviewHue</key>
+	<string>titleForDecorator</string>
+	<key>switchByMethod</key>
+	<string>cardExceptObserver</string>
+</dict>
+</plist>

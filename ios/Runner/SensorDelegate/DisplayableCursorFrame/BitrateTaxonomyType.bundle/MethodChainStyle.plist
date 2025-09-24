@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioKindPosition</key>
+	<string>playbackSinceCycle</string>
+	<key>asyncLevelBehavior</key>
+	<string>factoryChainAppearance</string>
+	<key>diffableRouterPadding</key>
+	<string>pinchableExceptionValidation</string>
+	<key>queryPerJob</key>
+	<string>cartesianStorageForce</string>
+	<key>segueAboutMethod</key>
+	<string>inheritedAlertMode</string>
+</dict>
+</plist>

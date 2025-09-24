@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicPatternInteraction</key>
+	<string>awaitOrLevel</string>
+	<key>greatBaselineVisibility</key>
+	<string>observerParameterCoord</string>
+	<key>intensityOfValue</key>
+	<string>completerTaskDepth</string>
+	<key>interactorVersusPhase</key>
+	<string>alphaPlatformLocation</string>
+	<key>queueActivityCount</key>
+	<string>stackModeScale</string>
+	<key>robustRoleVisible</key>
+	<string>mobxOutsidePhase</string>
+	<key>skinParamForce</key>
+	<string>activeShaderPressure</string>
+	<key>usageThroughFacade</key>
+	<string>sequentialFlexContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framePerCycle</key>
+	<string>petScopePadding</string>
+	<key>routerLikeShape</key>
+	<string>rectStrategyTop</string>
+	<key>transformerThroughPlatform</key>
+	<string>extensionOutsideDecorator</string>
+	<key>viewByInterpreter</key>
+	<string>intermediateProviderRight</string>
+</dict>
+</plist>

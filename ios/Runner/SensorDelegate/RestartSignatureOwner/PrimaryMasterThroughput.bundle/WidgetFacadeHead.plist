@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferParameterVisibility</key>
+	<string>hashValueRight</string>
+	<key>firstSymbolValidation</key>
+	<string>heapInMode</string>
+	<key>heapNumberFrequency</key>
+	<string>swiftAboutParameter</string>
+	<key>hierarchicalViewPosition</key>
+	<string>durationVersusFramework</string>
+	<key>previewStageDirection</key>
+	<string>textureAsAdapter</string>
+	<key>smartTextfieldTint</key>
+	<string>listenerAsProcess</string>
+	<key>toolObserverSkewy</key>
+	<string>isolateOutsideAction</string>
+</dict>
+</plist>

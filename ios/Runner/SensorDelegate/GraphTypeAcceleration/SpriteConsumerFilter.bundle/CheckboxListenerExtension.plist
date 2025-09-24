@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorProcessDistance</key>
+	<string>hardViewSpacing</string>
+	<key>cubePatternForce</key>
+	<string>sinkBesideDecorator</string>
+	<key>modulusDecoratorTag</key>
+	<string>subpixelAsBuffer</string>
+	<key>resilientParticleDirection</key>
+	<string>modulusDecoratorMargin</string>
+	<key>resourceVariableHue</key>
+	<string>reducerVarDensity</string>
+	<key>sustainableMethodScale</key>
+	<string>explicitRadioDirection</string>
+	<key>topicStrategyOrientation</key>
+	<string>declarativeObserverTint</string>
+	<key>unsortedViewSkewx</key>
+	<string>mutableRequestDepth</string>
+</dict>
+</plist>

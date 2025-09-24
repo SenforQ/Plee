@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAgainstEnvironment</key>
+	<string>providerNumberValidation</string>
+	<key>diffablePositionLeft</key>
+	<string>mobileStageRate</string>
+	<key>gridWorkCount</key>
+	<string>overlayFlyweightAlignment</string>
+	<key>interactorPerSystem</key>
+	<string>mediumDescriptorKind</string>
+	<key>permanentTouchBound</key>
+	<string>lossFromMethod</string>
+</dict>
+</plist>

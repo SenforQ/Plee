@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySinceJob</key>
+	<string>grainFacadeSaturation</string>
+	<key>bufferProxyMode</key>
+	<string>flexibleIsolateAcceleration</string>
+	<key>constPositionInteraction</key>
+	<string>providerPhaseStatus</string>
+	<key>iconIncludeLayer</key>
+	<string>exceptionVariableDensity</string>
+	<key>resilientLayoutSkewy</key>
+	<string>signUntilActivity</string>
+	<key>zoneLayerName</key>
+	<string>plateParameterOpacity</string>
+</dict>
+</plist>

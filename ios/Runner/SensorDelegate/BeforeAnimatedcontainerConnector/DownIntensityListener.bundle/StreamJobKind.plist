@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionStrategyPadding</key>
+	<string>statefulToolSize</string>
+	<key>displayableAspectratioSpeed</key>
+	<string>shaderBridgeInterval</string>
+	<key>segmentWorkValidation</key>
+	<string>lostFutureBehavior</string>
+	<key>tweenStrategyStatus</key>
+	<string>streamForProxy</string>
+	<key>usageMethodSpeed</key>
+	<string>delegateOutsideNumber</string>
+</dict>
+</plist>

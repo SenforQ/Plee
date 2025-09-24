@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianNotifierStyle</key>
+	<string>finalBlocAppearance</string>
+	<key>collectionNumberStatus</key>
+	<string>storyboardVariableAcceleration</string>
+	<key>controllerFromBridge</key>
+	<string>futureEnvironmentType</string>
+	<key>cursorVersusForm</key>
+	<string>metadataWorkBrightness</string>
+	<key>radiusFacadeSaturation</key>
+	<string>taskActivityBorder</string>
+	<key>resourceStageRight</key>
+	<string>delegateSinceLevel</string>
+	<key>riverpodDuringSingleton</key>
+	<string>transformerProcessCount</string>
+	<key>skinMementoDepth</key>
+	<string>autoDescriptionSaturation</string>
+</dict>
+</plist>

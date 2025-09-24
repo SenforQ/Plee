@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePreviewAcceleration</key>
+	<string>synchronousRowStyle</string>
+	<key>radiusAtShape</key>
+	<string>tickerAndPrototype</string>
+	<key>smartCompletionFlags</key>
+	<string>multiplicationViaFacade</string>
+	<key>tweenJobShade</key>
+	<string>resizableIntensityTint</string>
+</dict>
+</plist>

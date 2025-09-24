@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitCommandShape</key>
+	<string>gateThroughMemento</string>
+	<key>grainSingletonInteraction</key>
+	<string>subscriptionAndType</string>
+	<key>groupFlyweightRate</key>
+	<string>curveTypeSpeed</string>
+	<key>histogramInsideOperation</key>
+	<string>protectedMobxSaturation</string>
+	<key>indicatorModeVelocity</key>
+	<string>signParameterValidation</string>
+	<key>injectionAtNumber</key>
+	<string>cosineParameterRotation</string>
+	<key>logarithmVisitorSkewy</key>
+	<string>storeStageDirection</string>
+	<key>rapidSensorLeft</key>
+	<string>commandPhaseDepth</string>
+	<key>reducerLayerState</key>
+	<string>timerExceptContext</string>
+</dict>
+</plist>

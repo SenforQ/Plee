@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectStateEdge</key>
+	<string>statelessActivityBorder</string>
+	<key>granularBehaviorState</key>
+	<string>greatDurationShade</string>
+	<key>gridNearAction</key>
+	<string>permissiveRequestSize</string>
+	<key>resolverThroughShape</key>
+	<string>toolAtFacade</string>
+	<key>resourceActionTension</key>
+	<string>inheritedTickerShape</string>
+</dict>
+</plist>

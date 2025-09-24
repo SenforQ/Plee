@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterBesideFramework</key>
+	<string>buttonPerBridge</string>
+	<key>delegateActivityBrightness</key>
+	<string>movementAmongParam</string>
+	<key>difficultSliderStyle</key>
+	<string>listviewFrameworkSpeed</string>
+	<key>interactorDuringType</key>
+	<string>asyncSizeFlags</string>
+	<key>matrixLikeTier</key>
+	<string>draggableReferenceDuration</string>
+	<key>spotVariableSaturation</key>
+	<string>completionBeyondAdapter</string>
+</dict>
+</plist>

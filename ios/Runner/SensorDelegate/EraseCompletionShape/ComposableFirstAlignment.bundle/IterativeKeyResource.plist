@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarForLevel</key>
+	<string>agileDropdownbuttonPressure</string>
+	<key>aspectUntilStyle</key>
+	<string>decorationStateBorder</string>
+	<key>backwardGrainDirection</key>
+	<string>inactiveObserverValidation</string>
+	<key>enabledControllerCoord</key>
+	<string>futureSinceForm</string>
+	<key>immutableReductionColor</key>
+	<string>managerTierFrequency</string>
+	<key>nativeContainerVisibility</key>
+	<string>scaleAboutMemento</string>
+	<key>navigatorStageInteraction</key>
+	<string>workflowStateVelocity</string>
+	<key>observerAndWork</key>
+	<string>screenWithoutOperation</string>
+	<key>seguePatternRotation</key>
+	<string>primaryFragmentOffset</string>
+	<key>widgetModeStyle</key>
+	<string>binaryLevelVisibility</string>
+</dict>
+</plist>

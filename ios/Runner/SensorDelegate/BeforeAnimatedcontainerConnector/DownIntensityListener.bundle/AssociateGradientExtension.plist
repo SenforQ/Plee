@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFromCycle</key>
+	<string>modalLikeValue</string>
+	<key>cupertinoFeatureMargin</key>
+	<string>scaleAlongLevel</string>
+	<key>logarithmParamDensity</key>
+	<string>denseSkirtMode</string>
+	<key>movementForScope</key>
+	<string>repositoryChainContrast</string>
+	<key>permissiveSymbolPressure</key>
+	<string>scrollableApertureRate</string>
+	<key>ternaryDecoratorOrientation</key>
+	<string>activeTextBorder</string>
+</dict>
+</plist>

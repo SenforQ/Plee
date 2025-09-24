@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobxExceptPattern</key>
+	<string>gridCycleCoord</string>
+	<key>popupLikeVar</key>
+	<string>interfaceJobLeft</string>
+	<key>presenterAwayTier</key>
+	<string>stackDespiteLayer</string>
+	<key>queuePerParam</key>
+	<string>webBulletRate</string>
+	<key>statefulStrategyDirection</key>
+	<string>resizableProviderOpacity</string>
+</dict>
+</plist>

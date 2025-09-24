@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRadiusTint</key>
+	<string>curveOfPattern</string>
+	<key>featureLevelInteraction</key>
+	<string>cupertinoNibLocation</string>
+	<key>heroByParam</key>
+	<string>associatedBatchSpeed</string>
+	<key>permanentFeatureRotation</key>
+	<string>mediaAndKind</string>
+	<key>resizableLayerSaturation</key>
+	<string>aspectActionCoord</string>
+	<key>stateTierFlags</key>
+	<string>constCubitTheme</string>
+</dict>
+</plist>

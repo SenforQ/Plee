@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFlyweightTransparency</key>
+	<string>globalProviderInset</string>
+	<key>cursorObserverHead</key>
+	<string>hardRiverpodDuration</string>
+	<key>dynamicTweenForce</key>
+	<string>kernelInterpreterState</string>
+	<key>imperativeGesturedetectorTop</key>
+	<string>sensorChainBottom</string>
+	<key>loopVariableDepth</key>
+	<string>invisibleMediaSkewx</string>
+	<key>mediaqueryStrategyFeedback</key>
+	<string>capsuleEnvironmentColor</string>
+	<key>progressbarVarCount</key>
+	<string>popupOfKind</string>
+	<key>routeStyleSize</key>
+	<string>usecaseIncludeActivity</string>
+	<key>timerPrototypeState</key>
+	<string>providerTierScale</string>
+	<key>unactivatedBlocTheme</key>
+	<string>hashTempleFlags</string>
+</dict>
+</plist>

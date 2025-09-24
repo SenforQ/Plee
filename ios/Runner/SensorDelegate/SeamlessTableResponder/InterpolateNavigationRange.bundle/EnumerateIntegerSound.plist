@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarScopeDuration</key>
+	<string>screenExceptActivity</string>
+	<key>concurrentSliderForce</key>
+	<string>activityCompositeFrequency</string>
+	<key>layoutOrPhase</key>
+	<string>intensityAroundStrategy</string>
+	<key>optionByWork</key>
+	<string>subtleFrameBorder</string>
+	<key>segmentExceptForm</key>
+	<string>delicateFutureLocation</string>
+</dict>
+</plist>

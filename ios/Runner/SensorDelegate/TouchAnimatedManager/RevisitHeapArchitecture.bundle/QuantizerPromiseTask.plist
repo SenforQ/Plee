@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryPrototypeTheme</key>
+	<string>relationalVectorTransparency</string>
+	<key>previewActionEdge</key>
+	<string>rectPlatformMargin</string>
+	<key>primaryEntropyFormat</key>
+	<string>asynchronousMultiplicationSaturation</string>
+	<key>sortedAppbarEdge</key>
+	<string>heroFunctionSkewy</string>
+	<key>unaryNumberKind</key>
+	<string>themeFormLeft</string>
+</dict>
+</plist>

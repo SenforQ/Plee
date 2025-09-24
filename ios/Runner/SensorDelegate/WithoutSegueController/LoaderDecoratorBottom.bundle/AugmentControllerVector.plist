@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaSystemLeft</key>
+	<string>materialConfigurationSkewx</string>
+	<key>constraintAndStyle</key>
+	<string>enabledCupertinoVisibility</string>
+	<key>consumerPerPlatform</key>
+	<string>otherZoneBorder</string>
+	<key>currentStorageSaturation</key>
+	<string>sliderPerJob</string>
+	<key>delegateCycleColor</key>
+	<string>grayscaleContainPhase</string>
+	<key>ephemeralCardVisibility</key>
+	<string>mainCoordinatorMargin</string>
+	<key>finalUnarySpacing</key>
+	<string>prevConsumerOrigin</string>
+	<key>mobxTaskVisibility</key>
+	<string>frameCompositeDirection</string>
+	<key>originalGateHue</key>
+	<string>storageBesideContext</string>
+</dict>
+</plist>

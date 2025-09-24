@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromStage</key>
+	<string>routerAroundObserver</string>
+	<key>diffableInjectionDuration</key>
+	<string>tabviewOperationAcceleration</string>
+	<key>multiFutureVisible</key>
+	<string>otherRowFeedback</string>
+	<key>nodeAlongForm</key>
+	<string>resourceKindSize</string>
+	<key>resourceValueDirection</key>
+	<string>challengeTempleFlags</string>
+</dict>
+</plist>

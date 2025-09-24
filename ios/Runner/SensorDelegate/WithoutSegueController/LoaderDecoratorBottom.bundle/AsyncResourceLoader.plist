@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVersusTemple</key>
+	<string>decorationStructureTransparency</string>
+	<key>dependencyVersusScope</key>
+	<string>alignmentBufferName</string>
+	<key>desktopResultRight</key>
+	<string>radioVersusFramework</string>
+	<key>drawerActionFormat</key>
+	<string>requiredContractionBrightness</string>
+	<key>mobileResultScale</key>
+	<string>methodSinceForm</string>
+	<key>previewCompositeTheme</key>
+	<string>progressbarSingletonTail</string>
+	<key>riverpodAlongChain</key>
+	<string>sortedSpotSize</string>
+	<key>sensorBridgeVelocity</key>
+	<string>immediateLabelLocation</string>
+	<key>themeOutsideVariable</key>
+	<string>uniqueProviderPosition</string>
+</dict>
+</plist>

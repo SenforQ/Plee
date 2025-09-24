@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPositionRight</key>
+	<string>loopAdapterMode</string>
+	<key>callbackTypeShade</key>
+	<string>resultNearType</string>
+	<key>custompaintOrSingleton</key>
+	<string>workflowAndParam</string>
+	<key>graphStageDuration</key>
+	<string>localizationOrScope</string>
+	<key>localizationPhaseScale</key>
+	<string>smartBlocShape</string>
+	<key>mediumMemberMode</key>
+	<string>managerProxySize</string>
+	<key>textfieldBesideMode</key>
+	<string>usecaseDecoratorName</string>
+</dict>
+</plist>

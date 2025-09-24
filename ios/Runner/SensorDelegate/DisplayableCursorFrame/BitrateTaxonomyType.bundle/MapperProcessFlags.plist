@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTierAcceleration</key>
+	<string>euclideanChannelsTail</string>
+	<key>dependencyAsParam</key>
+	<string>queueForEnvironment</string>
+	<key>granularRichtextPosition</key>
+	<string>accessibleCurveDelay</string>
+	<key>indicatorFunctionTop</key>
+	<string>animationValueColor</string>
+	<key>normTypeVisible</key>
+	<string>queueLayerIndex</string>
+	<key>sequentialNotifierIndex</key>
+	<string>accessoryWithoutValue</string>
+</dict>
+</plist>

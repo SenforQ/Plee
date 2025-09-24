@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDespiteChain</key>
+	<string>adaptivePreviewTint</string>
+	<key>constraintDespiteCycle</key>
+	<string>layoutCompositeEdge</string>
+	<key>indicatorScopeInteraction</key>
+	<string>retainedOffsetRotation</string>
+	<key>instructionOrFacade</key>
+	<string>tableProxyAlignment</string>
+	<key>intuitiveWorkflowMomentum</key>
+	<string>methodLevelMode</string>
+	<key>seamlessCacheMode</key>
+	<string>groupObserverRate</string>
+	<key>synchronousTopicDepth</key>
+	<string>transformerAsMethod</string>
+	<key>zoneAndInterpreter</key>
+	<string>granularStackHue</string>
+</dict>
+</plist>

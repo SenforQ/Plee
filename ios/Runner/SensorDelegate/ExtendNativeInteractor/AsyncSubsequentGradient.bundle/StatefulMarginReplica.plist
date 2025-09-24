@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFeatureCoord</key>
+	<string>sinkFormOffset</string>
+	<key>checklistContainFlyweight</key>
+	<string>parallelClipperBorder</string>
+	<key>completerShapeLeft</key>
+	<string>asyncByInterpreter</string>
+	<key>prevMemberPosition</key>
+	<string>storeObserverResponse</string>
+	<key>resultSingletonDuration</key>
+	<string>checklistLikeCycle</string>
+	<key>unaryNearTask</key>
+	<string>promiseAdapterPosition</string>
+</dict>
+</plist>

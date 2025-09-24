@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramJobForce</key>
+	<string>effectFromTask</string>
+	<key>graphFacadeDirection</key>
+	<string>scaffoldNearTemple</string>
+	<key>intuitiveRouterTheme</key>
+	<string>controllerNearDecorator</string>
+	<key>providerCycleTheme</key>
+	<string>bitrateCycleVelocity</string>
+	<key>routerDuringComposite</key>
+	<string>delegateTaskSkewy</string>
+	<key>signatureBufferPadding</key>
+	<string>hyperbolicPromiseLeft</string>
+	<key>spineWorkDirection</key>
+	<string>gridPrototypeDelay</string>
+	<key>spotCycleTag</key>
+	<string>textureJobShape</string>
+	<key>uniformTextDensity</key>
+	<string>resolverForSingleton</string>
+</dict>
+</plist>

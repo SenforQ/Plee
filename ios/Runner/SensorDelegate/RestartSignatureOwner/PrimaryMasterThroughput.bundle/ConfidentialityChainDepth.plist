@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedHashSpeed</key>
+	<string>streamNearStage</string>
+	<key>asyncInMethod</key>
+	<string>collectionThroughBuffer</string>
+	<key>disabledCompleterKind</key>
+	<string>eventOfProcess</string>
+	<key>expandedMementoVelocity</key>
+	<string>textfieldCommandAppearance</string>
+	<key>inkwellDuringCycle</key>
+	<string>advancedDecorationFeedback</string>
+	<key>interfaceDecoratorInterval</key>
+	<string>handlerProcessTint</string>
+	<key>mediocreSemanticsBrightness</key>
+	<string>bitrateByChain</string>
+	<key>temporaryCaptionTension</key>
+	<string>containerDecoratorForce</string>
+	<key>vectorAroundEnvironment</key>
+	<string>gradientAndInterpreter</string>
+</dict>
+</plist>

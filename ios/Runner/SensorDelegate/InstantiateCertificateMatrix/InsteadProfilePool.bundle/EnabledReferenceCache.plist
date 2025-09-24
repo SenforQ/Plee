@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchLevelDepth</key>
+	<string>entropyModePadding</string>
+	<key>criticalMobileInteraction</key>
+	<string>switchFromObserver</string>
+	<key>diffableSpriteDirection</key>
+	<string>checkboxWithFunction</string>
+	<key>interpolationFacadeTint</key>
+	<string>columnWithPlatform</string>
+	<key>reducerSinceMethod</key>
+	<string>commandWithParam</string>
+	<key>sessionTempleFrequency</key>
+	<string>requestNearComposite</string>
+	<key>storyboardLikeMode</key>
+	<string>giftProcessName</string>
+	<key>switchSystemForce</key>
+	<string>viewInsideParameter</string>
+</dict>
+</plist>

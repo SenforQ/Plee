@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPatternDistance</key>
+	<string>capsuleLevelAppearance</string>
+	<key>singletonPerValue</key>
+	<string>declarativeProfileHue</string>
+	<key>ternaryAwayMode</key>
+	<string>screenDuringBuffer</string>
+</dict>
+</plist>

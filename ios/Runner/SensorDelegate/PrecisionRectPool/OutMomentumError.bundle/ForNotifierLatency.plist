@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMobileContrast</key>
+	<string>completerTempleColor</string>
+	<key>geometricMethodBehavior</key>
+	<string>easyPositionDistance</string>
+	<key>resourceParamSaturation</key>
+	<string>switchWorkDepth</string>
+	<key>screenInterpreterInterval</key>
+	<string>tabbarSystemPosition</string>
+	<key>secondColumnFormat</key>
+	<string>dialogsAmongContext</string>
+	<key>toolNumberType</key>
+	<string>frameFormBorder</string>
+	<key>usecaseParameterCoord</key>
+	<string>sizeForType</string>
+</dict>
+</plist>

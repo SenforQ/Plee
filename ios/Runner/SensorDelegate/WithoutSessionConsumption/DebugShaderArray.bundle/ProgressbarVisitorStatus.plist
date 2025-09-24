@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionNearProxy</key>
+	<string>positionAtEnvironment</string>
+	<key>controllerPlatformBound</key>
+	<string>cyclePlatformShade</string>
+	<key>granularSkinSkewy</key>
+	<string>directBrushBorder</string>
+	<key>inactiveBoxColor</key>
+	<string>rectNearParam</string>
+	<key>listviewFromTier</key>
+	<string>bufferAroundTier</string>
+	<key>managerThroughSystem</key>
+	<string>beginnerSessionOpacity</string>
+	<key>newestBatchDelay</key>
+	<string>framePatternSkewx</string>
+	<key>screenPhaseMargin</key>
+	<string>scaleThanValue</string>
+	<key>staticStoreAcceleration</key>
+	<string>actionPatternFeedback</string>
+</dict>
+</plist>

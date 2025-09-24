@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonForStructure</key>
+	<string>eventFlyweightFormat</string>
+	<key>checklistStrategyScale</key>
+	<string>pointStyleBound</string>
+	<key>finalCurveSkewx</key>
+	<string>autoSubpixelState</string>
+	<key>interfaceCommandValidation</key>
+	<string>coordinatorFromStage</string>
+	<key>mapTypeStatus</key>
+	<string>nativeCursorType</string>
+	<key>profileVariableValidation</key>
+	<string>navigatorChainCount</string>
+	<key>repositoryVarHead</key>
+	<string>typicalInjectionRotation</string>
+	<key>sequentialUtilSize</key>
+	<string>multiLayoutIndex</string>
+	<key>stepLayerSpeed</key>
+	<string>graphicIncludeValue</string>
+	<key>tableVarAppearance</key>
+	<string>memberVisitorFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTextTransparency</key>
+	<string>sizeFlyweightSaturation</string>
+	<key>canvasAsComposite</key>
+	<string>mediaPlatformTop</string>
+	<key>entropyExceptLayer</key>
+	<string>intermediateScrollTint</string>
+	<key>inkwellSingletonOrientation</key>
+	<string>navigatorTierVisible</string>
+	<key>radiusPerPhase</key>
+	<string>borderAtForm</string>
+	<key>resizableEventOrientation</key>
+	<string>displayablePositionedState</string>
+	<key>resizableGraphicBottom</key>
+	<string>graphThroughValue</string>
+	<key>sceneContainStructure</key>
+	<string>decorationVariableColor</string>
+	<key>segmentContextKind</key>
+	<string>opaqueRowStatus</string>
+	<key>storageIncludeStage</key>
+	<string>alertDuringActivity</string>
+</dict>
+</plist>

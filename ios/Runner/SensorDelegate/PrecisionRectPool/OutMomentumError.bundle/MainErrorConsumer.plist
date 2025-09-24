@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGroupType</key>
+	<string>navigationMethodAppearance</string>
+	<key>bulletActivityValidation</key>
+	<string>documentAsWork</string>
+	<key>declarativeSegueRate</key>
+	<string>unactivatedProjectRate</string>
+	<key>flexibleBaselineSize</key>
+	<string>listenerFromVisitor</string>
+	<key>histogramPrototypeVisibility</key>
+	<string>cubeThanVariable</string>
+	<key>invisiblePetOrigin</key>
+	<string>explicitDependencyBrightness</string>
+	<key>promiseDespiteLayer</key>
+	<string>isolateScopeAppearance</string>
+	<key>requiredBorderName</key>
+	<string>delegateThroughState</string>
+	<key>reusableInterpolationCoord</key>
+	<string>prevBuilderBorder</string>
+</dict>
+</plist>

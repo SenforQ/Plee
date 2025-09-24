@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsIncludeStage</key>
+	<string>metadataInsideStructure</string>
+	<key>diversifiedWorkflowRotation</key>
+	<string>descriptionLayerAlignment</string>
+	<key>inheritedFeatureRotation</key>
+	<string>uniformMethodSize</string>
+	<key>playbackActionValidation</key>
+	<string>alignmentStrategyHead</string>
+</dict>
+</plist>

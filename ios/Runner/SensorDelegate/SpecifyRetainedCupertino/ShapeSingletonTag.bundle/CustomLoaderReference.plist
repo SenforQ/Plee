@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeEntityShape</key>
+	<string>priorPositionDelay</string>
+	<key>durationTypeInterval</key>
+	<string>columnNearObserver</string>
+	<key>heroByValue</key>
+	<string>accessibleCubitState</string>
+	<key>priorityAsEnvironment</key>
+	<string>entityNumberTint</string>
+	<key>prioritySinceVariable</key>
+	<string>sequentialShaderInterval</string>
+	<key>profileDespiteKind</key>
+	<string>typicalBrushVisibility</string>
+	<key>subtleCanvasTag</key>
+	<string>grainAmongMethod</string>
+</dict>
+</plist>

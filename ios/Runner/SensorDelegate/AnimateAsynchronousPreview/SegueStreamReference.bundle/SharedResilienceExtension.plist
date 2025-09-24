@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAtFramework</key>
+	<string>queryViaParam</string>
+	<key>backwardSpriteOrigin</key>
+	<string>signAsEnvironment</string>
+	<key>builderContainMethod</key>
+	<string>currentAlphaCoord</string>
+	<key>columnNearTask</key>
+	<string>constraintVisitorAcceleration</string>
+	<key>granularPainterRate</key>
+	<string>animatedInstructionSkewy</string>
+	<key>relationalSignatureValidation</key>
+	<string>ternaryAwayObserver</string>
+	<key>requiredSensorEdge</key>
+	<string>directBlocCenter</string>
+	<key>tappableHandlerLeft</key>
+	<string>eventFrameworkTint</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDelegateMode</key>
+	<string>durationOperationDelay</string>
+	<key>documentFlyweightTransparency</key>
+	<string>fixedProgressbarLocation</string>
+	<key>elasticOptimizerSpeed</key>
+	<string>specifierLayerDensity</string>
+	<key>gridviewNumberResponse</key>
+	<string>alignmentNearFramework</string>
+	<key>mainDimensionInset</key>
+	<string>drawerModeLocation</string>
+	<key>promiseAgainstBridge</key>
+	<string>progressbarFlyweightTail</string>
+	<key>routerAroundScope</key>
+	<string>navigatorContainTemple</string>
+	<key>sizedboxWithObserver</key>
+	<string>prismaticSinkSpeed</string>
+</dict>
+</plist>

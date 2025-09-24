@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constFactoryStyle</key>
+	<string>textWorkResponse</string>
+	<key>curveBeyondMediator</key>
+	<string>compositionalMapResponse</string>
+	<key>missedEqualizationDelay</key>
+	<string>resourceActivityPadding</string>
+	<key>oldSizeMode</key>
+	<string>cachePrototypeStatus</string>
+	<key>reducerFacadeHue</key>
+	<string>unactivatedTouchSpacing</string>
+	<key>requiredTopicCoord</key>
+	<string>baselineModeCoord</string>
+	<key>routerBesideValue</key>
+	<string>configurationAndState</string>
+	<key>widgetOutsideStyle</key>
+	<string>queryFrameworkDepth</string>
+</dict>
+</plist>

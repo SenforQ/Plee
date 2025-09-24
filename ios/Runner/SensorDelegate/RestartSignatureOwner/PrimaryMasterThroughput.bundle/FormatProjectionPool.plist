@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAsyncAppearance</key>
+	<string>momentumForFramework</string>
+	<key>inkwellActionIndex</key>
+	<string>actionLayerRight</string>
+	<key>metadataVarBound</key>
+	<string>shaderMediatorScale</string>
+	<key>navigatorWithDecorator</key>
+	<string>animatedcontainerContainJob</string>
+	<key>streamStageEdge</key>
+	<string>alignmentAdapterBottom</string>
+	<key>utilAlongCommand</key>
+	<string>progressbarBufferVisibility</string>
+</dict>
+</plist>

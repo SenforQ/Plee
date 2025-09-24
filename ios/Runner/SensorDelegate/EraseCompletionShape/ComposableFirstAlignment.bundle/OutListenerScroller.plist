@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionProcessOffset</key>
+	<string>layoutOperationShade</string>
+	<key>draggableCompletionVelocity</key>
+	<string>smallTouchPressure</string>
+	<key>intuitiveNodeHue</key>
+	<string>isolateInsidePlatform</string>
+	<key>screenAndState</key>
+	<string>controllerTypeBottom</string>
+	<key>shaderFormSpeed</key>
+	<string>buttonVisitorOffset</string>
+	<key>spriteOrShape</key>
+	<string>mobxAtEnvironment</string>
+	<key>synchronousMasterType</key>
+	<string>tensorQueueAcceleration</string>
+	<key>temporaryCollectionCount</key>
+	<string>semanticsProcessDuration</string>
+	<key>vectorEnvironmentEdge</key>
+	<string>modalAlongAction</string>
+</dict>
+</plist>

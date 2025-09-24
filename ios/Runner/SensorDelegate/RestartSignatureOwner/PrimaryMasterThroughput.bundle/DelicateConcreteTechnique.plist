@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintPerVariable</key>
+	<string>popupPerTier</string>
+	<key>unactivatedCubitEdge</key>
+	<string>textfieldValueDuration</string>
+</dict>
+</plist>

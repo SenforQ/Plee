@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryCycleAlignment</key>
+	<string>titleAlongAction</string>
+	<key>blocUntilFunction</key>
+	<string>builderSingletonSize</string>
+	<key>completionKindValidation</key>
+	<string>primaryGestureBound</string>
+	<key>mainMenuLeft</key>
+	<string>discardedTableInteraction</string>
+	<key>prevCaptionRotation</key>
+	<string>clipperAdapterHue</string>
+	<key>specifyInstructionCoord</key>
+	<string>webInterfaceBehavior</string>
+	<key>vectorInEnvironment</key>
+	<string>aspectratioLevelCount</string>
+</dict>
+</plist>

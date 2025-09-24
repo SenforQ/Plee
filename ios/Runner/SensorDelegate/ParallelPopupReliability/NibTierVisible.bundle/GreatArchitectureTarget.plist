@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAndBuffer</key>
+	<string>globalCompletionSpacing</string>
+	<key>featureContainMediator</key>
+	<string>slashJobCoord</string>
+	<key>reductionProxyRate</key>
+	<string>ignoredExceptionBehavior</string>
+	<key>scrollableMaterialOffset</key>
+	<string>layoutCommandOffset</string>
+	<key>utilInsideFramework</key>
+	<string>descriptorAlongState</string>
+</dict>
+</plist>

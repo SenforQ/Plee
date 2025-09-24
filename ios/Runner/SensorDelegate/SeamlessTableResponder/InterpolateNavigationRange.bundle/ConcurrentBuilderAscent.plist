@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChartTheme</key>
+	<string>columnAtVariable</string>
+	<key>lostCompositionBorder</key>
+	<string>subsequentConsumerSpacing</string>
+	<key>nibViaLayer</key>
+	<string>containerContainState</string>
+	<key>promiseBridgeLocation</key>
+	<string>loopScopeIndex</string>
+	<key>riverpodStrategyVisible</key>
+	<string>buttonStrategyVisible</string>
+	<key>utilTypeResponse</key>
+	<string>resourceTypePadding</string>
+</dict>
+</plist>

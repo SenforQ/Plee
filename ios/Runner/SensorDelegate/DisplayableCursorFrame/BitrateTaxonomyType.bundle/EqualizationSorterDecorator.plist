@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisLevelScale</key>
+	<string>chartPhaseBound</string>
+	<key>elasticTickerRight</key>
+	<string>accordionFragmentRight</string>
+	<key>errorStrategyTop</key>
+	<string>eagerSwiftOpacity</string>
+	<key>explicitTweenOpacity</key>
+	<string>modalUntilSystem</string>
+	<key>granularMasterPosition</key>
+	<string>webTechniqueAlignment</string>
+	<key>iconMementoForce</key>
+	<string>textThroughObserver</string>
+	<key>layoutProxyInset</key>
+	<string>blocUntilStage</string>
+	<key>logJobBorder</key>
+	<string>directMarginStatus</string>
+	<key>rectStateMode</key>
+	<string>eventOfPhase</string>
+	<key>robustConstraintScale</key>
+	<string>stepActivityScale</string>
+</dict>
+</plist>

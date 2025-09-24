@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInterfaceLocation</key>
+	<string>mobileChannelsDepth</string>
+	<key>disabledSegueCenter</key>
+	<string>stepMediatorSpeed</string>
+	<key>discardedEventAppearance</key>
+	<string>serviceFlyweightDistance</string>
+	<key>draggableCapsuleEdge</key>
+	<string>grainFromPrototype</string>
+	<key>equalizationBesideContext</key>
+	<string>nextTangentCoord</string>
+	<key>observerSystemTint</key>
+	<string>semanticAsyncTag</string>
+	<key>sessionWorkMode</key>
+	<string>progressbarTaskDensity</string>
+	<key>tappableResourceTint</key>
+	<string>presenterTaskSkewx</string>
+</dict>
+</plist>

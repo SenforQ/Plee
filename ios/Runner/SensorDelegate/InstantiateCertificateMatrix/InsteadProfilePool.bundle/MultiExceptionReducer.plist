@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocExceptCommand</key>
+	<string>storageStageResponse</string>
+	<key>comprehensiveProjectionOrientation</key>
+	<string>sizeUntilState</string>
+	<key>coordinatorParamBrightness</key>
+	<string>reactiveHeapPosition</string>
+	<key>directlyMethodHue</key>
+	<string>apertureStructureTension</string>
+	<key>explicitExceptionDistance</key>
+	<string>activityOperationInterval</string>
+	<key>hyperbolicCompletionState</key>
+	<string>canvasOrLayer</string>
+	<key>scaffoldInPlatform</key>
+	<string>stateAboutActivity</string>
+	<key>utilLikeFacade</key>
+	<string>textfieldWithoutMethod</string>
+	<key>workflowActionKind</key>
+	<string>pivotalProviderTag</string>
+</dict>
+</plist>

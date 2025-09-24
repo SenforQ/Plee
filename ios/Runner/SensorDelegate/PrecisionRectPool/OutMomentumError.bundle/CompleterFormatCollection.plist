@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAlongObserver</key>
+	<string>sinkBeyondComposite</string>
+	<key>discardedGridCoord</key>
+	<string>declarativeBuilderTop</string>
+	<key>menuAsEnvironment</key>
+	<string>configurationValueInset</string>
+	<key>rectFlyweightForce</key>
+	<string>descriptionBeyondNumber</string>
+</dict>
+</plist>

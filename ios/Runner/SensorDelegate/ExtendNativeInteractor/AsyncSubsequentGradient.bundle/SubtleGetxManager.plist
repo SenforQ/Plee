@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAlongStrategy</key>
+	<string>challengeFrameworkBorder</string>
+	<key>allocatorIncludePlatform</key>
+	<string>hashInPhase</string>
+	<key>extensionBridgeFormat</key>
+	<string>eagerViewBottom</string>
+	<key>layerAlongMethod</key>
+	<string>fragmentFunctionTag</string>
+	<key>observerStrategyRotation</key>
+	<string>routeAmongForm</string>
+</dict>
+</plist>

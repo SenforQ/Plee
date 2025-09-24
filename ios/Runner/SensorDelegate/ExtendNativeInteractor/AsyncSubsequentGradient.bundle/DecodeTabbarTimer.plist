@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystStageForce</key>
+	<string>autoCubitVelocity</string>
+	<key>certificateActivitySkewy</key>
+	<string>accessibleContainerBound</string>
+	<key>directHandlerCoord</key>
+	<string>subpixelWithInterpreter</string>
+	<key>disabledStackInteraction</key>
+	<string>sliderContainKind</string>
+	<key>largeSpriteTag</key>
+	<string>unsortedZoneShade</string>
+	<key>providerDecoratorDelay</key>
+	<string>dependencyAboutValue</string>
+	<key>rapidAppbarResponse</key>
+	<string>textIncludeParam</string>
+	<key>reactiveLoopKind</key>
+	<string>basicProtocolBound</string>
+	<key>robustConstraintSkewy</key>
+	<string>hashFacadeInteraction</string>
+</dict>
+</plist>

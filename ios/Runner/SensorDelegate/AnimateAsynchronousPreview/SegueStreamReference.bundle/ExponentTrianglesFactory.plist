@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notifierDespiteParam</key>
+	<string>advancedNavigatorLocation</string>
+	<key>pinchableTaskSpeed</key>
+	<string>bitrateAsScope</string>
+	<key>rolePlatformBorder</key>
+	<string>notifierAsLevel</string>
+	<key>singletonWorkPadding</key>
+	<string>viewOrMediator</string>
+	<key>standaloneButtonPadding</key>
+	<string>titleContainProxy</string>
+</dict>
+</plist>

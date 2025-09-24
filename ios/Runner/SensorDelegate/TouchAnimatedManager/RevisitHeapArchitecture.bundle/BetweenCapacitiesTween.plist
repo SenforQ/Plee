@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncUntilStrategy</key>
+	<string>handlerSystemCount</string>
+	<key>concreteDescriptorValidation</key>
+	<string>scalePlatformState</string>
+	<key>dependencyAgainstOperation</key>
+	<string>themeAndTask</string>
+	<key>descriptionFunctionInterval</key>
+	<string>imageOfCommand</string>
+	<key>layoutBesideMemento</key>
+	<string>declarativeModalInteraction</string>
+	<key>positionExceptPattern</key>
+	<string>basicMapDepth</string>
+	<key>publicGraphStyle</key>
+	<string>textfieldAndType</string>
+	<key>resolverAboutAction</key>
+	<string>resultOrVisitor</string>
+	<key>segueBridgeType</key>
+	<string>loopActivityRate</string>
+	<key>similarTickerVisibility</key>
+	<string>menuEnvironmentPadding</string>
+</dict>
+</plist>

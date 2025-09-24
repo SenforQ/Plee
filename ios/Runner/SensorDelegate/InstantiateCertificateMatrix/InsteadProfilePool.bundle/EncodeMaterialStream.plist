@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConstraintContrast</key>
+	<string>semanticsByFramework</string>
+	<key>ephemeralExceptionPressure</key>
+	<string>pinchableRichtextCoord</string>
+	<key>gridAndObserver</key>
+	<string>serviceObserverForce</string>
+	<key>interactorWithoutSystem</key>
+	<string>callbackInsidePhase</string>
+	<key>multiFramePressure</key>
+	<string>sophisticatedEntropyTransparency</string>
+	<key>usecaseActionLeft</key>
+	<string>easyTextfieldMode</string>
+</dict>
+</plist>

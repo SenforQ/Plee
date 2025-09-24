@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterUntilCommand</key>
+	<string>reductionAroundMemento</string>
+	<key>liteGridStatus</key>
+	<string>eagerCompleterContrast</string>
+	<key>mapThroughNumber</key>
+	<string>layoutFromParam</string>
+	<key>slashUntilType</key>
+	<string>rowBeyondInterpreter</string>
+	<key>standaloneAlertBorder</key>
+	<string>queryContainCommand</string>
+</dict>
+</plist>

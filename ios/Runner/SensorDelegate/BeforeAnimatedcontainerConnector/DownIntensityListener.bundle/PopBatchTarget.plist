@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAgainstDecorator</key>
+	<string>typicalNotificationCount</string>
+	<key>cubitAtParameter</key>
+	<string>asyncSinceMode</string>
+	<key>previewCompositeState</key>
+	<string>materialWithoutState</string>
+	<key>titleSinceObserver</key>
+	<string>sliderNearType</string>
+</dict>
+</plist>

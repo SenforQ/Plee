@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStageDensity</key>
+	<string>transformerOfAction</string>
+	<key>layoutSingletonForce</key>
+	<string>exceptionDuringTask</string>
+	<key>missedBorderDuration</key>
+	<string>synchronousAnimationMargin</string>
+	<key>presenterProcessMomentum</key>
+	<string>inheritedResponseForce</string>
+	<key>primarySpineCenter</key>
+	<string>sliderVarMode</string>
+</dict>
+</plist>

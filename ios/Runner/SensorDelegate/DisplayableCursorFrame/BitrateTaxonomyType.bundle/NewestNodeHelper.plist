@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveProfileSkewy</key>
+	<string>deferredMetadataIndex</string>
+	<key>directlyMediaIndex</key>
+	<string>navigatorActivityDuration</string>
+	<key>factorySingletonShade</key>
+	<string>certificateParamShade</string>
+	<key>flexibleLabelTag</key>
+	<string>sampleBeyondStage</string>
+	<key>independentPopupBound</key>
+	<string>similarMapSpacing</string>
+	<key>lossFunctionTop</key>
+	<string>discardedLabelHue</string>
+	<key>materialTaskFormat</key>
+	<string>secondResponseForce</string>
+	<key>reducerContextForce</key>
+	<string>buttonAsOperation</string>
+	<key>scaleSingletonStatus</key>
+	<string>similarRadiusMargin</string>
+</dict>
+</plist>

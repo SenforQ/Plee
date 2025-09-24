@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledArithmeticContrast</key>
+	<string>storeDespiteScope</string>
+	<key>futureAroundMethod</key>
+	<string>frameInsidePrototype</string>
+	<key>layoutPatternSize</key>
+	<string>controllerParameterBorder</string>
+	<key>liteMediaKind</key>
+	<string>constraintStrategyState</string>
+	<key>lossSingletonAppearance</key>
+	<string>constVariantVisible</string>
+	<key>persistentBlocVelocity</key>
+	<string>containerOutsideFunction</string>
+	<key>titleAtWork</key>
+	<string>functionalGroupShade</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWorkLocation</key>
+	<string>mediaStateScale</string>
+	<key>channelTypeShape</key>
+	<string>sizePerActivity</string>
+	<key>dropdownbuttonBesideForm</key>
+	<string>factoryPlatformFrequency</string>
+	<key>remainderNumberTag</key>
+	<string>seamlessLayoutDelay</string>
+	<key>threadFormShade</key>
+	<string>controllerExceptMode</string>
+</dict>
+</plist>

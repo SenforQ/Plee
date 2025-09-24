@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintFormDuration</key>
+	<string>reusableAsyncInterval</string>
+	<key>globalDocumentForce</key>
+	<string>alertOperationAcceleration</string>
+	<key>popupPrototypeBound</key>
+	<string>multiAwaitBottom</string>
+	<key>protocolCycleVisibility</key>
+	<string>rowActivityOrientation</string>
+	<key>radiusPerPlatform</key>
+	<string>transformerEnvironmentSize</string>
+	<key>subscriptionBridgeInterval</key>
+	<string>multiplicationChainDuration</string>
+	<key>symmetricIconForce</key>
+	<string>offsetParamStyle</string>
+</dict>
+</plist>

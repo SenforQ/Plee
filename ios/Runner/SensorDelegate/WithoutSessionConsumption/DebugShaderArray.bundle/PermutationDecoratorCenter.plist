@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleBridgeFlags</key>
+	<string>slashIncludeDecorator</string>
+	<key>directlyTextPadding</key>
+	<string>handlerFunctionLocation</string>
+	<key>integerAgainstActivity</key>
+	<string>textfieldFlyweightDelay</string>
+	<key>lostCompositionSize</key>
+	<string>boxProxyScale</string>
+	<key>mobxBridgeBound</key>
+	<string>hardControllerTail</string>
+	<key>otherErrorContrast</key>
+	<string>taskInterpreterOrigin</string>
+	<key>persistentLoopTheme</key>
+	<string>descriptionOutsideStrategy</string>
+	<key>protocolStructureVelocity</key>
+	<string>temporaryLabelAcceleration</string>
+	<key>textProcessMargin</key>
+	<string>errorStateKind</string>
+	<key>transitionDecoratorVisibility</key>
+	<string>curveAlongMethod</string>
+</dict>
+</plist>

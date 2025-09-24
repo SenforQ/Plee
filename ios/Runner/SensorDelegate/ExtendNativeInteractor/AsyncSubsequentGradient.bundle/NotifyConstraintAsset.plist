@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBitrateInteraction</key>
+	<string>stampDuringType</string>
+	<key>asyncTickerFrequency</key>
+	<string>queryInsideCommand</string>
+	<key>builderTaskFormat</key>
+	<string>responseByBridge</string>
+	<key>ephemeralMetadataStatus</key>
+	<string>modalInsideStyle</string>
+	<key>resolverAndPlatform</key>
+	<string>menuMediatorStyle</string>
+	<key>riverpodPerNumber</key>
+	<string>sensorProcessMomentum</string>
+	<key>threadLayerTheme</key>
+	<string>tickerAboutLayer</string>
+</dict>
+</plist>

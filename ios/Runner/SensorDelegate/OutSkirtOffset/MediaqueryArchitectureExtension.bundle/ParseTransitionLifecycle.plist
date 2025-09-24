@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionFacadeStyle</key>
+	<string>baselineContextOrientation</string>
+	<key>delegateThroughChain</key>
+	<string>reducerStageResponse</string>
+	<key>dialogsPrototypeFrequency</key>
+	<string>typicalCosineCenter</string>
+	<key>easyRichtextMargin</key>
+	<string>channelScopeCenter</string>
+	<key>layoutTypeStatus</key>
+	<string>responsiveGemBorder</string>
+	<key>managerAsTask</key>
+	<string>intermediateIconDuration</string>
+	<key>mobilePainterSpeed</key>
+	<string>rectStructureOpacity</string>
+	<key>seamlessPaddingSkewx</key>
+	<string>reductionNearState</string>
+</dict>
+</plist>

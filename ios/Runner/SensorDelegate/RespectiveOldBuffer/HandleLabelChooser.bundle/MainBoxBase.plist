@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushThanBuffer</key>
+	<string>descriptionAgainstSingleton</string>
+	<key>decorationAgainstPrototype</key>
+	<string>integerActionDelay</string>
+	<key>indicatorContainShape</key>
+	<string>subscriptionActivityTag</string>
+	<key>inheritedGestureResponse</key>
+	<string>hierarchicalStateAppearance</string>
+	<key>mediaqueryBesidePrototype</key>
+	<string>smartRowIndex</string>
+	<key>permanentInjectionResponse</key>
+	<string>controllerIncludeParam</string>
+	<key>priorAspectratioAppearance</key>
+	<string>materialRouterOrientation</string>
+	<key>profileBufferBorder</key>
+	<string>extensionAlongStyle</string>
+	<key>synchronousCycleHue</key>
+	<string>opaqueAllocatorSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionBesideMode</key>
+	<string>mediaqueryOutsideJob</string>
+	<key>featureAsJob</key>
+	<string>loopPerPhase</string>
+	<key>invisibleTransformerBottom</key>
+	<string>multiMemberShape</string>
+	<key>priorityKindOffset</key>
+	<string>reducerExceptPhase</string>
+	<key>singleBitrateMomentum</key>
+	<string>decorationAboutInterpreter</string>
+</dict>
+</plist>

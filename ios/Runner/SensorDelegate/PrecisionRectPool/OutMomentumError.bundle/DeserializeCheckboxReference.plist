@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapVarSize</key>
+	<string>interactorAndActivity</string>
+	<key>keyActivityInteraction</key>
+	<string>coordinatorStateResponse</string>
+	<key>sensorExceptFramework</key>
+	<string>protocolPhaseLocation</string>
+	<key>taskFacadeForce</key>
+	<string>adaptiveManagerForce</string>
+</dict>
+</plist>

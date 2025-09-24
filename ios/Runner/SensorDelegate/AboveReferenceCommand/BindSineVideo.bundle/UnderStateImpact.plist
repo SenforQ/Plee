@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianContractionMode</key>
+	<string>masterThroughStrategy</string>
+	<key>enabledFrameColor</key>
+	<string>builderExceptFacade</string>
+	<key>ephemeralMediaqueryInset</key>
+	<string>visibleTouchOpacity</string>
+	<key>geometricErrorEdge</key>
+	<string>primaryWidgetTop</string>
+	<key>mapInBuffer</key>
+	<string>discardedEffectAlignment</string>
+	<key>modelSystemOpacity</key>
+	<string>ternaryEnvironmentFormat</string>
+	<key>statefulConstraintInset</key>
+	<string>resourceLevelOffset</string>
+	<key>statefulScaffoldRotation</key>
+	<string>sinkProxyOrigin</string>
+	<key>textLikeStage</key>
+	<string>sliderOutsideVisitor</string>
+</dict>
+</plist>

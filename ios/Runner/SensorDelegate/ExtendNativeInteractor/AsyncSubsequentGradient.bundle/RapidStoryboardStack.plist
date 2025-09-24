@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxPatternEdge</key>
+	<string>firstMaterialPosition</string>
+	<key>descriptionWithSingleton</key>
+	<string>cardOutsideForm</string>
+	<key>desktopUtilSkewy</key>
+	<string>entityByVar</string>
+	<key>geometricSkirtVisibility</key>
+	<string>semanticsAsShape</string>
+	<key>indicatorAroundForm</key>
+	<string>canvasAlongStage</string>
+	<key>lazyResponseForce</key>
+	<string>futureJobMargin</string>
+	<key>nodeOperationStyle</key>
+	<string>layoutShapeBound</string>
+	<key>visibleShaderSpeed</key>
+	<string>remainderShapeName</string>
+</dict>
+</plist>

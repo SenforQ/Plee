@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterFlyweightStyle</key>
+	<string>subtleProjectionAlignment</string>
+	<key>difficultMetadataAppearance</key>
+	<string>sliderFromAction</string>
+	<key>originalAnimatedcontainerAppearance</key>
+	<string>mobileMediatorState</string>
+	<key>zoneContextState</key>
+	<string>repositoryValueTheme</string>
+</dict>
+</plist>

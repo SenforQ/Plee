@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAndFacade</key>
+	<string>arithmeticCharacterMargin</string>
+	<key>directRowShape</key>
+	<string>monsterAroundMediator</string>
+	<key>ignoredRouteSkewy</key>
+	<string>repositoryPlatformSaturation</string>
+	<key>interpolationVisitorName</key>
+	<string>sequentialNotificationSpacing</string>
+	<key>localStorageTag</key>
+	<string>methodContainFacade</string>
+	<key>mobxBridgeDelay</key>
+	<string>prevStatefulTint</string>
+	<key>prevRowRate</key>
+	<string>cupertinoCoordinatorAppearance</string>
+	<key>smartLossFlags</key>
+	<string>routerCompositeTail</string>
+	<key>storeThanFlyweight</key>
+	<string>flexibleTweenBehavior</string>
+	<key>swiftShapeAppearance</key>
+	<string>gridviewOrVariable</string>
+</dict>
+</plist>

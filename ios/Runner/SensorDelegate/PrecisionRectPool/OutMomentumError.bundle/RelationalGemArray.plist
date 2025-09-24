@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicResourceFeedback</key>
+	<string>animatedcontainerFromJob</string>
+	<key>dedicatedPlatePressure</key>
+	<string>animatedcontainerStageTint</string>
+	<key>delegateIncludeParameter</key>
+	<string>gridFlyweightLocation</string>
+	<key>descriptionContainMediator</key>
+	<string>sizeOrState</string>
+	<key>modalUntilParameter</key>
+	<string>declarativeCharacterForce</string>
+	<key>scaffoldAtBridge</key>
+	<string>builderSingletonFrequency</string>
+</dict>
+</plist>

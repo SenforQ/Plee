@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customGridStyle</key>
+	<string>resolverContainPrototype</string>
+	<key>finalTweenLeft</key>
+	<string>flexibleTimerRate</string>
+	<key>metadataTaskBehavior</key>
+	<string>timerVisitorAcceleration</string>
+	<key>reusableCurveDepth</key>
+	<string>callbackFacadeDensity</string>
+	<key>sliderFromStage</key>
+	<string>synchronousResourceSkewx</string>
+	<key>tickerSingletonPosition</key>
+	<string>stateInsideLayer</string>
+</dict>
+</plist>

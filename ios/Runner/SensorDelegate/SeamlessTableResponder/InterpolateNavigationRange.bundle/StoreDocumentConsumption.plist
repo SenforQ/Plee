@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStrategyScale</key>
+	<string>clipperExceptJob</string>
+	<key>finalTableBehavior</key>
+	<string>mainScreenBottom</string>
+	<key>grainNearStrategy</key>
+	<string>tabbarFrameworkDuration</string>
+	<key>missionStateDelay</key>
+	<string>primaryDurationRight</string>
+	<key>transformerPlatformValidation</key>
+	<string>robustSignPadding</string>
+</dict>
+</plist>

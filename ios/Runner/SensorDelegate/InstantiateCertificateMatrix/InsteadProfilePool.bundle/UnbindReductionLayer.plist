@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineFunctionStyle</key>
+	<string>protectedMobileContrast</string>
+	<key>navigationModeValidation</key>
+	<string>localApertureDelay</string>
+	<key>protectedCacheBound</key>
+	<string>compositionLayerTint</string>
+	<key>rectByTask</key>
+	<string>cupertinoCommandState</string>
+	<key>rectVersusContext</key>
+	<string>mediocreOffsetAcceleration</string>
+	<key>slashCompositeContrast</key>
+	<string>asyncInMethod</string>
+</dict>
+</plist>

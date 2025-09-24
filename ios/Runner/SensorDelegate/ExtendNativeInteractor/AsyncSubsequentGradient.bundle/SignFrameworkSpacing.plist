@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAmongPattern</key>
+	<string>spotAwayStrategy</string>
+	<key>channelExceptLayer</key>
+	<string>animatedServiceOpacity</string>
+	<key>cubeVarFrequency</key>
+	<string>sortedLayerTint</string>
+	<key>dynamicBehaviorShade</key>
+	<string>momentumProcessStyle</string>
+	<key>fragmentStructureIndex</key>
+	<string>symmetricEffectTint</string>
+	<key>kernelCommandEdge</key>
+	<string>eventLayerRight</string>
+	<key>mutableBuilderDuration</key>
+	<string>cubitAmongLayer</string>
+</dict>
+</plist>

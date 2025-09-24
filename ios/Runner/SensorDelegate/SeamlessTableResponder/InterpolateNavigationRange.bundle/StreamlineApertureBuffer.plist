@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constMethodVisibility</key>
+	<string>specifierEnvironmentValidation</string>
+	<key>consultativeDelegateFormat</key>
+	<string>mobileConstraintTransparency</string>
+	<key>immediateInterfaceAcceleration</key>
+	<string>streamForFunction</string>
+	<key>masterStrategyLocation</key>
+	<string>slashVarKind</string>
+	<key>modelForWork</key>
+	<string>activatedNavigatorOpacity</string>
+	<key>notificationContainProxy</key>
+	<string>queryFromFacade</string>
+	<key>oldSinkStyle</key>
+	<string>substantialLabelDuration</string>
+	<key>staticRadioDelay</key>
+	<string>concreteNavigationState</string>
+</dict>
+</plist>

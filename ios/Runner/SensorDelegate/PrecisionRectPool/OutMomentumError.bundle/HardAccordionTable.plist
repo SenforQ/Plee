@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInPhase</key>
+	<string>rectActivityStyle</string>
+	<key>alignmentAndActivity</key>
+	<string>cubitPlatformIndex</string>
+	<key>chartAndNumber</key>
+	<string>autoAccessoryBorder</string>
+	<key>cubitVariableSpeed</key>
+	<string>sustainableSizeBound</string>
+	<key>descriptionFrameworkVelocity</key>
+	<string>equipmentAdapterShade</string>
+	<key>gestureAtOperation</key>
+	<string>activityTypeRotation</string>
+	<key>scrollableRichtextFormat</key>
+	<string>channelsIncludeActivity</string>
+	<key>sequentialCapacitiesRight</key>
+	<string>factoryBufferBorder</string>
+	<key>signatureByOperation</key>
+	<string>delegateShapeMode</string>
+</dict>
+</plist>

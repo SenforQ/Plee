@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResourceTint</key>
+	<string>delegateThanAdapter</string>
+	<key>baseContextRotation</key>
+	<string>materialControllerAppearance</string>
+	<key>liteBufferOrientation</key>
+	<string>coordinatorAndVisitor</string>
+	<key>rapidAnimationIndex</key>
+	<string>liteEffectIndex</string>
+</dict>
+</plist>

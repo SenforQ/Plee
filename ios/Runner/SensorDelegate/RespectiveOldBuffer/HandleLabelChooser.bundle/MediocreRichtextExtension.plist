@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPhaseSkewy</key>
+	<string>labelDespiteJob</string>
+	<key>builderExceptPrototype</key>
+	<string>publicFeaturePadding</string>
+	<key>canvasFunctionOffset</key>
+	<string>curveParamTop</string>
+	<key>customizedMobxPadding</key>
+	<string>grayscalePatternAlignment</string>
+	<key>deferredProviderContrast</key>
+	<string>similarGroupCount</string>
+	<key>mediaTempleSkewy</key>
+	<string>spineDespiteAction</string>
+	<key>resultPlatformVisibility</key>
+	<string>rowAtValue</string>
+	<key>routerPerLevel</key>
+	<string>layoutByCommand</string>
+</dict>
+</plist>

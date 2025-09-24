@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPatternVisible</key>
+	<string>containerInsideActivity</string>
+	<key>associatedResourceShape</key>
+	<string>binaryUntilPhase</string>
+	<key>brushTierFlags</key>
+	<string>channelLikeContext</string>
+	<key>durationAwayState</key>
+	<string>tableFlyweightHue</string>
+	<key>factoryByFlyweight</key>
+	<string>navigationValueAcceleration</string>
+	<key>heapStyleSkewx</key>
+	<string>inactiveMobileFrequency</string>
+	<key>interpolationSystemSaturation</key>
+	<string>permanentSwitchScale</string>
+	<key>oldMonsterMode</key>
+	<string>durationDuringProcess</string>
+	<key>respectiveStepStatus</key>
+	<string>serviceUntilForm</string>
+</dict>
+</plist>

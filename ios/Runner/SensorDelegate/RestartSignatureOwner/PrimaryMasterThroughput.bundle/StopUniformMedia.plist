@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackEnvironmentKind</key>
+	<string>roleOutsideKind</string>
+	<key>injectionPrototypeValidation</key>
+	<string>promiseOfNumber</string>
+	<key>querySinceOperation</key>
+	<string>materialLayoutPressure</string>
+	<key>storageAtCycle</key>
+	<string>semanticsChainOpacity</string>
+	<key>storeParameterPressure</key>
+	<string>activeSliderStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constWidgetRotation</key>
+	<string>textureAmongAction</string>
+	<key>crucialControllerMode</key>
+	<string>callbackProcessScale</string>
+	<key>delegateForSingleton</key>
+	<string>cubeOutsideWork</string>
+	<key>loopFromInterpreter</key>
+	<string>builderActionTop</string>
+	<key>navigatorWithShape</key>
+	<string>effectDespiteStage</string>
+	<key>taskChainEdge</key>
+	<string>transitionAtMode</string>
+</dict>
+</plist>

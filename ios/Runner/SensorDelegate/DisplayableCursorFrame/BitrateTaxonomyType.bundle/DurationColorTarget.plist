@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBulletKind</key>
+	<string>currentPopupBorder</string>
+	<key>controllerAtMode</key>
+	<string>lossStructureBehavior</string>
+	<key>flexibleInstructionTransparency</key>
+	<string>monsterBeyondLevel</string>
+	<key>inheritedBlocCount</key>
+	<string>batchInsideStyle</string>
+	<key>liteRowAppearance</key>
+	<string>listviewDespiteLayer</string>
+	<key>menuAlongStrategy</key>
+	<string>resourceForEnvironment</string>
+	<key>streamAgainstMemento</key>
+	<string>cursorFormVisible</string>
+	<key>uniformChecklistResponse</key>
+	<string>semanticTransformerFlags</string>
+</dict>
+</plist>

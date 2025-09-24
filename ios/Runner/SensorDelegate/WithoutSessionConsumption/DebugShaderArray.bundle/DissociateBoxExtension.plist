@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTypeCount</key>
+	<string>uniformFutureOffset</string>
+	<key>appbarContextTint</key>
+	<string>expandedCommandSaturation</string>
+	<key>constPageviewRight</key>
+	<string>transitionFunctionSize</string>
+	<key>inheritedLoopForce</key>
+	<string>mediumEntityCount</string>
+	<key>mobxByForm</key>
+	<string>storyboardVarState</string>
+	<key>publicIntegerStyle</key>
+	<string>callbackFrameworkTransparency</string>
+	<key>semanticsActivityBorder</key>
+	<string>commandStateStyle</string>
+	<key>transitionAroundForm</key>
+	<string>isolateAroundVariable</string>
+</dict>
+</plist>

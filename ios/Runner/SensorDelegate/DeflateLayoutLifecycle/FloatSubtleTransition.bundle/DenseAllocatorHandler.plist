@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveApertureFrequency</key>
+	<string>scrollableProviderHue</string>
+	<key>permanentThemeTension</key>
+	<string>statelessStateBehavior</string>
+	<key>robustContainerBound</key>
+	<string>delegateViaScope</string>
+	<key>segueSystemBrightness</key>
+	<string>exceptionSinceMode</string>
+	<key>semanticSpriteShape</key>
+	<string>clipperOfState</string>
+	<key>textThroughPattern</key>
+	<string>pivotalContainerDistance</string>
+	<key>transformerVarVisibility</key>
+	<string>webCoordinatorStatus</string>
+	<key>unactivatedBuilderOrientation</key>
+	<string>containerAwayVariable</string>
+	<key>widgetStateShade</key>
+	<string>dynamicCoordinatorCount</string>
+</dict>
+</plist>

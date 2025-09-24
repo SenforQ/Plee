@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletJobDirection</key>
+	<string>nodeAwayParam</string>
+	<key>challengeObserverDistance</key>
+	<string>usedFragmentInset</string>
+	<key>immutableInterfaceAcceleration</key>
+	<string>pinchableCatalystCenter</string>
+	<key>layoutThroughDecorator</key>
+	<string>oldBufferTransparency</string>
+	<key>rectAdapterDistance</key>
+	<string>associatedSubscriptionContrast</string>
+	<key>singleTabviewLeft</key>
+	<string>dialogsSinceShape</string>
+	<key>taskProcessTransparency</key>
+	<string>publicSessionState</string>
+</dict>
+</plist>

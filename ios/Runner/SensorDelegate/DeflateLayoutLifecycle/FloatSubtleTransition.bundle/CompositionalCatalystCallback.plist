@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBuilderKind</key>
+	<string>cartesianStateSkewy</string>
+	<key>crucialConstraintDensity</key>
+	<string>interpolationWithFramework</string>
+	<key>diffableBufferStyle</key>
+	<string>kernelForTier</string>
+	<key>futureSystemOffset</key>
+	<string>pageviewObserverDistance</string>
+	<key>instructionVarOpacity</key>
+	<string>specifyDocumentVisible</string>
+	<key>sliderProcessName</key>
+	<string>riverpodShapeTail</string>
+	<key>usedLabelEdge</key>
+	<string>integerBridgeVelocity</string>
+</dict>
+</plist>

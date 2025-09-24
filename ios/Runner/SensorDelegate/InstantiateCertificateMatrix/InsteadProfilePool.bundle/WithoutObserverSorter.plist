@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWithoutNumber</key>
+	<string>lastDependencyVisibility</string>
+	<key>mobxForActivity</key>
+	<string>localizationCycleResponse</string>
+	<key>resourceByEnvironment</key>
+	<string>unactivatedGridMode</string>
+	<key>scrollableMultiplicationStyle</key>
+	<string>inactiveResourceAlignment</string>
+</dict>
+</plist>

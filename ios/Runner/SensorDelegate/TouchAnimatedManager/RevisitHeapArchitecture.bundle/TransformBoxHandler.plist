@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAwayMethod</key>
+	<string>hardAnimationPressure</string>
+	<key>graphLikeShape</key>
+	<string>dropdownbuttonTempleFeedback</string>
+	<key>imageKindMode</key>
+	<string>oldEffectColor</string>
+	<key>interactorEnvironmentRight</key>
+	<string>momentumVisitorDistance</string>
+	<key>labelWithLayer</key>
+	<string>rectInsideOperation</string>
+	<key>layoutInterpreterDelay</key>
+	<string>awaitInterpreterSpeed</string>
+	<key>localizationStyleHue</key>
+	<string>pageviewMediatorSpacing</string>
+	<key>serviceFacadeFeedback</key>
+	<string>movementDuringForm</string>
+	<key>sizedboxLevelInteraction</key>
+	<string>agileSensorLeft</string>
+	<key>spineProcessTheme</key>
+	<string>requiredContainerInterval</string>
+</dict>
+</plist>

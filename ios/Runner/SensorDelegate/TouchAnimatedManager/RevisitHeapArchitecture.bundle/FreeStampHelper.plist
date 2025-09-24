@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAsFramework</key>
+	<string>fixedCursorSkewy</string>
+	<key>euclideanLogDelay</key>
+	<string>semanticSinkMode</string>
+	<key>gestureFunctionFrequency</key>
+	<string>stackContextPadding</string>
+	<key>notifierPerOperation</key>
+	<string>memberDecoratorOrientation</string>
+	<key>particleInterpreterCenter</key>
+	<string>routePlatformContrast</string>
+	<key>widgetMediatorFormat</key>
+	<string>reactiveChannelSize</string>
+</dict>
+</plist>

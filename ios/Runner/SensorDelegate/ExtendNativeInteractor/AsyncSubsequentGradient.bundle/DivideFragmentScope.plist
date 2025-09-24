@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTouchLeft</key>
+	<string>animationFormVelocity</string>
+	<key>compositionalTransitionSkewx</key>
+	<string>smallDecorationInteraction</string>
+	<key>exceptionAtLayer</key>
+	<string>diffableMethodSaturation</string>
+	<key>lazyIsolateBottom</key>
+	<string>positionedExceptActivity</string>
+	<key>metadataAwayFlyweight</key>
+	<string>overlaySinceAction</string>
+	<key>offsetPatternOrigin</key>
+	<string>desktopMenuRate</string>
+	<key>projectFlyweightOpacity</key>
+	<string>resolverStageVelocity</string>
+</dict>
+</plist>

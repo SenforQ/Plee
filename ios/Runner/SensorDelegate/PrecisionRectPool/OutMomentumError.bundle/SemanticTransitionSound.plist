@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectStagePosition</key>
+	<string>presenterCompositeState</string>
+	<key>grayscalePhaseRotation</key>
+	<string>presenterStageBrightness</string>
+	<key>inactiveCupertinoState</key>
+	<string>descriptorEnvironmentVisible</string>
+	<key>localStorageTint</key>
+	<string>symbolInEnvironment</string>
+	<key>sizedboxAmongTier</key>
+	<string>threadTypeTag</string>
+	<key>substantialUtilKind</key>
+	<string>usecaseTempleBottom</string>
+</dict>
+</plist>

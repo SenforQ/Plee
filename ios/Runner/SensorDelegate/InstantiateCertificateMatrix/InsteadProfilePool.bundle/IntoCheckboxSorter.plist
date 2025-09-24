@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBesideWork</key>
+	<string>providerNearTask</string>
+	<key>commandInsideBridge</key>
+	<string>asyncActionInset</string>
+	<key>layoutPhaseBound</key>
+	<string>relationalInstructionDelay</string>
+	<key>routerCompositeResponse</key>
+	<string>plateTaskMode</string>
+	<key>sampleFunctionMargin</key>
+	<string>dedicatedErrorTransparency</string>
+	<key>sliderFacadeRate</key>
+	<string>invisibleRectType</string>
+	<key>transitionAlongKind</key>
+	<string>servicePerActivity</string>
+</dict>
+</plist>

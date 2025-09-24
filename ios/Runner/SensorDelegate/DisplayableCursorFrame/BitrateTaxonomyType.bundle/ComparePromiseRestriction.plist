@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperObserverFrequency</key>
+	<string>constCursorAcceleration</string>
+	<key>documentAsFacade</key>
+	<string>clipperByPattern</string>
+	<key>layerObserverVelocity</key>
+	<string>singletonCompositeContrast</string>
+	<key>lostIntensityAppearance</key>
+	<string>multiConstraintInteraction</string>
+	<key>projectExceptActivity</key>
+	<string>unaryOrPrototype</string>
+	<key>richtextNearTemple</key>
+	<string>petActionOpacity</string>
+	<key>sceneThroughStyle</key>
+	<string>bitrateVisitorScale</string>
+</dict>
+</plist>

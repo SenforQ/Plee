@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowPatternBorder</key>
+	<string>subtleCommandIndex</string>
+	<key>relationalControllerDelay</key>
+	<string>cubitFacadeHue</string>
+	<key>sensorLevelKind</key>
+	<string>textInTask</string>
+	<key>spriteOutsideFramework</key>
+	<string>interfaceActivitySize</string>
+</dict>
+</plist>

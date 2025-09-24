@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSpotBound</key>
+	<string>labelAndCycle</string>
+	<key>animationFromActivity</key>
+	<string>activityThanChain</string>
+	<key>chapterValuePressure</key>
+	<string>listenerActionKind</string>
+	<key>scrollableUsecaseState</key>
+	<string>nextProgressbarTag</string>
+</dict>
+</plist>

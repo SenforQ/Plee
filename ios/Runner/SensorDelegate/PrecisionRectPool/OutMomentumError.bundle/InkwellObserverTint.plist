@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVersusStructure</key>
+	<string>checkboxAlongContext</string>
+	<key>immutableLayoutPadding</key>
+	<string>borderStateDelay</string>
+	<key>nativeResourceTail</key>
+	<string>draggableIndicatorSkewy</string>
+	<key>slashActivityCenter</key>
+	<string>requiredCubitResponse</string>
+</dict>
+</plist>

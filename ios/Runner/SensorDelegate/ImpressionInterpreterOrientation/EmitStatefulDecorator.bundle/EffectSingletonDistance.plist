@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeChartStyle</key>
+	<string>eventProcessOpacity</string>
+	<key>errorAgainstKind</key>
+	<string>scrollFormInteraction</string>
+	<key>firstStoreStatus</key>
+	<string>synchronousRequestShade</string>
+	<key>logAroundStrategy</key>
+	<string>durationAtNumber</string>
+	<key>offsetAroundSystem</key>
+	<string>equalizationProxyPosition</string>
+	<key>permanentSinkTransparency</key>
+	<string>requestDecoratorAlignment</string>
+	<key>positionedSingletonStyle</key>
+	<string>blocNumberHead</string>
+	<key>spriteModeStyle</key>
+	<string>blocFacadeTension</string>
+	<key>streamStructureOrigin</key>
+	<string>offsetOfCommand</string>
+</dict>
+</plist>

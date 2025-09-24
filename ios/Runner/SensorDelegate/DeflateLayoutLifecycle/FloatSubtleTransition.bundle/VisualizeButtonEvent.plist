@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryBridgeStyle</key>
+	<string>buttonTypePressure</string>
+	<key>criticalErrorContrast</key>
+	<string>themeCompositeCenter</string>
+	<key>heapExceptAdapter</key>
+	<string>baselineStageOffset</string>
+	<key>methodMethodType</key>
+	<string>cardActivityBorder</string>
+	<key>secondMenuForce</key>
+	<string>similarSessionTop</string>
+	<key>spriteValueSkewx</key>
+	<string>pointPrototypeBrightness</string>
+	<key>texturePerKind</key>
+	<string>drawerCommandTop</string>
+</dict>
+</plist>

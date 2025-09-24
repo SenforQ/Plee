@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedResourceOpacity</key>
+	<string>switchPatternEdge</string>
+	<key>handlerBeyondVisitor</key>
+	<string>controllerViaAdapter</string>
+	<key>interactorStyleState</key>
+	<string>robustCosineInteraction</string>
+	<key>materialProviderOffset</key>
+	<string>multiKernelEdge</string>
+	<key>memberLayerCoord</key>
+	<string>sequentialRouteColor</string>
+	<key>requestFromBridge</key>
+	<string>dependencyActionHead</string>
+	<key>symmetricNodePadding</key>
+	<string>signatureNumberHue</string>
+</dict>
+</plist>

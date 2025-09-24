@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSliderAppearance</key>
+	<string>awaitVarPosition</string>
+	<key>beginnerBufferVisible</key>
+	<string>presenterContainMediator</string>
+	<key>buttonWithoutDecorator</key>
+	<string>promiseVarMode</string>
+	<key>decorationForPlatform</key>
+	<string>descriptionAlongMemento</string>
+	<key>fragmentAtContext</key>
+	<string>configurationNearWork</string>
+	<key>frameForDecorator</key>
+	<string>draggableTangentShape</string>
+	<key>granularCosineState</key>
+	<string>reactiveProfilePadding</string>
+	<key>sessionViaPlatform</key>
+	<string>retainedScaleOrigin</string>
+</dict>
+</plist>

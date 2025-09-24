@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPrototypeDuration</key>
+	<string>offsetLikeEnvironment</string>
+	<key>contractionVariableSpeed</key>
+	<string>largeRadiusPressure</string>
+	<key>elasticTransformerValidation</key>
+	<string>otherRectResponse</string>
+	<key>errorInterpreterType</key>
+	<string>popupWithInterpreter</string>
+	<key>loopByFacade</key>
+	<string>heroLevelHead</string>
+	<key>routeStyleOpacity</key>
+	<string>cupertinoFrameworkRotation</string>
+	<key>substantialVariantCenter</key>
+	<string>statefulParameterOrigin</string>
+</dict>
+</plist>

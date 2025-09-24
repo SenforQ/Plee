@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSwitchResponse</key>
+	<string>sortedScaleTheme</string>
+	<key>functionalDropdownbuttonScale</key>
+	<string>popupPhaseState</string>
+	<key>loopSinceVariable</key>
+	<string>activatedSliderColor</string>
+	<key>threadByStage</key>
+	<string>heapPatternOpacity</string>
+</dict>
+</plist>

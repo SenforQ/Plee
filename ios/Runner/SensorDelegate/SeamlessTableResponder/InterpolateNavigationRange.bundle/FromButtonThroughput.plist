@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterJobContrast</key>
+	<string>expandedAroundStage</string>
+	<key>checkboxDecoratorFlags</key>
+	<string>loopWithoutLevel</string>
+	<key>containerContextInteraction</key>
+	<string>customizedCurveVisibility</string>
+	<key>containerOrObserver</key>
+	<string>imperativeCaptionAcceleration</string>
+	<key>particleWorkSize</key>
+	<string>histogramDespitePrototype</string>
+	<key>queueInInterpreter</key>
+	<string>imageContainMediator</string>
+	<key>riverpodChainTag</key>
+	<string>observerOutsideOperation</string>
+	<key>stepBesideCycle</key>
+	<string>entityAboutFacade</string>
+</dict>
+</plist>

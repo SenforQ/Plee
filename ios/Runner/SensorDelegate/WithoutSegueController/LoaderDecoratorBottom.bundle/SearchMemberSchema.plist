@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFromSingleton</key>
+	<string>frameInsideScope</string>
+	<key>buttonMementoSkewy</key>
+	<string>subpixelAsSingleton</string>
+	<key>skinByMemento</key>
+	<string>interactorSingletonFrequency</string>
+	<key>spineAmongStage</key>
+	<string>constFragmentInset</string>
+	<key>statelessBufferTag</key>
+	<string>directIntensityTheme</string>
+	<key>streamTaskBound</key>
+	<string>usecaseTypeDepth</string>
+</dict>
+</plist>

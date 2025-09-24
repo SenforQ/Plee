@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeScrollFormat</key>
+	<string>featureActionCount</string>
+	<key>cubitWithoutTier</key>
+	<string>resolverMementoSpeed</string>
+	<key>customizedFutureOrigin</key>
+	<string>heapParameterStatus</string>
+	<key>lastInstructionDuration</key>
+	<string>diffableBlocLeft</string>
+</dict>
+</plist>

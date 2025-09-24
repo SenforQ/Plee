@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMediaqueryHead</key>
+	<string>segmentContainPlatform</string>
+	<key>accessibleNibCount</key>
+	<string>tabbarMethodContrast</string>
+	<key>blocInPlatform</key>
+	<string>uniqueMemberTint</string>
+	<key>independentStackResponse</key>
+	<string>painterCompositeVelocity</string>
+	<key>iterativeStoreIndex</key>
+	<string>smallNavigatorStyle</string>
+	<key>pageviewTierType</key>
+	<string>opaqueSubscriptionType</string>
+</dict>
+</plist>

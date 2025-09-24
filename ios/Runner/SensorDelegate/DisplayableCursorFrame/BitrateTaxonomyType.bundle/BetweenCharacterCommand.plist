@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationDuringStrategy</key>
+	<string>resourceActionKind</string>
+	<key>mapEnvironmentTag</key>
+	<string>tappableMobxTheme</string>
+	<key>normPerEnvironment</key>
+	<string>bulletObserverSkewx</string>
+	<key>prismaticEntityCoord</key>
+	<string>diffableSignatureTop</string>
+	<key>subscriptionInPattern</key>
+	<string>tableChainSkewy</string>
+	<key>usecaseObserverVelocity</key>
+	<string>topicIncludeType</string>
+</dict>
+</plist>

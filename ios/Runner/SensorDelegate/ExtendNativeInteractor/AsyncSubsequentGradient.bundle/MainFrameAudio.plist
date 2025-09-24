@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSkirtInset</key>
+	<string>timerMediatorSaturation</string>
+	<key>cacheEnvironmentVisible</key>
+	<string>checklistViaProxy</string>
+	<key>disparateGraphSaturation</key>
+	<string>tabbarBeyondSingleton</string>
+	<key>ignoredRadiusStatus</key>
+	<string>lastZoneSpeed</string>
+	<key>resolverMementoPosition</key>
+	<string>requiredSpriteOrigin</string>
+</dict>
+</plist>

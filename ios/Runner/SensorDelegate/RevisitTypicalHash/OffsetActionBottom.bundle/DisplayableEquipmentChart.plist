@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNodeEdge</key>
+	<string>streamAsPlatform</string>
+	<key>canvasFlyweightPadding</key>
+	<string>viewPatternTransparency</string>
+	<key>cycleCommandForce</key>
+	<string>intermediateViewStyle</string>
+	<key>futureFromScope</key>
+	<string>sceneAsEnvironment</string>
+	<key>notificationMethodHue</key>
+	<string>statefulLayerVisibility</string>
+	<key>stackViaParameter</key>
+	<string>gesturedetectorOperationVelocity</string>
+	<key>unsortedInteractorTop</key>
+	<string>opaqueBinaryStatus</string>
+</dict>
+</plist>

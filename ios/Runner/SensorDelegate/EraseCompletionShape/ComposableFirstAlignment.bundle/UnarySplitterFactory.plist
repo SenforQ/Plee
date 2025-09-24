@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexFlyweightShade</key>
+	<string>mainCubitResponse</string>
+	<key>materialCallbackInterval</key>
+	<string>serviceParameterInteraction</string>
+	<key>secondAsyncTint</key>
+	<string>bitrateAdapterDuration</string>
+	<key>streamTaskCount</key>
+	<string>diffableMetadataTail</string>
+</dict>
+</plist>

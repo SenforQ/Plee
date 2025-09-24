@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderKindSkewy</key>
+	<string>awaitActionFormat</string>
+	<key>commonControllerEdge</key>
+	<string>retainedPopupTail</string>
+	<key>contractionFlyweightOrigin</key>
+	<string>futureDecoratorOrigin</string>
+	<key>coordinatorCompositeOrientation</key>
+	<string>seamlessQueryVisibility</string>
+	<key>firstGrainSkewy</key>
+	<string>alignmentVersusKind</string>
+	<key>hierarchicalAxisContrast</key>
+	<string>secondMusicState</string>
+	<key>immutableOverlayOpacity</key>
+	<string>hashOfType</string>
+	<key>modelProxyBehavior</key>
+	<string>textFunctionOrigin</string>
+</dict>
+</plist>

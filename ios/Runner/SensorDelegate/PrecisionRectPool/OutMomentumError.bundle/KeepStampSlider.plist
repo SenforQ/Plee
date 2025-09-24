@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInterpreterSkewx</key>
+	<string>collectionBufferTransparency</string>
+	<key>firstLossFrequency</key>
+	<string>secondMasterMode</string>
+	<key>intuitivePreviewSkewx</key>
+	<string>shaderChainOpacity</string>
+	<key>layoutStageBottom</key>
+	<string>transformerWithoutPlatform</string>
+	<key>originalProjectionInterval</key>
+	<string>resizableTitleRotation</string>
+	<key>radiusCommandForce</key>
+	<string>serviceAdapterType</string>
+	<key>sessionAgainstParameter</key>
+	<string>queueActionAppearance</string>
+	<key>techniqueAlongProcess</key>
+	<string>interfaceInsideMode</string>
+	<key>widgetAdapterName</key>
+	<string>progressbarAroundOperation</string>
+</dict>
+</plist>

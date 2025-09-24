@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMissionBorder</key>
+	<string>immutableShaderFeedback</string>
+	<key>adaptiveInjectionSaturation</key>
+	<string>animatedcontainerForVar</string>
+	<key>constraintStageShape</key>
+	<string>stepInLevel</string>
+	<key>displayableButtonValidation</key>
+	<string>eventKindHue</string>
+	<key>ignoredTangentDepth</key>
+	<string>captionWithCommand</string>
+	<key>nativeUtilType</key>
+	<string>viewInNumber</string>
+	<key>routeDespiteMode</key>
+	<string>routeIncludeCycle</string>
+	<key>secondApertureBrightness</key>
+	<string>deferredAnimationContrast</string>
+	<key>subpixelBridgeRate</key>
+	<string>reducerAmongPhase</string>
+	<key>swiftLevelState</key>
+	<string>tappableDependencyDepth</string>
+</dict>
+</plist>

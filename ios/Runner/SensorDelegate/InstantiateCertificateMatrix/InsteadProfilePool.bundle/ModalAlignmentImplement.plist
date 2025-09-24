@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopMethodStyle</key>
+	<string>topicKindPadding</string>
+	<key>radiusDespiteEnvironment</key>
+	<string>logVariableStyle</string>
+	<key>widgetExceptFramework</key>
+	<string>menuWithoutCycle</string>
+</dict>
+</plist>

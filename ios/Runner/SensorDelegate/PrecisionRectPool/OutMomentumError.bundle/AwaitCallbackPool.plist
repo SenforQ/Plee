@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxFormDirection</key>
+	<string>interpolationBesideFacade</string>
+	<key>histogramBridgeType</key>
+	<string>uniqueScaleBound</string>
+	<key>inheritedGraphAppearance</key>
+	<string>variantParamAppearance</string>
+	<key>interactiveDelegateCenter</key>
+	<string>parallelChapterMode</string>
+	<key>semanticsViaJob</key>
+	<string>directlyMethodTail</string>
+</dict>
+</plist>

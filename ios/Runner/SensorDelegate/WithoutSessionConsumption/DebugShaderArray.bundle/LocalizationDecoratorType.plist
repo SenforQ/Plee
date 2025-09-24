@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedContainerAppearance</key>
+	<string>materialUnaryAlignment</string>
+	<key>animationAmongChain</key>
+	<string>transitionWithoutMediator</string>
+	<key>eventFacadeEdge</key>
+	<string>factoryParamName</string>
+	<key>promiseOfCycle</key>
+	<string>sinkAlongStrategy</string>
+	<key>rapidTransitionInset</key>
+	<string>coordinatorProcessShape</string>
+	<key>scaleObserverBottom</key>
+	<string>dependencyNearStrategy</string>
+	<key>spineLikeMethod</key>
+	<string>eventAroundLevel</string>
+	<key>unsortedReducerPadding</key>
+	<string>iterativeIsolateBrightness</string>
+</dict>
+</plist>

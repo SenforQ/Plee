@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertSinceParam</key>
+	<string>largeCosineInset</string>
+	<key>backwardControllerBehavior</key>
+	<string>interpolationIncludeActivity</string>
+	<key>bufferByPrototype</key>
+	<string>tickerPrototypeBehavior</string>
+	<key>serviceStrategyDepth</key>
+	<string>tabbarContainValue</string>
+	<key>subscriptionActionDelay</key>
+	<string>disparateControllerEdge</string>
+</dict>
+</plist>

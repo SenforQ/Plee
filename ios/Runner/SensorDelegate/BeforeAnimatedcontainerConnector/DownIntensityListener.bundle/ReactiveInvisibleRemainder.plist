@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedGridAlignment</key>
+	<string>allocatorSinceComposite</string>
+	<key>flexibleNodeIndex</key>
+	<string>sceneTaskOrigin</string>
+	<key>grainAroundAdapter</key>
+	<string>immediateHeroTheme</string>
+	<key>iterativeIsolateStyle</key>
+	<string>injectionWithoutTask</string>
+</dict>
+</plist>

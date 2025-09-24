@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitTangentTag</key>
+	<string>logProcessDelay</string>
+	<key>streamAsProxy</key>
+	<string>descriptionCommandDepth</string>
+	<key>symmetricGesturedetectorAcceleration</key>
+	<string>denseTimerShape</string>
+	<key>usedPetShape</key>
+	<string>brushLayerInterval</string>
+</dict>
+</plist>

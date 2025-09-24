@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedPresenterResponse</key>
+	<string>delegateSingletonDistance</string>
+	<key>drawerCommandMargin</key>
+	<string>momentumVariableBrightness</string>
+	<key>equalizationProcessInteraction</key>
+	<string>utilNearBridge</string>
+	<key>intermediateMarginLocation</key>
+	<string>callbackFromFlyweight</string>
+	<key>listviewVariableDirection</key>
+	<string>frameFacadeShade</string>
+	<key>protocolValueColor</key>
+	<string>groupForCommand</string>
+	<key>sequentialProviderDensity</key>
+	<string>intensitySystemOpacity</string>
+	<key>uniformControllerDirection</key>
+	<string>gesturedetectorMediatorDirection</string>
+</dict>
+</plist>

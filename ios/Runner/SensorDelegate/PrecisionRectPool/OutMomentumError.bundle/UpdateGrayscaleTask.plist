@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteCardRight</key>
+	<string>accordionTextureSize</string>
+	<key>effectViaNumber</key>
+	<string>localizationAndTask</string>
+	<key>textureBesideParameter</key>
+	<string>tensorNavigatorDelay</string>
+</dict>
+</plist>

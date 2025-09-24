@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionAndCycle</key>
+	<string>sizeSystemDelay</string>
+	<key>missionAroundPhase</key>
+	<string>menuInSystem</string>
+	<key>playbackCompositeAcceleration</key>
+	<string>logarithmMethodBrightness</string>
+	<key>prismaticBufferFlags</key>
+	<string>effectEnvironmentAlignment</string>
+</dict>
+</plist>

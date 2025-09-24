@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineDespiteProcess</key>
+	<string>localPrecisionHead</string>
+	<key>buttonProcessRate</key>
+	<string>staticErrorTint</string>
+	<key>crudePaddingValidation</key>
+	<string>masterTaskDirection</string>
+	<key>cubitJobFeedback</key>
+	<string>indicatorViaParameter</string>
+	<key>firstRiverpodAlignment</key>
+	<string>loopParamDistance</string>
+</dict>
+</plist>

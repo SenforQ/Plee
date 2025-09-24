@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAboutVariable</key>
+	<string>observerDecoratorAlignment</string>
+	<key>checkboxNearFunction</key>
+	<string>hardSliderVisible</string>
+	<key>storeTypeOffset</key>
+	<string>channelWithAction</string>
+	<key>widgetOfProxy</key>
+	<string>frameAsAction</string>
+</dict>
+</plist>

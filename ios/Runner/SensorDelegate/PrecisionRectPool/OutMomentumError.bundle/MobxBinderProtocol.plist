@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricThreadMomentum</key>
+	<string>responsiveObserverBrightness</string>
+	<key>interpolationBeyondCycle</key>
+	<string>constAlphaColor</string>
+	<key>listenerFormSkewx</key>
+	<string>mobileKernelRotation</string>
+	<key>pinchableDescriptionAlignment</key>
+	<string>memberStrategyAlignment</string>
+	<key>synchronousMapDelay</key>
+	<string>currentTextDirection</string>
+	<key>temporaryPresenterBound</key>
+	<string>variantShapeOffset</string>
+</dict>
+</plist>

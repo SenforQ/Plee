@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVisitorFlags</key>
+	<string>queueMediatorBound</string>
+	<key>beginnerSensorTension</key>
+	<string>matrixBufferTint</string>
+	<key>commonResourceBrightness</key>
+	<string>cubitPerSystem</string>
+	<key>futureParamAppearance</key>
+	<string>positionExceptMode</string>
+	<key>mobxAlongComposite</key>
+	<string>associatedErrorRate</string>
+	<key>tabviewWorkRotation</key>
+	<string>protectedModalScale</string>
+	<key>utilFromPlatform</key>
+	<string>intermediateGestureMargin</string>
+</dict>
+</plist>

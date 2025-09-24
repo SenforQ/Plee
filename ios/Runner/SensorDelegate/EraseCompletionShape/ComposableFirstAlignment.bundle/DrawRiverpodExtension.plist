@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStyleTag</key>
+	<string>scaffoldStructureOrientation</string>
+	<key>eagerCurveShade</key>
+	<string>responseThanLayer</string>
+	<key>frameContextFormat</key>
+	<string>spriteInMediator</string>
+	<key>largeGradientSaturation</key>
+	<string>statefulRadiusHue</string>
+	<key>radiusChainVisibility</key>
+	<string>previewAdapterKind</string>
+	<key>repositoryNumberAcceleration</key>
+	<string>dependencyPerFacade</string>
+	<key>statelessCompositeFrequency</key>
+	<string>multiplicationSystemForce</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeStructureType</key>
+	<string>streamIncludeLayer</string>
+	<key>contractionForState</key>
+	<string>queueWithTier</string>
+	<key>decorationKindFlags</key>
+	<string>sessionByTier</string>
+	<key>disabledSpineSaturation</key>
+	<string>channelAsWork</string>
+	<key>repositoryOrPhase</key>
+	<string>invisibleAsyncSpeed</string>
+	<key>roleFunctionStatus</key>
+	<string>usageFormStatus</string>
+	<key>threadVariablePosition</key>
+	<string>collectionAwayCommand</string>
+	<key>vectorContainContext</key>
+	<string>ignoredObserverAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTierEdge</key>
+	<string>directlyStepTint</string>
+	<key>compositionVersusObserver</key>
+	<string>entropyTempleBrightness</string>
+	<key>invisibleTabbarSpeed</key>
+	<string>advancedControllerFlags</string>
+	<key>mediaVisitorFeedback</key>
+	<string>specifierAndScope</string>
+	<key>sampleInterpreterFrequency</key>
+	<string>dialogsAboutMediator</string>
+	<key>seamlessSingletonMomentum</key>
+	<string>notifierAwayJob</string>
+</dict>
+</plist>

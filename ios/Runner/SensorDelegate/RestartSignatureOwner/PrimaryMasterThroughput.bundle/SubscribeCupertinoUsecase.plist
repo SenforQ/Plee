@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSpineBrightness</key>
+	<string>resourcePerChain</string>
+	<key>checklistViaInterpreter</key>
+	<string>callbackAroundMethod</string>
+	<key>curveVisitorAcceleration</key>
+	<string>cupertinoOrLevel</string>
+	<key>declarativeBuilderSaturation</key>
+	<string>textFormVelocity</string>
+	<key>descriptionAwaySingleton</key>
+	<string>sampleCompositeVisibility</string>
+	<key>finalSlashTransparency</key>
+	<string>iterativeRowStatus</string>
+	<key>mobileSceneValidation</key>
+	<string>prevSegmentInset</string>
+	<key>nibScopeTop</key>
+	<string>threadBufferRotation</string>
+	<key>queryFacadeRate</key>
+	<string>delegateTaskFeedback</string>
+	<key>titleOperationPadding</key>
+	<string>cosineOrContext</string>
+</dict>
+</plist>

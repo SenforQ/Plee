@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAlongFacade</key>
+	<string>cursorWithTask</string>
+	<key>commandObserverIndex</key>
+	<string>allocatorViaPattern</string>
+	<key>disabledCaptionStyle</key>
+	<string>metadataAgainstWork</string>
+	<key>skinDecoratorHead</key>
+	<string>overlayThanFramework</string>
+	<key>subscriptionSinceSingleton</key>
+	<string>featureBeyondLevel</string>
+</dict>
+</plist>

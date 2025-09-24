@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAlongTemple</key>
+	<string>interactiveGridviewKind</string>
+	<key>bulletContextStyle</key>
+	<string>exceptionBeyondOperation</string>
+	<key>dropdownbuttonAroundScope</key>
+	<string>awaitAroundTask</string>
+	<key>kernelVersusMode</key>
+	<string>nativeKernelBehavior</string>
+	<key>metadataActionTint</key>
+	<string>materialAssetDensity</string>
+	<key>responsivePositionIndex</key>
+	<string>spotStageInteraction</string>
+	<key>routerAndPlatform</key>
+	<string>metadataAboutLevel</string>
+	<key>seamlessClipperCenter</key>
+	<string>curveStrategyAlignment</string>
+	<key>smallNavigationDensity</key>
+	<string>sortedApertureSize</string>
+</dict>
+</plist>

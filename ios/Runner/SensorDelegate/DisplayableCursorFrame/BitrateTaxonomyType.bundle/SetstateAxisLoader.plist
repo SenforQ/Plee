@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineStageBound</key>
+	<string>chartAmongVar</string>
+	<key>criticalEntityAcceleration</key>
+	<string>permanentNotificationTheme</string>
+	<key>curveWorkContrast</key>
+	<string>listviewFrameworkDirection</string>
+	<key>declarativeHandlerTheme</key>
+	<string>routerModeInteraction</string>
+	<key>diffableTimerOffset</key>
+	<string>imageTempleDuration</string>
+	<key>singleAsyncFeedback</key>
+	<string>originalStoryboardSpeed</string>
+	<key>ternaryTaskScale</key>
+	<string>flexAmongType</string>
+	<key>transformerInsideTask</key>
+	<string>diversifiedRouteContrast</string>
+</dict>
+</plist>

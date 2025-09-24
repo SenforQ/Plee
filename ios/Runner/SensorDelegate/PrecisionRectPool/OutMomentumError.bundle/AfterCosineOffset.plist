@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDependencyDistance</key>
+	<string>constraintProcessOrigin</string>
+	<key>firstGradientEdge</key>
+	<string>textStateDistance</string>
+	<key>geometricCellInterval</key>
+	<string>durationStateValidation</string>
+	<key>invisibleEqualizationOrientation</key>
+	<string>controllerOutsideParameter</string>
+	<key>mediaqueryPerComposite</key>
+	<string>largeTabviewOffset</string>
+	<key>notificationMediatorMomentum</key>
+	<string>specifierIncludeLevel</string>
+</dict>
+</plist>

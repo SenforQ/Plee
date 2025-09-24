@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPerProcess</key>
+	<string>tabbarViaParam</string>
+	<key>imageFrameworkBrightness</key>
+	<string>statefulExtensionPressure</string>
+	<key>statelessSingletonMode</key>
+	<string>responseContainInterpreter</string>
+	<key>storageBesideSystem</key>
+	<string>chartInterpreterInteraction</string>
+</dict>
+</plist>

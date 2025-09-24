@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>previewKindBrightness</key>
+	<string>requestAlongPattern</string>
+	<key>projectionPerDecorator</key>
+	<string>dependencyIncludeContext</string>
+	<key>providerContainPattern</key>
+	<string>newestRowName</string>
+	<key>sequentialReferenceTint</key>
+	<string>assetFormCoord</string>
+	<key>spinePerStage</key>
+	<string>lazyChartIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteHandlerType</key>
+	<string>cycleOfFacade</string>
+	<key>elasticTransitionOrigin</key>
+	<string>specifyEntityOrientation</string>
+	<key>granularCycleBound</key>
+	<string>permanentCoordinatorInset</string>
+	<key>resultOrJob</key>
+	<string>awaitUntilTier</string>
+	<key>sinkAgainstPrototype</key>
+	<string>currentBrushKind</string>
+	<key>stampObserverDelay</key>
+	<string>gestureFromVisitor</string>
+	<key>unactivatedExpandedLeft</key>
+	<string>awaitDuringSystem</string>
+</dict>
+</plist>

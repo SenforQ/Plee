@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOrTask</key>
+	<string>projectionKindStatus</string>
+	<key>functionalStatelessName</key>
+	<string>animationEnvironmentTheme</string>
+	<key>gridviewVarDirection</key>
+	<string>fixedCellState</string>
+	<key>liteChannelEdge</key>
+	<string>petWithNumber</string>
+	<key>stampLevelSaturation</key>
+	<string>subsequentConstraintOpacity</string>
+	<key>stateLayerName</key>
+	<string>globalListenerDirection</string>
+	<key>storyboardStrategyVisible</key>
+	<string>immutableInjectionMode</string>
+	<key>usedErrorLocation</key>
+	<string>dependencyStyleOffset</string>
+</dict>
+</plist>

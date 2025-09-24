@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasStrategyTop</key>
+	<string>missedEventOrientation</string>
+	<key>delegatePatternRight</key>
+	<string>previewWithoutVisitor</string>
+	<key>graphProxyMode</key>
+	<string>previewPerObserver</string>
+	<key>inheritedOperationHead</key>
+	<string>statefulSensorPosition</string>
+	<key>labelFromVar</key>
+	<string>declarativeTextInteraction</string>
+	<key>logModeCount</key>
+	<string>autoNavigatorDepth</string>
+	<key>notifierPrototypeOffset</key>
+	<string>buttonBesideAdapter</string>
+	<key>widgetIncludeVar</key>
+	<string>customizedProgressbarBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistActionPadding</key>
+	<string>gemBesideMode</string>
+	<key>eventPerActivity</key>
+	<string>decorationLikeBuffer</string>
+	<key>mapInsideObserver</key>
+	<string>nodeStrategyTop</string>
+	<key>popupMethodPosition</key>
+	<string>accordionCurveSpacing</string>
+	<key>progressbarMediatorSkewx</key>
+	<string>containerVariableFlags</string>
+	<key>retainedDependencySize</key>
+	<string>scrollableResultMargin</string>
+	<key>statelessListviewDelay</key>
+	<string>callbackAndState</string>
+</dict>
+</plist>

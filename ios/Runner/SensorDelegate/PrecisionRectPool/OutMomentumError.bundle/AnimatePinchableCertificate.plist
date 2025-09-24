@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintBufferRotation</key>
+	<string>tabbarBesideMediator</string>
+	<key>effectIncludeParam</key>
+	<string>basicContainerOffset</string>
+	<key>gemAsFlyweight</key>
+	<string>statefulPerValue</string>
+	<key>gesturedetectorStageEdge</key>
+	<string>assetPlatformForce</string>
+	<key>lastCoordinatorColor</key>
+	<string>queueInterpreterSkewx</string>
+	<key>profileProxyBehavior</key>
+	<string>statefulVariantDistance</string>
+</dict>
+</plist>

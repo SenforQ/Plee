@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTitleDepth</key>
+	<string>sustainableProgressbarRotation</string>
+	<key>buttonModeDuration</key>
+	<string>intermediateSignEdge</string>
+	<key>equalizationViaState</key>
+	<string>queueStrategyBehavior</string>
+	<key>fragmentVarBrightness</key>
+	<string>statefulStateRate</string>
+	<key>fusedProfileValidation</key>
+	<string>contractionInsideProxy</string>
+	<key>layoutMementoDepth</key>
+	<string>desktopTimerHead</string>
+	<key>observerOrBuffer</key>
+	<string>commandLayerVisibility</string>
+	<key>singletonThanAction</key>
+	<string>consumerUntilVariable</string>
+</dict>
+</plist>

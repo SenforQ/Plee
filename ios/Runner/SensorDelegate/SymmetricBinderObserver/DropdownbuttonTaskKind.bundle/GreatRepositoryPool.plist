@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandWithoutScope</key>
+	<string>builderCompositeDirection</string>
+	<key>desktopQueueIndex</key>
+	<string>nativeCustompaintColor</string>
+	<key>layoutLevelSkewy</key>
+	<string>fragmentLayerDuration</string>
+	<key>mediaqueryIncludeMediator</key>
+	<string>controllerActivityShape</string>
+	<key>paddingByWork</key>
+	<string>sensorTaskInset</string>
+	<key>taskAboutEnvironment</key>
+	<string>retainedListenerDepth</string>
+</dict>
+</plist>

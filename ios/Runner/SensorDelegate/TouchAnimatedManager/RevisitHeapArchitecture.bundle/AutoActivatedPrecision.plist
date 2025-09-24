@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAdapterDepth</key>
+	<string>chapterStyleInset</string>
+	<key>iconActivityEdge</key>
+	<string>parallelFutureKind</string>
+	<key>intuitiveOverlayOffset</key>
+	<string>widgetFrameworkMode</string>
+	<key>navigatorLevelMargin</key>
+	<string>scaleContainAdapter</string>
+	<key>newestManagerTag</key>
+	<string>enabledAsyncColor</string>
+	<key>primaryMethodForce</key>
+	<string>layoutCycleAcceleration</string>
+	<key>stepBufferBorder</key>
+	<string>techniqueOutsideVisitor</string>
+	<key>taskFlyweightDensity</key>
+	<string>completionThanContext</string>
+	<key>threadThroughCommand</key>
+	<string>stateDespiteState</string>
+</dict>
+</plist>

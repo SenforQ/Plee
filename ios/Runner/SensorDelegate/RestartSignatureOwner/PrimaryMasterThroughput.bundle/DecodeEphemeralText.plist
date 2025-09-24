@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionNearTemple</key>
+	<string>referencePerState</string>
+	<key>chartBesideParameter</key>
+	<string>ternaryAlongFlyweight</string>
+	<key>cubitStageBrightness</key>
+	<string>staticSceneDistance</string>
+	<key>interpolationAtVariable</key>
+	<string>usedNavigationOpacity</string>
+	<key>missionObserverMode</key>
+	<string>animatedcontainerIncludeEnvironment</string>
+	<key>offsetPatternEdge</key>
+	<string>titlePlatformRight</string>
+	<key>resilientAwaitInteraction</key>
+	<string>mobxContextBorder</string>
+	<key>segueAtValue</key>
+	<string>brushStyleFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonUnaryStyle</key>
+	<string>compositionalDelegateName</string>
+	<key>currentUsecaseRotation</key>
+	<string>pinchableEffectFeedback</string>
+	<key>playbackAsScope</key>
+	<string>granularAsyncLeft</string>
+	<key>sophisticatedFutureDuration</key>
+	<string>observerAndVariable</string>
+	<key>textInterpreterResponse</key>
+	<string>localizationActivityIndex</string>
+</dict>
+</plist>

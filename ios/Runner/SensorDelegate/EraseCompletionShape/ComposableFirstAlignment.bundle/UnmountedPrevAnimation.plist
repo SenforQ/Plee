@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEntityFeedback</key>
+	<string>cardScopeRight</string>
+	<key>adaptiveCallbackIndex</key>
+	<string>seamlessBinaryRotation</string>
+	<key>builderForLevel</key>
+	<string>interactiveBlocSpacing</string>
+	<key>decorationNearStrategy</key>
+	<string>persistentEquipmentFeedback</string>
+	<key>progressbarAmongForm</key>
+	<string>materialBesideBuffer</string>
+	<key>resourceSinceParameter</key>
+	<string>sceneAmongScope</string>
+	<key>sceneViaJob</key>
+	<string>effectFormBrightness</string>
+	<key>sliderDecoratorCoord</key>
+	<string>newestSizeTheme</string>
+</dict>
+</plist>

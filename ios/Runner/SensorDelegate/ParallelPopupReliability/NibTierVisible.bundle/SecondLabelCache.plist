@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRadiusBehavior</key>
+	<string>layoutWithoutVariable</string>
+	<key>brushUntilLayer</key>
+	<string>resolverThroughTier</string>
+	<key>disparateGroupSpacing</key>
+	<string>labelAdapterFeedback</string>
+	<key>explicitTransitionState</key>
+	<string>sizedboxTempleTint</string>
+	<key>interpolationStageOpacity</key>
+	<string>decorationTaskFormat</string>
+	<key>memberForValue</key>
+	<string>seamlessCosineIndex</string>
+	<key>scrollAwayMethod</key>
+	<string>boxshadowActivityBorder</string>
+	<key>typicalUsageRight</key>
+	<string>completionActionName</string>
+</dict>
+</plist>

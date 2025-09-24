@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationWithoutLevel</key>
+	<string>workflowPrototypeHue</string>
+	<key>containerPerValue</key>
+	<string>animatedSceneFormat</string>
+	<key>observerBeyondActivity</key>
+	<string>ignoredInterpolationRate</string>
+	<key>resizableReducerAppearance</key>
+	<string>backwardConstraintPosition</string>
+	<key>reusablePrecisionStyle</key>
+	<string>resolverAdapterCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintScopeTransparency</key>
+	<string>descriptorWithoutMode</string>
+	<key>denseMovementInteraction</key>
+	<string>mainReducerBound</string>
+	<key>handlerAroundDecorator</key>
+	<string>discardedSignatureSkewy</string>
+	<key>lazyGramResponse</key>
+	<string>descriptionPrototypeFeedback</string>
+	<key>relationalCubitBorder</key>
+	<string>requestContainContext</string>
+</dict>
+</plist>

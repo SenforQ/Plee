@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEquipmentColor</key>
+	<string>symmetricStampSaturation</string>
+	<key>dynamicPresenterCoord</key>
+	<string>sineFunctionSaturation</string>
+	<key>flexibleMediaValidation</key>
+	<string>agileRectPosition</string>
+	<key>immediatePreviewInset</key>
+	<string>segueAroundAction</string>
+	<key>storeWithoutPlatform</key>
+	<string>compositionalTangentSpeed</string>
+	<key>textTypeTint</key>
+	<string>activatedScrollHead</string>
+</dict>
+</plist>

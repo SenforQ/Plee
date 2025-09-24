@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalGridDelay</key>
+	<string>listviewLayerInset</string>
+	<key>durationPerOperation</key>
+	<string>queryOfStage</string>
+	<key>graphicExceptType</key>
+	<string>projectLevelBound</string>
+	<key>sinkOutsideMemento</key>
+	<string>previewBeyondBuffer</string>
+	<key>sliderWorkInterval</key>
+	<string>chartOfVariable</string>
+</dict>
+</plist>

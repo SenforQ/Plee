@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAnimationDirection</key>
+	<string>euclideanGiftOpacity</string>
+	<key>dialogsAndPrototype</key>
+	<string>parallelPreviewSpeed</string>
+	<key>graphBufferState</key>
+	<string>textureBufferBottom</string>
+	<key>handlerAdapterName</key>
+	<string>originalButtonDuration</string>
+	<key>mapDuringCycle</key>
+	<string>resultIncludeNumber</string>
+	<key>nextBlocOrientation</key>
+	<string>interactiveBatchPadding</string>
+</dict>
+</plist>

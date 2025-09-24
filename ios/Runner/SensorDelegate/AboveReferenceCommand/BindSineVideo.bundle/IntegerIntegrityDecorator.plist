@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseWorkScale</key>
+	<string>bitrateLayerRight</string>
+	<key>coordinatorOfMode</key>
+	<string>loopWorkSize</string>
+	<key>futureLevelMode</key>
+	<string>loopKindPadding</string>
+	<key>interfaceExceptScope</key>
+	<string>configurationEnvironmentTop</string>
+	<key>loopValueInterval</key>
+	<string>skirtAtBridge</string>
+	<key>radiusAmongEnvironment</key>
+	<string>statefulVariableDistance</string>
+	<key>semanticsLikeParam</key>
+	<string>variantInterpreterShape</string>
+</dict>
+</plist>

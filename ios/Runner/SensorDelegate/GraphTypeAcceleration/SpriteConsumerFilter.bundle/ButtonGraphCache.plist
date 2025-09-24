@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAlongVisitor</key>
+	<string>mediaqueryLikeObserver</string>
+	<key>consultativeCompletionFeedback</key>
+	<string>captionFacadeSkewx</string>
+	<key>customizedLabelTheme</key>
+	<string>featureFormInset</string>
+	<key>secondReferenceFeedback</key>
+	<string>graphicLevelState</string>
+	<key>textfieldAroundSingleton</key>
+	<string>boxshadowSingletonSaturation</string>
+	<key>toolContextContrast</key>
+	<string>columnMethodSpacing</string>
+</dict>
+</plist>

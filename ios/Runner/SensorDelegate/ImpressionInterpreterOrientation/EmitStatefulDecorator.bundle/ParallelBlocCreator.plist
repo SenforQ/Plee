@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertScopeIndex</key>
+	<string>sequentialNavigatorPosition</string>
+	<key>alphaBufferPosition</key>
+	<string>durationTaskType</string>
+	<key>concurrentSpriteKind</key>
+	<string>protectedAssetVisible</string>
+	<key>inheritedSubpixelRight</key>
+	<string>routerKindCount</string>
+	<key>mobileParameterOrigin</key>
+	<string>segmentForStage</string>
+	<key>smallStepKind</key>
+	<string>curveTierInteraction</string>
+	<key>storeActionHue</key>
+	<string>staticGemSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityContainMode</key>
+	<string>curveVariableLocation</string>
+	<key>axisSystemResponse</key>
+	<string>graphicMethodTail</string>
+	<key>behaviorWithoutFacade</key>
+	<string>allocatorTaskTop</string>
+	<key>callbackParameterBehavior</key>
+	<string>variantFlyweightResponse</string>
+	<key>controllerKindEdge</key>
+	<string>subscriptionProcessResponse</string>
+	<key>dropdownbuttonUntilStyle</key>
+	<string>spriteFrameworkTop</string>
+	<key>logarithmKindInset</key>
+	<string>mobileStatelessPosition</string>
+	<key>slashStyleBrightness</key>
+	<string>assetProxyPadding</string>
+</dict>
+</plist>

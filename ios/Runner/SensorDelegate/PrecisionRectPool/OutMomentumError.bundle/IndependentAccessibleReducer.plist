@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSessionIndex</key>
+	<string>hierarchicalAppbarMode</string>
+	<key>asyncEntropyAppearance</key>
+	<string>cosineInSingleton</string>
+	<key>granularTopicBorder</key>
+	<string>pinchableChallengePosition</string>
+	<key>liteCertificateDistance</key>
+	<string>cubitProcessEdge</string>
+	<key>responseOutsideState</key>
+	<string>materialThroughFunction</string>
+	<key>singletonAndProxy</key>
+	<string>stateByValue</string>
+</dict>
+</plist>

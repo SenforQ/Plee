@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerOfDecorator</key>
+	<string>singletonEnvironmentTint</string>
+	<key>indicatorAgainstMode</key>
+	<string>transitionAdapterScale</string>
+	<key>rectFlyweightOrientation</key>
+	<string>plateProcessType</string>
+	<key>routeExceptDecorator</key>
+	<string>stampChainAlignment</string>
+	<key>semanticPlaybackState</key>
+	<string>crudeDialogsBottom</string>
+	<key>staticCompositionIndex</key>
+	<string>dependencyCycleForce</string>
+	<key>ternaryBeyondComposite</key>
+	<string>transitionByBridge</string>
+</dict>
+</plist>

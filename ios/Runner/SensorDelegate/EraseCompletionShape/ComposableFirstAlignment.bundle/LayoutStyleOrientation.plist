@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheStrategyVisible</key>
+	<string>instructionAsScope</string>
+	<key>callbackThroughDecorator</key>
+	<string>navigatorAdapterAcceleration</string>
+	<key>hashCycleType</key>
+	<string>subsequentGesturedetectorIndex</string>
+	<key>invisibleAlignmentName</key>
+	<string>semanticAsyncColor</string>
+	<key>marginVersusScope</key>
+	<string>multiRoleTheme</string>
+	<key>mediaWithChain</key>
+	<string>discardedMediaTension</string>
+	<key>radiusBesideAdapter</key>
+	<string>multiFutureAppearance</string>
+	<key>sliderThroughState</key>
+	<string>displayableOverlayPadding</string>
+</dict>
+</plist>

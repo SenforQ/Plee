@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDuringMode</key>
+	<string>observerExceptBuffer</string>
+	<key>coordinatorFormContrast</key>
+	<string>intensityBridgeCoord</string>
+	<key>intensityLikeScope</key>
+	<string>offsetAdapterBehavior</string>
+	<key>mediocreOffsetFlags</key>
+	<string>compositionalChannelOrientation</string>
+	<key>multiCapsuleBorder</key>
+	<string>captionOperationIndex</string>
+	<key>optimizerSinceOperation</key>
+	<string>smallParticleLocation</string>
+	<key>rapidCompositionFormat</key>
+	<string>intuitiveHistogramRotation</string>
+	<key>rectStateSpeed</key>
+	<string>optimizerInterpreterFeedback</string>
+	<key>remainderAtState</key>
+	<string>modelAtMethod</string>
+	<key>subtleWidgetAlignment</key>
+	<string>hierarchicalBitrateBehavior</string>
+</dict>
+</plist>

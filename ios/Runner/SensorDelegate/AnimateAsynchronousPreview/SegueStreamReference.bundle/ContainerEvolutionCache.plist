@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDimensionInset</key>
+	<string>specifyDecorationFormat</string>
+	<key>apertureLevelVisibility</key>
+	<string>staticCurveHead</string>
+	<key>appbarSingletonLeft</key>
+	<string>aspectAgainstCycle</string>
+	<key>dedicatedBaseBound</key>
+	<string>layoutNearContext</string>
+	<key>gateThroughMode</key>
+	<string>resourceVersusVisitor</string>
+	<key>nativeGraphicRight</key>
+	<string>graphicExceptObserver</string>
+	<key>pageviewPerPlatform</key>
+	<string>visibleDecorationPosition</string>
+	<key>sliderAmongValue</key>
+	<string>localizationTierValidation</string>
+</dict>
+</plist>

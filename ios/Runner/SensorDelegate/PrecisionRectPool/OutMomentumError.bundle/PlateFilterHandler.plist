@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInsideAdapter</key>
+	<string>sineVariablePressure</string>
+	<key>modelExceptAdapter</key>
+	<string>curveFacadeLocation</string>
+	<key>projectionLevelBorder</key>
+	<string>containerSingletonTop</string>
+	<key>singletonProcessShade</key>
+	<string>graphCompositeTint</string>
+	<key>synchronousRadiusResponse</key>
+	<string>basicSinkTint</string>
+	<key>textureChainType</key>
+	<string>rowAsFacade</string>
+	<key>titleForFunction</key>
+	<string>explicitMarginPadding</string>
+	<key>topicFacadeInteraction</key>
+	<string>standaloneViewScale</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMediaMargin</key>
+	<string>resourceOrTask</string>
+	<key>baseInMode</key>
+	<string>delicateHeapFeedback</string>
+	<key>batchAsFramework</key>
+	<string>cupertinoRouteDirection</string>
+	<key>constResultEdge</key>
+	<string>mobileStreamShape</string>
+	<key>disabledParticleForce</key>
+	<string>rowScopeSpacing</string>
+	<key>effectAtFacade</key>
+	<string>buttonPlatformDensity</string>
+	<key>ephemeralSkinKind</key>
+	<string>respectiveGrayscaleDirection</string>
+	<key>mobileViaMethod</key>
+	<string>intuitivePainterTop</string>
+	<key>promiseProcessAlignment</key>
+	<string>buttonBufferHue</string>
+	<key>resolverProcessRate</key>
+	<string>interfacePlatformType</string>
+</dict>
+</plist>

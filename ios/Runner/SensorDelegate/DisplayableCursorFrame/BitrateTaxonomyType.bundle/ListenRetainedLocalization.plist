@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOutsideAdapter</key>
+	<string>spriteThroughMethod</string>
+	<key>cardNearLevel</key>
+	<string>columnFormValidation</string>
+	<key>cubitBeyondMode</key>
+	<string>uniqueResourceOrigin</string>
+	<key>isolateCommandTension</key>
+	<string>prismaticReducerShape</string>
+	<key>rapidInterfaceTop</key>
+	<string>customRiverpodTension</string>
+	<key>responsivePlaybackResponse</key>
+	<string>lossActivitySkewy</string>
+</dict>
+</plist>

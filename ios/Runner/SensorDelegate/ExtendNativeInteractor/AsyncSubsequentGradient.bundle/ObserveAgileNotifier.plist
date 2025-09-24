@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStateBehavior</key>
+	<string>animatedStoryboardTail</string>
+	<key>durationParameterSpacing</key>
+	<string>dynamicCurveName</string>
+	<key>inheritedInstructionCoord</key>
+	<string>sineStateOrigin</string>
+	<key>pageviewWorkCenter</key>
+	<string>permissiveDimensionOffset</string>
+	<key>persistentDependencyOffset</key>
+	<string>scrollableInterpolationVelocity</string>
+	<key>reducerScopeDistance</key>
+	<string>localizationAndFlyweight</string>
+	<key>streamTaskDelay</key>
+	<string>secondMobileTop</string>
+	<key>topicChainInteraction</key>
+	<string>coordinatorPerObserver</string>
+</dict>
+</plist>

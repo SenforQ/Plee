@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTechniqueLeft</key>
+	<string>delegateJobFrequency</string>
+	<key>callbackJobTag</key>
+	<string>entityAsActivity</string>
+	<key>directlySpriteSaturation</key>
+	<string>bitrateActivityOrientation</string>
+	<key>groupFlyweightCoord</key>
+	<string>topicJobOrientation</string>
+	<key>logShapeShape</key>
+	<string>inheritedLocalizationInteraction</string>
+	<key>navigatorPatternAppearance</key>
+	<string>profileMethodCoord</string>
+	<key>sortedObserverFormat</key>
+	<string>captionSystemBorder</string>
+	<key>symmetricPresenterPosition</key>
+	<string>gestureMethodSaturation</string>
+	<key>tabbarFlyweightHead</key>
+	<string>buttonParameterOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertModeBrightness</key>
+	<string>largeEventFeedback</string>
+	<key>comprehensiveMenuOpacity</key>
+	<string>liteCompletionDuration</string>
+	<key>containerLikeEnvironment</key>
+	<string>inactiveChannelMargin</string>
+	<key>equipmentAtFunction</key>
+	<string>borderPatternTransparency</string>
+	<key>labelLevelType</key>
+	<string>fragmentPhaseSaturation</string>
+	<key>webAspectHue</key>
+	<string>handlerWithoutTier</string>
+</dict>
+</plist>

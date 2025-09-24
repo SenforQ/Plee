@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationIncludeFramework</key>
+	<string>draggablePageviewShade</string>
+	<key>imperativeProgressbarKind</key>
+	<string>requestContainObserver</string>
+	<key>listenerFromTier</key>
+	<string>widgetSinceEnvironment</string>
+	<key>materialAboutCycle</key>
+	<string>errorCommandDuration</string>
+	<key>routerScopeShade</key>
+	<string>pinchableThreadTop</string>
+	<key>sliderOutsideKind</key>
+	<string>durationActivitySaturation</string>
+	<key>touchCommandIndex</key>
+	<string>normKindTop</string>
+</dict>
+</plist>

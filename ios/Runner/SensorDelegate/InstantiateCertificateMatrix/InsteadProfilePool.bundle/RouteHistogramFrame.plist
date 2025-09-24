@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorMementoHue</key>
+	<string>greatStoreDuration</string>
+	<key>chapterCommandBehavior</key>
+	<string>subpixelInsideScope</string>
+	<key>contractionBesideScope</key>
+	<string>requestValueMode</string>
+	<key>discardedGradientMode</key>
+	<string>gesturedetectorFormStatus</string>
+	<key>handlerInWork</key>
+	<string>referenceStyleMargin</string>
+	<key>integerAwayProxy</key>
+	<string>localizationProcessLocation</string>
+	<key>navigationOperationCoord</key>
+	<string>mutableBlocTint</string>
+	<key>petDuringAction</key>
+	<string>routeAlongPlatform</string>
+	<key>rowCompositeName</key>
+	<string>interfacePrototypeShape</string>
+	<key>similarReducerFeedback</key>
+	<string>gridviewFromAdapter</string>
+</dict>
+</plist>

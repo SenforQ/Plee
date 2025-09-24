@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOfTemple</key>
+	<string>asyncWithoutFlyweight</string>
+	<key>dialogsModeDelay</key>
+	<string>allocatorPerStrategy</string>
+	<key>interactiveGesturedetectorRight</key>
+	<string>logFunctionDensity</string>
+	<key>progressbarWorkDepth</key>
+	<string>flexiblePromiseInset</string>
+	<key>sampleBufferPressure</key>
+	<string>sequentialAwaitOrigin</string>
+	<key>taskKindForce</key>
+	<string>delegateAsParam</string>
+</dict>
+</plist>

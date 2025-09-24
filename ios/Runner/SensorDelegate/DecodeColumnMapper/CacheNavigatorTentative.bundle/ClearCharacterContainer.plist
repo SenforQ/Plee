@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorWithoutTask</key>
+	<string>asynchronousMobileStyle</string>
+	<key>coordinatorMediatorSpacing</key>
+	<string>metadataFacadeLeft</string>
+	<key>descriptionContainForm</key>
+	<string>semanticsAwayStrategy</string>
+	<key>labelLayerBrightness</key>
+	<string>containerDuringForm</string>
+	<key>layoutPhaseMomentum</key>
+	<string>statefulAtChain</string>
+	<key>observerStructureValidation</key>
+	<string>skinLikeVisitor</string>
+	<key>protectedListenerBrightness</key>
+	<string>actionKindAppearance</string>
+	<key>shaderAtCycle</key>
+	<string>anchorParamKind</string>
+</dict>
+</plist>

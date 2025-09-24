@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTickerMargin</key>
+	<string>oldUtilInterval</string>
+	<key>effectWorkSaturation</key>
+	<string>numericalArithmeticInteraction</string>
+	<key>grainThroughPrototype</key>
+	<string>ignoredContainerCoord</string>
+	<key>interactorActivityCoord</key>
+	<string>semanticParticleLocation</string>
+	<key>keyControllerSkewy</key>
+	<string>queueObserverFrequency</string>
+	<key>managerTypeHead</key>
+	<string>asyncHeapResponse</string>
+	<key>masterTaskName</key>
+	<string>tabbarOrChain</string>
+	<key>reductionStyleTop</key>
+	<string>borderThanActivity</string>
+	<key>taskActivityOrigin</key>
+	<string>unactivatedRepositoryVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedActivityFeedback</key>
+	<string>permanentCosineEdge</string>
+	<key>invisibleCosineShade</key>
+	<string>elasticObserverBrightness</string>
+	<key>listviewTypeSkewx</key>
+	<string>sharedPreviewSpeed</string>
+	<key>materialDurationInterval</key>
+	<string>inactiveClipperRight</string>
+	<key>pinchableWidgetAppearance</key>
+	<string>exceptionActivityVisibility</string>
+	<key>radioBeyondMode</key>
+	<string>responsiveViewPadding</string>
+	<key>ternaryDecoratorSize</key>
+	<string>fusedSegueRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDuringStyle</key>
+	<string>interactorWithoutNumber</string>
+	<key>adaptiveContainerAppearance</key>
+	<string>navigationTypeSpacing</string>
+	<key>alignmentFormSpacing</key>
+	<string>disparateCaptionTheme</string>
+	<key>groupOfForm</key>
+	<string>descriptionStructureContrast</string>
+	<key>interactorContextRate</key>
+	<string>permissiveRiverpodTransparency</string>
+	<key>positionedSinceAction</key>
+	<string>smallReferenceName</string>
+	<key>sharedCharacterType</key>
+	<string>presenterDespiteParameter</string>
+</dict>
+</plist>

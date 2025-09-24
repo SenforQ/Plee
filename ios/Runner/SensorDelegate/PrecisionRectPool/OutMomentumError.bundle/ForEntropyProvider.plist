@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>matrixLayerSpeed</key>
+	<string>switchLevelAcceleration</string>
+	<key>particleStrategyBrightness</key>
+	<string>graphShapeTint</string>
+	<key>positionLayerEdge</key>
+	<string>intermediateWidgetPressure</string>
+	<key>rectPerStructure</key>
+	<string>modelInsideVar</string>
+	<key>repositoryFacadeDepth</key>
+	<string>crudeFragmentSpacing</string>
+	<key>responseDecoratorForce</key>
+	<string>stackUntilLayer</string>
+	<key>segmentBeyondPrototype</key>
+	<string>instructionLevelSaturation</string>
+	<key>substantialSkirtOffset</key>
+	<string>managerNearStyle</string>
+	<key>utilLikeEnvironment</key>
+	<string>containerWorkHead</string>
+</dict>
+</plist>

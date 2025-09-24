@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowJobResponse</key>
+	<string>menuOrPrototype</string>
+	<key>gestureObserverStatus</key>
+	<string>eventStructureAcceleration</string>
+	<key>modelWithObserver</key>
+	<string>activeCacheTop</string>
+	<key>mutableStreamTop</key>
+	<string>handlerBufferBorder</string>
+	<key>previewSystemShade</key>
+	<string>crudeParticleSize</string>
+	<key>protectedServiceCenter</key>
+	<string>lastTaskDensity</string>
+	<key>sizeOfStyle</key>
+	<string>resilientHashOpacity</string>
+	<key>transitionChainVisible</key>
+	<string>cupertinoUtilFormat</string>
+</dict>
+</plist>

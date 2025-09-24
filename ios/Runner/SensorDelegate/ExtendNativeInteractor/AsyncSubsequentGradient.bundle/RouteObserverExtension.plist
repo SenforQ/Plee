@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInterpreterIndex</key>
+	<string>variantPlatformTag</string>
+	<key>methodPatternSpeed</key>
+	<string>observerFromChain</string>
+	<key>skinFromScope</key>
+	<string>interfaceCommandPosition</string>
+</dict>
+</plist>

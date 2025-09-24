@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationThroughActivity</key>
+	<string>blocCommandInteraction</string>
+	<key>euclideanCosineBound</key>
+	<string>newestTextureVisibility</string>
+	<key>geometricStreamTag</key>
+	<string>baselineModeResponse</string>
+	<key>globalSessionSkewy</key>
+	<string>hashCommandFlags</string>
+	<key>nibPerComposite</key>
+	<string>cupertinoAdapterState</string>
+	<key>positionedOutsideFramework</key>
+	<string>customChannelShade</string>
+	<key>routerUntilFramework</key>
+	<string>columnAndParam</string>
+	<key>rowFormVelocity</key>
+	<string>callbackMementoOrigin</string>
+</dict>
+</plist>

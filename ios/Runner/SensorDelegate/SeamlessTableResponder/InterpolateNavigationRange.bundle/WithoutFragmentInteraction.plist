@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnTierInterval</key>
+	<string>constraintFromPlatform</string>
+	<key>completerInsideMediator</key>
+	<string>eventDuringScope</string>
+	<key>gestureTaskVisible</key>
+	<string>primaryLayoutBottom</string>
+	<key>masterSinceFlyweight</key>
+	<string>advancedOverlayDuration</string>
+	<key>newestVariantScale</key>
+	<string>significantListenerName</string>
+	<key>notifierCompositeBorder</key>
+	<string>sequentialTextTail</string>
+	<key>singletonMethodSize</key>
+	<string>menuViaPattern</string>
+	<key>stateAndProcess</key>
+	<string>smartPositionAlignment</string>
+</dict>
+</plist>

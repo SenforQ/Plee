@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTabbarBehavior</key>
+	<string>fragmentOutsideFunction</string>
+	<key>hyperbolicDocumentPosition</key>
+	<string>immutableObserverSkewy</string>
+	<key>lostProviderShade</key>
+	<string>temporaryInstructionOffset</string>
+	<key>radiusAndCycle</key>
+	<string>invisibleScreenDepth</string>
+	<key>routeAtStyle</key>
+	<string>ephemeralProgressbarBottom</string>
+	<key>transformerJobLocation</key>
+	<string>touchDecoratorLeft</string>
+</dict>
+</plist>

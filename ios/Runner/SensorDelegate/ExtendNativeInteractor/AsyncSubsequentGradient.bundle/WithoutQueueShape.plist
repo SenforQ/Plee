@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBehaviorDepth</key>
+	<string>declarativeDecorationMode</string>
+	<key>durationContextMode</key>
+	<string>futureNearBuffer</string>
+	<key>gridviewPrototypeLocation</key>
+	<string>layoutPrototypeKind</string>
+	<key>handlerInState</key>
+	<string>statelessFactoryRight</string>
+	<key>ignoredActivityBrightness</key>
+	<string>injectionAwayCycle</string>
+	<key>navigatorDuringProxy</key>
+	<string>extensionBesideSingleton</string>
+	<key>originalFeatureShade</key>
+	<string>instructionAsCommand</string>
+	<key>queryBridgeValidation</key>
+	<string>storageProcessTag</string>
+</dict>
+</plist>

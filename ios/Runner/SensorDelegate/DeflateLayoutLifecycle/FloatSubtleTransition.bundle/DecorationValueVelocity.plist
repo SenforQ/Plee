@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStyleAcceleration</key>
+	<string>cellAsBridge</string>
+	<key>descriptorDespiteStrategy</key>
+	<string>layoutFromParam</string>
+	<key>eventActivityRight</key>
+	<string>cellLikeSystem</string>
+	<key>movementPhaseSpeed</key>
+	<string>symmetricTabviewKind</string>
+</dict>
+</plist>

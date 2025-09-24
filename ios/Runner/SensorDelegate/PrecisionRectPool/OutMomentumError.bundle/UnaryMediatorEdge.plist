@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstTextfieldPadding</key>
+	<string>semanticGrainShade</string>
+	<key>globalAlignmentFrequency</key>
+	<string>routerParameterPadding</string>
+	<key>gridviewAroundProxy</key>
+	<string>lazyGraphicCoord</string>
+	<key>layerAwayDecorator</key>
+	<string>subscriptionPerCommand</string>
+	<key>numericalDescriptorStatus</key>
+	<string>completionJobSpacing</string>
+	<key>stateMediatorPadding</key>
+	<string>commandVersusAction</string>
+	<key>widgetForObserver</key>
+	<string>semanticSwitchValidation</string>
+</dict>
+</plist>

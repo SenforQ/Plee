@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSingletonSaturation</key>
+	<string>reusableSubscriptionPosition</string>
+	<key>displayableControllerTint</key>
+	<string>textActivityBrightness</string>
+	<key>immutableTransitionDirection</key>
+	<string>arithmeticEnvironmentBehavior</string>
+	<key>lazyRequestTint</key>
+	<string>workflowBeyondAdapter</string>
+	<key>mobileAllocatorDuration</key>
+	<string>listviewUntilBridge</string>
+	<key>opaqueHistogramTint</key>
+	<string>textureInterpreterTint</string>
+	<key>optimizerNearEnvironment</key>
+	<string>providerNumberAppearance</string>
+</dict>
+</plist>

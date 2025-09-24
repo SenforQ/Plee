@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateSpecifierShape</key>
+	<string>iconMementoBottom</string>
+	<key>explicitBorderFrequency</key>
+	<string>labelMementoTint</string>
+	<key>hashProcessDensity</key>
+	<string>transformerVariableDelay</string>
+	<key>projectionModePadding</key>
+	<string>boxStructureInset</string>
+	<key>protectedSizePosition</key>
+	<string>curvePatternAppearance</string>
+	<key>tappableProjectionCenter</key>
+	<string>specifyFactoryPadding</string>
+	<key>transformerViaParameter</key>
+	<string>graphicVersusStrategy</string>
+</dict>
+</plist>

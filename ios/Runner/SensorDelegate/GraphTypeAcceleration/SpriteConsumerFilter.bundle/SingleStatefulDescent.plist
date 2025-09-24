@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticExtensionVisibility</key>
+	<string>accordionRouteBehavior</string>
+	<key>cacheThroughSingleton</key>
+	<string>controllerWorkShade</string>
+	<key>petChainFrequency</key>
+	<string>layoutActivityOpacity</string>
+	<key>previewStageHead</key>
+	<string>rectAroundMemento</string>
+</dict>
+</plist>

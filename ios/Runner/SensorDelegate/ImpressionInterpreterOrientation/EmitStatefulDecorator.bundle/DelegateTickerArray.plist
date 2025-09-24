@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseCommandFeedback</key>
+	<string>associatedCertificateCoord</string>
+	<key>diversifiedNodeSpeed</key>
+	<string>independentAsyncAcceleration</string>
+	<key>nodeSinceSingleton</key>
+	<string>momentumExceptJob</string>
+	<key>requestStageShade</key>
+	<string>activatedContainerVelocity</string>
+	<key>shaderParameterTail</key>
+	<string>missionSingletonTag</string>
+</dict>
+</plist>

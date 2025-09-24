@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFunctionPressure</key>
+	<string>compositionalZoneTail</string>
+	<key>cellInComposite</key>
+	<string>constInteractorSpeed</string>
+	<key>coordinatorAtSingleton</key>
+	<string>directPositionedShape</string>
+	<key>crudeCacheSize</key>
+	<string>singletonUntilStage</string>
+	<key>cubitProxyFeedback</key>
+	<string>responsiveIconResponse</string>
+	<key>grayscaleDespiteStrategy</key>
+	<string>sharedCubeVisibility</string>
+	<key>symmetricSceneIndex</key>
+	<string>comprehensiveTopicSpeed</string>
+	<key>ternaryOperationBottom</key>
+	<string>contractionStateMode</string>
+</dict>
+</plist>

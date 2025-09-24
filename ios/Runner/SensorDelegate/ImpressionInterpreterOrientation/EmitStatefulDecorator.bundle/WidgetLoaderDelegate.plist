@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyNotifierSpeed</key>
+	<string>textfieldEnvironmentVisible</string>
+	<key>interactorExceptNumber</key>
+	<string>paddingIncludePhase</string>
+	<key>layoutPerSystem</key>
+	<string>providerStyleSaturation</string>
+	<key>pinchableResponseOffset</key>
+	<string>beginnerRiverpodFeedback</string>
+	<key>providerObserverAcceleration</key>
+	<string>visibleSinkFrequency</string>
+	<key>rapidDescriptionLeft</key>
+	<string>intensityVersusActivity</string>
+	<key>synchronousFragmentBehavior</key>
+	<string>sinkAwayEnvironment</string>
+	<key>usecaseValueCoord</key>
+	<string>textfieldTypeMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCursorSkewy</key>
+	<string>storyboardInProxy</string>
+	<key>exceptionFacadeRight</key>
+	<string>inactiveRowRate</string>
+	<key>granularCupertinoMargin</key>
+	<string>multiplicationPlatformSpeed</string>
+	<key>isolateFlyweightPosition</key>
+	<string>priorityByJob</string>
+	<key>mediaModeName</key>
+	<string>configurationStrategyLeft</string>
+	<key>mutableFutureFrequency</key>
+	<string>decorationParameterTop</string>
+	<key>primarySceneMargin</key>
+	<string>sortedInterfaceBehavior</string>
+</dict>
+</plist>

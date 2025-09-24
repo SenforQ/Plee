@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistStageType</key>
+	<string>ternaryPhaseStyle</string>
+	<key>cycleShapeStyle</key>
+	<string>catalystShapeAcceleration</string>
+	<key>dependencySystemLeft</key>
+	<string>viewCycleValidation</string>
+	<key>invisibleProgressbarTension</key>
+	<string>chartOfLayer</string>
+	<key>lossThroughMode</key>
+	<string>liteCapsuleAcceleration</string>
+	<key>menuAndForm</key>
+	<string>materialNibAlignment</string>
+</dict>
+</plist>

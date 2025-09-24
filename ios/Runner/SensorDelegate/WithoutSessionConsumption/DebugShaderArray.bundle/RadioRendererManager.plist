@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateMediatorBrightness</key>
+	<string>logarithmViaBridge</string>
+	<key>easyControllerFeedback</key>
+	<string>reactiveResultOrientation</string>
+	<key>exceptionOrFlyweight</key>
+	<string>unsortedObserverKind</string>
+	<key>sliderAboutVar</key>
+	<string>disabledResourceForce</string>
+	<key>subsequentCoordinatorTheme</key>
+	<string>retainedSliderSpeed</string>
+	<key>titleTierOpacity</key>
+	<string>streamMementoFlags</string>
+	<key>workflowBeyondScope</key>
+	<string>listenerSingletonIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorExceptForm</key>
+	<string>particleModeSaturation</string>
+	<key>groupTaskFrequency</key>
+	<string>sensorViaInterpreter</string>
+	<key>mobxModeShape</key>
+	<string>intermediateCompositionStatus</string>
+	<key>originalCacheTransparency</key>
+	<string>crudeCurveSaturation</string>
+	<key>sustainableEffectCoord</key>
+	<string>frameFlyweightFlags</string>
+	<key>tangentByPattern</key>
+	<string>cursorParameterAppearance</string>
+	<key>textFlyweightSkewx</key>
+	<string>constApertureTint</string>
+</dict>
+</plist>

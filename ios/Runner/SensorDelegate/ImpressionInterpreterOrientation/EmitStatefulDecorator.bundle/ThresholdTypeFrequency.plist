@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyObserverCenter</key>
+	<string>characterObserverVelocity</string>
+	<key>pinchableRouteInset</key>
+	<string>decorationInMode</string>
+	<key>responsiveConstraintPosition</key>
+	<string>presenterValueEdge</string>
+	<key>unactivatedCubitName</key>
+	<string>modulusViaVisitor</string>
+	<key>uniqueInjectionStyle</key>
+	<string>usecaseAndStructure</string>
+</dict>
+</plist>

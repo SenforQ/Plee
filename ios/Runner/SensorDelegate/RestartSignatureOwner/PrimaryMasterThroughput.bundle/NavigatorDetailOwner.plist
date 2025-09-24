@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentScaffoldInterval</key>
+	<string>entityStageDelay</string>
+	<key>draggableEntityVisible</key>
+	<string>smartQueueBehavior</string>
+	<key>flexProcessOpacity</key>
+	<string>imperativeSceneEdge</string>
+	<key>hierarchicalConstraintEdge</key>
+	<string>injectionForVisitor</string>
+	<key>logChainType</key>
+	<string>compositionalSpotVisible</string>
+	<key>publicStreamHead</key>
+	<string>resilientGraphMomentum</string>
+	<key>routerContextHue</key>
+	<string>crucialRadioAcceleration</string>
+	<key>storeOutsideAdapter</key>
+	<string>histogramInterpreterBound</string>
+</dict>
+</plist>

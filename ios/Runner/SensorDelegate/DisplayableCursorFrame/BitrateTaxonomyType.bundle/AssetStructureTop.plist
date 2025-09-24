@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletThroughVar</key>
+	<string>menuTypeSpeed</string>
+	<key>commandFlyweightShade</key>
+	<string>storeBridgeTag</string>
+	<key>decorationOutsideScope</key>
+	<string>builderMementoVisible</string>
+	<key>metadataSystemFormat</key>
+	<string>criticalRowHue</string>
+	<key>momentumParamMomentum</key>
+	<string>exceptionMementoCenter</string>
+	<key>navigatorAsSingleton</key>
+	<string>tickerOfPattern</string>
+</dict>
+</plist>

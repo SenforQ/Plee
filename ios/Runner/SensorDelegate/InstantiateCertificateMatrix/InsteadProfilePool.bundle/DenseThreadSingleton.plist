@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAsBuffer</key>
+	<string>loopVisitorSpeed</string>
+	<key>invisibleTextfieldBound</key>
+	<string>cursorPhaseIndex</string>
+	<key>labelVariableDistance</key>
+	<string>behaviorActivityDelay</string>
+</dict>
+</plist>

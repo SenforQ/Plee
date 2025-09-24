@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphObserverSpeed</key>
+	<string>oldLabelHue</string>
+	<key>navigationInsideValue</key>
+	<string>adaptiveMetadataValidation</string>
+	<key>stackSingletonDepth</key>
+	<string>rowCycleOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAgainstProcess</key>
+	<string>cupertinoBridgeDelay</string>
+	<key>compositionalInterfaceVisible</key>
+	<string>constraintAndFlyweight</string>
+	<key>futureNearObserver</key>
+	<string>zoneLayerSkewy</string>
+	<key>handlerLayerSpacing</key>
+	<string>curveByMediator</string>
+	<key>logSingletonName</key>
+	<string>sliderPerValue</string>
+	<key>queryEnvironmentCoord</key>
+	<string>errorByStyle</string>
+	<key>sliderThanEnvironment</key>
+	<string>subscriptionCommandType</string>
+	<key>toolInAction</key>
+	<string>multiplicationPerProcess</string>
+</dict>
+</plist>

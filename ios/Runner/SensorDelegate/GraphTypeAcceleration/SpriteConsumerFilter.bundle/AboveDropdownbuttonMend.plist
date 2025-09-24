@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBridgeTheme</key>
+	<string>invisibleConvolutionBottom</string>
+	<key>delegateFunctionMargin</key>
+	<string>mapPlatformDensity</string>
+	<key>globalChannelDirection</key>
+	<string>gridStrategyOffset</string>
+	<key>gramLevelKind</key>
+	<string>cupertinoDecoratorMargin</string>
+	<key>persistentSegueAlignment</key>
+	<string>autoRectFeedback</string>
+	<key>projectIncludeStrategy</key>
+	<string>mutableCanvasLocation</string>
+	<key>skirtPhaseHead</key>
+	<string>diversifiedErrorBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphAndAdapter</key>
+	<string>sliderMethodLocation</string>
+	<key>inactiveInterfaceScale</key>
+	<string>sequentialControllerOrientation</string>
+	<key>largeActionMomentum</key>
+	<string>eventActivityBottom</string>
+	<key>positionedBufferForce</key>
+	<string>mutableDurationIndex</string>
+	<key>topicScopeVisible</key>
+	<string>statelessPatternInterval</string>
+	<key>unsortedCanvasPressure</key>
+	<string>tweenSingletonOpacity</string>
+</dict>
+</plist>

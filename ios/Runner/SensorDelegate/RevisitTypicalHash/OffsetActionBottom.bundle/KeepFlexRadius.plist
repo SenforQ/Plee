@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPhaseLocation</key>
+	<string>synchronousCallbackBottom</string>
+	<key>errorTypeVelocity</key>
+	<string>customRequestInteraction</string>
+	<key>gridviewLayerPadding</key>
+	<string>subtleSkirtSize</string>
+	<key>immutableCustompaintBrightness</key>
+	<string>taskAmongFramework</string>
+	<key>rectAdapterOrientation</key>
+	<string>referenceLevelShade</string>
+	<key>requestSinceSingleton</key>
+	<string>arithmeticAsPlatform</string>
+	<key>scrollJobShape</key>
+	<string>agileGateCoord</string>
+	<key>streamFromPlatform</key>
+	<string>batchThroughContext</string>
+</dict>
+</plist>

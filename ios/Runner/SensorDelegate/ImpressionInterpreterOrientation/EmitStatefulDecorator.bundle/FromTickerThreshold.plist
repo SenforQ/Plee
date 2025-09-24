@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteEffectFeedback</key>
+	<string>descriptionModeContrast</string>
+	<key>cubitModeFormat</key>
+	<string>seamlessEffectTransparency</string>
+	<key>decorationVersusParam</key>
+	<string>menuFunctionShape</string>
+	<key>normBeyondFlyweight</key>
+	<string>viewBridgeBorder</string>
+	<key>precisionBeyondPlatform</key>
+	<string>histogramInStage</string>
+	<key>radiusOperationLeft</key>
+	<string>cosineAsForm</string>
+	<key>utilPerFunction</key>
+	<string>bitrateVisitorStatus</string>
+</dict>
+</plist>

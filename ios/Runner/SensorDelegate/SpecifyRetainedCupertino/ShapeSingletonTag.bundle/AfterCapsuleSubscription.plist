@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerBufferValidation</key>
+	<string>offsetDuringMemento</string>
+	<key>interactorLikeMediator</key>
+	<string>geometricNormPosition</string>
+	<key>layoutContainMethod</key>
+	<string>plateActionCount</string>
+	<key>listenerFlyweightOrientation</key>
+	<string>awaitTaskSkewx</string>
+	<key>routerOfFunction</key>
+	<string>switchStageCenter</string>
+	<key>sessionInterpreterDuration</key>
+	<string>serviceFlyweightVisibility</string>
+	<key>streamWithComposite</key>
+	<string>persistentBoxshadowMomentum</string>
+</dict>
+</plist>

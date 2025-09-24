@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFeatureTop</key>
+	<string>euclideanEventCenter</string>
+	<key>factoryAsTemple</key>
+	<string>concurrentMethodCenter</string>
+	<key>ignoredNibType</key>
+	<string>builderInsideInterpreter</string>
+	<key>semanticUsecaseScale</key>
+	<string>concurrentDurationInteraction</string>
+</dict>
+</plist>

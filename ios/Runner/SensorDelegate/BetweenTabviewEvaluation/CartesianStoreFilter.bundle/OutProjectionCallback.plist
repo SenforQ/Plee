@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerKindSkewy</key>
+	<string>decorationEnvironmentSpacing</string>
+	<key>hardBehaviorDistance</key>
+	<string>widgetActionLeft</string>
+	<key>interactorAgainstWork</key>
+	<string>animatedQueuePressure</string>
+	<key>nibVisitorAlignment</key>
+	<string>queueContainTemple</string>
+	<key>offsetCycleVisible</key>
+	<string>errorOutsideStructure</string>
+	<key>pointMementoBrightness</key>
+	<string>appbarViaVariable</string>
+	<key>singletonFacadeVisibility</key>
+	<string>stateContainFlyweight</string>
+	<key>tensorLoopRotation</key>
+	<string>sampleTempleOpacity</string>
+</dict>
+</plist>

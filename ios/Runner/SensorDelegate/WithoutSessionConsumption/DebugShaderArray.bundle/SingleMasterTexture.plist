@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackIncludeVariable</key>
+	<string>synchronousErrorType</string>
+	<key>dependencyThroughObserver</key>
+	<string>anchorAtKind</string>
+	<key>ephemeralInkwellSkewy</key>
+	<string>currentBlocCoord</string>
+	<key>groupKindSkewx</key>
+	<string>nextListenerTheme</string>
+	<key>injectionAtSingleton</key>
+	<string>interfaceInState</string>
+	<key>labelStrategyOrientation</key>
+	<string>challengeVersusAction</string>
+	<key>missedCharacterCenter</key>
+	<string>exceptionPerNumber</string>
+	<key>semanticDialogsHead</key>
+	<string>arithmeticMediatorVisibility</string>
+	<key>streamVarVelocity</key>
+	<string>responsiveIsolateOrientation</string>
+</dict>
+</plist>

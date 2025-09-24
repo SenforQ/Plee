@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistStructureHead</key>
+	<string>menuStrategyForce</string>
+	<key>completionActivityHead</key>
+	<string>primaryRowSpacing</string>
+	<key>delegateAdapterBehavior</key>
+	<string>coordinatorTempleTail</string>
+	<key>lastDurationTheme</key>
+	<string>gridviewOutsideSingleton</string>
+	<key>normalProviderDistance</key>
+	<string>iterativeTimerOffset</string>
+	<key>stateBesideProxy</key>
+	<string>popupAtSystem</string>
+	<key>unsortedBlocDepth</key>
+	<string>timerOfAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchForTier</key>
+	<string>capsuleAmongChain</string>
+	<key>completionDuringType</key>
+	<string>gesturedetectorDuringAction</string>
+	<key>finalObserverTheme</key>
+	<string>mobileInMethod</string>
+	<key>intermediateContainerOpacity</key>
+	<string>backwardGestureAppearance</string>
+	<key>reducerAlongMode</key>
+	<string>liteControllerIndex</string>
+	<key>sequentialInterfaceHue</key>
+	<string>metadataOperationTag</string>
+	<key>smartChannelsResponse</key>
+	<string>controllerParameterAcceleration</string>
+	<key>standaloneInjectionTop</key>
+	<string>capsuleProcessOffset</string>
+</dict>
+</plist>

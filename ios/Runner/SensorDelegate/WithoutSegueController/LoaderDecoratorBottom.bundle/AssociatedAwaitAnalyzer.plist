@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystParameterFeedback</key>
+	<string>fixedObserverDelay</string>
+	<key>errorFormTheme</key>
+	<string>viewStrategyPadding</string>
+	<key>explicitSkinAcceleration</key>
+	<string>touchExceptMediator</string>
+	<key>factoryFromMode</key>
+	<string>presenterContainFacade</string>
+	<key>gestureAmongForm</key>
+	<string>collectionParameterScale</string>
+	<key>iconAndPhase</key>
+	<string>remainderSystemVisibility</string>
+	<key>imageAmongPrototype</key>
+	<string>stepObserverVelocity</string>
+	<key>notifierTempleHead</key>
+	<string>multiplicationThroughPrototype</string>
+	<key>subtleTechniqueFormat</key>
+	<string>entityWithoutState</string>
+	<key>vectorActivitySpacing</key>
+	<string>concurrentRoleTag</string>
+</dict>
+</plist>

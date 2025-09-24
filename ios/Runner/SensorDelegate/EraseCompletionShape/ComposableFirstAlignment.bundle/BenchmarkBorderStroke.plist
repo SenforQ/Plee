@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutActivityTag</key>
+	<string>resilientMaterialDelay</string>
+	<key>matrixAdapterOrientation</key>
+	<string>cubitLayerInteraction</string>
+	<key>mobileWidgetInset</key>
+	<string>layoutBufferIndex</string>
+	<key>usecaseStrategyValidation</key>
+	<string>greatRiverpodKind</string>
+</dict>
+</plist>

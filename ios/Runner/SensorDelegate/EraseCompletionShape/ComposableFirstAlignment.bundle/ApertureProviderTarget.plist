@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxFromLevel</key>
+	<string>providerFrameworkContrast</string>
+	<key>configurationStyleFeedback</key>
+	<string>diffablePlateCoord</string>
+	<key>cursorAgainstType</key>
+	<string>managerStageTheme</string>
+	<key>entityKindDensity</key>
+	<string>desktopPreviewFeedback</string>
+	<key>reactiveCatalystInteraction</key>
+	<string>navigationAwayParameter</string>
+	<key>standaloneMarginBrightness</key>
+	<string>popupStyleTag</string>
+</dict>
+</plist>

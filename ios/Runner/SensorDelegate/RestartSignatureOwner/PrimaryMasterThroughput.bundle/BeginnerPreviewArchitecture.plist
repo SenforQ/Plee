@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAtSystem</key>
+	<string>constIntensityForce</string>
+	<key>subpixelInsideMemento</key>
+	<string>gesturedetectorBufferStyle</string>
+	<key>usecaseParameterColor</key>
+	<string>directThemeAcceleration</string>
+</dict>
+</plist>

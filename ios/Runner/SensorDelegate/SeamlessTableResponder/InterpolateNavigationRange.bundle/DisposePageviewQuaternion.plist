@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionOperationTint</key>
+	<string>entropyOrFunction</string>
+	<key>dedicatedEventBehavior</key>
+	<string>injectionPerOperation</string>
+	<key>exceptionPatternMargin</key>
+	<string>masterBesideMemento</string>
+	<key>profileBridgeOrientation</key>
+	<string>euclideanConvolutionInterval</string>
+	<key>resourceStructureForce</key>
+	<string>diffableStreamBehavior</string>
+	<key>synchronousColumnDensity</key>
+	<string>groupPerChain</string>
+</dict>
+</plist>

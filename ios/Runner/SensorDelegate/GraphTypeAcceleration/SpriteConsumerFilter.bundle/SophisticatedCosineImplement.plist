@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderMethodBottom</key>
+	<string>originalSizePadding</string>
+	<key>hierarchicalAlertVisibility</key>
+	<string>widgetFromPlatform</string>
+	<key>imperativeTextBrightness</key>
+	<string>publicTitleRotation</string>
+	<key>multiPresenterDirection</key>
+	<string>asyncAlignmentLocation</string>
+	<key>responsiveInstructionInteraction</key>
+	<string>semanticTernaryRate</string>
+	<key>themeActionAppearance</key>
+	<string>sensorFlyweightInset</string>
+	<key>workflowMethodRate</key>
+	<string>titleAlongPlatform</string>
+</dict>
+</plist>

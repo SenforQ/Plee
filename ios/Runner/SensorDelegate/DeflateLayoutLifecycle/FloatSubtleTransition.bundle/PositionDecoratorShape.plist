@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionFromFlyweight</key>
+	<string>adaptiveTickerDuration</string>
+	<key>listviewAboutScope</key>
+	<string>priorSineVisible</string>
+	<key>popupIncludeCycle</key>
+	<string>scaffoldSingletonState</string>
+	<key>viewAtScope</key>
+	<string>resolverProxyPosition</string>
+</dict>
+</plist>

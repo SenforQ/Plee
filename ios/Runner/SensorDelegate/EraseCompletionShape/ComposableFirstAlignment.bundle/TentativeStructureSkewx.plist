@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonTaskDirection</key>
+	<string>slashPerVar</string>
+	<key>multiCanvasRate</key>
+	<string>taskByFunction</string>
+	<key>projectInterpreterTension</key>
+	<string>utilPrototypeCoord</string>
+	<key>tweenViaAction</key>
+	<string>eventParameterAlignment</string>
+</dict>
+</plist>

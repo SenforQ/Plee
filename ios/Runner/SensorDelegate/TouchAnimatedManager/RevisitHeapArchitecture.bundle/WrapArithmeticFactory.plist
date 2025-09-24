@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterPerStage</key>
+	<string>inheritedUsageInterval</string>
+	<key>expandedForComposite</key>
+	<string>visibleSpotOffset</string>
+	<key>interpolationUntilType</key>
+	<string>primaryStatelessTail</string>
+	<key>listenerStrategyMomentum</key>
+	<string>transformerAsStyle</string>
+	<key>materialRadiusCoord</key>
+	<string>cosineTempleSaturation</string>
+	<key>multiTabviewTint</key>
+	<string>draggableAlphaValidation</string>
+	<key>sampleVisitorIndex</key>
+	<string>routerWorkBorder</string>
+	<key>viewLikeContext</key>
+	<string>standaloneRowInset</string>
+</dict>
+</plist>

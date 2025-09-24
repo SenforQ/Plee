@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorDuringParameter</key>
+	<string>diffableFeatureScale</string>
+	<key>denseZoneColor</key>
+	<string>commandTypeDirection</string>
+	<key>durationPatternDelay</key>
+	<string>sequentialSpriteDistance</string>
+	<key>injectionStrategyCount</key>
+	<string>tabviewCommandColor</string>
+	<key>particleAtSingleton</key>
+	<string>synchronousTickerSkewy</string>
+	<key>publicCurveValidation</key>
+	<string>transitionChainDuration</string>
+	<key>resourceInsideShape</key>
+	<string>multiRequestType</string>
+	<key>singletonObserverAlignment</key>
+	<string>displayableMarginScale</string>
+	<key>textureEnvironmentRotation</key>
+	<string>blocLayerType</string>
+</dict>
+</plist>

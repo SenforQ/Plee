@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateActionType</key>
+	<string>temporaryLossAppearance</string>
+	<key>effectUntilSystem</key>
+	<string>inheritedImageDensity</string>
+	<key>hierarchicalHandlerDepth</key>
+	<string>progressbarMediatorTint</string>
+	<key>reusableRepositoryOffset</key>
+	<string>directlyCustompaintOffset</string>
+	<key>variantPatternTension</key>
+	<string>getxOrScope</string>
+	<key>viewInsideFramework</key>
+	<string>unaryCycleVelocity</string>
+</dict>
+</plist>

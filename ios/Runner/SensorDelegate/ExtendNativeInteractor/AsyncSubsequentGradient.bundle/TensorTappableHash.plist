@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGridDensity</key>
+	<string>notifierAwayKind</string>
+	<key>desktopKernelSize</key>
+	<string>binaryIncludeSingleton</string>
+	<key>equalizationActionVisible</key>
+	<string>webSkirtDelay</string>
+	<key>gestureBridgePressure</key>
+	<string>configurationAgainstComposite</string>
+	<key>largeBlocMomentum</key>
+	<string>independentSceneOpacity</string>
+	<key>notificationBeyondForm</key>
+	<string>optimizerCommandRight</string>
+	<key>otherTabviewBehavior</key>
+	<string>mediumGraphContrast</string>
+	<key>presenterActivityCoord</key>
+	<string>staticRichtextLocation</string>
+	<key>protectedSessionFrequency</key>
+	<string>presenterParameterColor</string>
+</dict>
+</plist>

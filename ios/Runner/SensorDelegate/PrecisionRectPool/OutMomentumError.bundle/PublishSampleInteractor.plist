@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionBridgeIndex</key>
+	<string>isolateFlyweightOrigin</string>
+	<key>interactorProxyTag</key>
+	<string>mutableCallbackDelay</string>
+	<key>lostStoreMomentum</key>
+	<string>overlayWithCommand</string>
+	<key>presenterWorkOrigin</key>
+	<string>accessibleLogDepth</string>
+	<key>prevObserverTint</key>
+	<string>descriptionFlyweightSpeed</string>
+	<key>rowFrameworkContrast</key>
+	<string>gridviewAgainstMemento</string>
+	<key>scaffoldStrategyFlags</key>
+	<string>composableSpriteDelay</string>
+	<key>textureActivityInteraction</key>
+	<string>exceptionBesideParameter</string>
+</dict>
+</plist>

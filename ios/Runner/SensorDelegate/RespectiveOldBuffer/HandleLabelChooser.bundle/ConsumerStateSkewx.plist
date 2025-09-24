@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalLabelKind</key>
+	<string>unaryFacadeFormat</string>
+	<key>fixedPriorityFeedback</key>
+	<string>opaqueTopicAlignment</string>
+	<key>missedPaddingDirection</key>
+	<string>dependencyTypeType</string>
+	<key>scrollForDecorator</key>
+	<string>diffableInjectionColor</string>
+	<key>sizePatternDelay</key>
+	<string>factoryCompositeFeedback</string>
+	<key>specifierPhaseFeedback</key>
+	<string>semanticChallengeShape</string>
+	<key>textureBridgeBottom</key>
+	<string>blocStateVisibility</string>
+</dict>
+</plist>
